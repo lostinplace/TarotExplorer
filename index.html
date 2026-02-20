@@ -1,13 +1,40 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>sr-tarot-trainer</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarot Arcana Explorer</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body class="m-0 p-0 overflow-hidden bg-[#0a0e1a]">
+  <div id="map" style="width:100vw;height:100vh;"></div>
+  
+  <!-- Discovery counter -->
+  <div id="counter" class="fixed top-4 left-4 z-[1000] bg-[#0a0e1a]/90 text-amber-200 px-4 py-2 rounded-lg border border-amber-900/50 font-mono text-sm backdrop-blur-sm">
+    <span id="counter-num">0</span>/78 discovered
+  </div>
+
+  <!-- Walk selector -->
+  <div id="walks-panel" class="fixed top-4 right-4 z-[1000]">
+    <select id="walk-select" class="bg-[#0a0e1a]/90 text-amber-200 px-3 py-2 rounded-lg border border-amber-900/50 text-sm backdrop-blur-sm cursor-pointer">
+      <option value="">🗺️ Suggested Walks</option>
+      <option value="fools-journey">The Fool's Journey</option>
+      <option value="cups">The Suit of Cups</option>
+      <option value="wands">The Suit of Wands</option>
+      <option value="swords">The Suit of Swords</option>
+      <option value="pentacles">The Suit of Pentacles</option>
+      <option value="threes">The Threes</option>
+    </select>
+  </div>
+
+  <!-- Detail panel -->
+  <div id="detail-panel" class="fixed bottom-0 left-0 right-0 z-[1000] transform translate-y-full transition-transform duration-300 ease-out md:top-0 md:right-0 md:left-auto md:bottom-0 md:w-[420px] md:translate-y-0 md:translate-x-full">
+    <div class="bg-[#0d1117]/95 backdrop-blur-md border-t border-amber-900/30 md:border-t-0 md:border-l max-h-[70vh] md:max-h-full md:h-full overflow-y-auto p-6 text-gray-200">
+      <button id="detail-close" class="absolute top-3 right-3 text-gray-500 hover:text-amber-200 text-xl cursor-pointer">✕</button>
+      <div id="detail-content"></div>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
 </html>
