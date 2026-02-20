@@ -1,0 +1,156 @@
+id: major-00
+name: The Fool
+arcana: major
+suit: null
+rank: 0
+image: RWSa-T-00.png
+symbol: 🃏
+upright:
+  keywords:
+    - Beginnings
+    - Innocence
+    - Spontaneity
+    - Free spirit
+    - Leap of faith
+  meaning: >
+    The Fool steps into the unknown with childlike wonder, trusting the journey
+    without knowing the destination. This is the energy of pure potential —
+    before experience shapes us, before the world tells us what to fear. Every
+    Major Arcana journey begins here: card zero, the unnumbered origin point.
+reversed:
+  keywords:
+    - Recklessness
+    - Naivety
+    - Poor judgment
+    - Fear of the unknown
+    - Stagnation through indecision
+  meaning: >
+    Reversed, The Fool warns of leaping without looking — reckless choices,
+    ignoring obvious dangers, or refusing to learn from past mistakes. But it
+    can also mean the opposite: being so afraid of the cliff that you never
+    step forward at all. The question is whether you're being brave or foolish,
+    and sometimes you can't know until after you jump.
+imagery:
+  - element: Figure stepping off a cliff edge
+    significance: >
+      The Fool is mid-stride, about to walk off a precipice. He doesn't look
+      down. This is not ignorance — it's a fundamentally different relationship
+      to risk. The cliff represents the boundary between the known and the
+      unknown, and The Fool treats it as irrelevant.
+    tradition: Archetypal / Hero's Journey — the departure
+  - element: White rose in left hand
+    significance: >
+      The white rose symbolizes purity and desire without attachment. He carries
+      beauty but doesn't clutch it. In alchemical tradition, the white rose
+      represents the prima materia before transformation — innocence that
+      precedes the Great Work.
+    tradition: Alchemical / Rosicrucian
+  - element: Small white dog at his heels
+    significance: >
+      The dog is variously read as instinct (animal nature following the spirit),
+      a warning (barking at the cliff), or a companion (loyalty on the journey).
+      It represents the natural world's relationship to the spiritual impulse —
+      nature follows where spirit leads, even into the abyss.
+    tradition: Folklore / Alchemical (the dog as guide)
+  - element: Bundle on a stick (bindle) over his shoulder
+    significance: >
+      Everything The Fool owns, carried lightly. The stick is a wand — will and
+      direction. The bundle contains the sum of his experience, but he doesn't
+      rummage through it. He travels light, suggesting that what you carry
+      matters less than your willingness to move.
+    tradition: Wanderer archetype / Hermetic
+  - element: Mountain peaks in the background
+    significance: >
+      The distant mountains represent the heights of spiritual attainment that
+      await — the journey's destination that The Fool cannot yet see. The bright
+      yellow sky suggests divine illumination. He walks away from the mountains,
+      not toward them, because the path is not linear.
+    tradition: Landscape symbolism / Mystical geography
+  - element: Ornate tunic with floral pattern
+    significance: >
+      The elaborate clothing suggests The Fool is not a beggar — he has the
+      resources and knowledge of civilization but chooses the open road anyway.
+      The floral pattern connects him to nature and growth, the ten wheels on
+      his tunic sometimes read as the ten Sephiroth.
+    tradition: Medieval court fool / Kabbalistic
+correspondences:
+  element: Air
+  planet: Uranus
+  zodiac: null
+  hebrew_letter: "Aleph (א)"
+  tree_of_life: "Path 11: Kether (Crown) → Chokmah (Wisdom)"
+  numerology: >
+    0 — the void before creation, the empty set that contains all possibility.
+    Not nothing, but no-thing: the state before differentiation. Zero is both
+    the beginning and the end of the number line.
+  colors:
+    - Yellow (illumination, divine light, air)
+    - White (purity, potential, the unmanifest)
+    - Green (growth, nature, the fertile unknown)
+connections:
+  - card: major-21
+    relationship: polarity
+    description: >
+      The Fool and The World are the alpha and omega of the Major Arcana. The
+      Fool is pure potential, unformed; The World is completion, integration.
+      Card 0 and card 21 — the journey's beginning and end, which are also
+      the same point on a circle.
+  - card: major-01
+    relationship: sequence
+    description: >
+      The Magician is what happens when The Fool's raw potential meets focused
+      will. The leap of faith (0) becomes directed action (1). The Fool
+      carries the tools in his bundle; The Magician lays them on the table.
+  - card: major-12
+    relationship: echo
+    description: >
+      The Hanged Man echoes The Fool's suspension — both figures exist outside
+      normal orientation. The Fool doesn't know he's at a cliff; the Hanged
+      Man deliberately surrenders. Innocence before experience, wisdom after it.
+  - card: major-15
+    relationship: shadow
+    description: >
+      The Devil is The Fool's shadow — freedom perverted into bondage,
+      spontaneity into compulsion. Where The Fool is unattached, The Devil's
+      figures are chained. Both cards involve a choice about whether to leap.
+themes:
+  - "Beginner's mind — the radical openness that expertise destroys"
+  - "The sacred clown — wisdom that comes from outside social convention"
+  - "Entropy and creation — the generative power of disorder and chaos"
+  - "Trust versus recklessness — the knife-edge between faith and foolishness"
+  - "Zero as origin — the mathematical and mystical concept of fertile emptiness"
+questions:
+  - "What would you do if you weren't afraid of looking foolish?"
+  - "Where in your life have you over-prepared as a way to avoid starting?"
+  - "When was the last time you did something without knowing how it would turn out?"
+  - "What are you carrying in your bundle that you could put down?"
+  - "Is your caution protecting you, or just preventing you?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description is deliberately sparse — he calls The Fool 'the spirit
+      in search of experience.' Notice how he avoids the cliff imagery, focusing
+      instead on the spiritual journey.
+    section: "Part II: The Major Trumps — 0. The Fool"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading of The Fool as the card of the entire journey — not just
+      its beginning. Her insight that the numbered cards are the Fool's
+      experiences reframes the whole Major Arcana.
+    section: "Chapter 1: The Fool"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Fool is more explicitly cosmic — connected to the Green Man and
+      Dionysus. Useful for seeing The Fool as a force of nature rather than a
+      naive wanderer.
+    section: "Atu 0: The Fool"
+  - title: Fool's Journey
+    author: Joseph Campbell
+    relevance: >
+      Campbell's monomyth maps directly onto The Fool's passage through the
+      Major Arcana. The departure stage — crossing the threshold — is The Fool's
+      essential act.
+    section: "The Hero with a Thousand Faces, Part I: The Departure"

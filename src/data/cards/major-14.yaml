@@ -1,0 +1,143 @@
+id: major-14
+name: Temperance
+arcana: major
+suit: null
+rank: 14
+image: RWSa-T-14.png
+symbol: ⚗️
+upright:
+  keywords:
+    - Balance
+    - Moderation
+    - Patience
+    - Harmony
+    - Integration
+  meaning: >
+    Temperance pours between two cups, finding the perfect blend. This is the
+    art of balance — combining opposites, practicing patience, walking the
+    middle path. After Death's dramatic clearing, Temperance carefully
+    reconstitutes what remains into something new and harmonious. This is
+    alchemy: not destroying, but transforming through careful combination.
+reversed:
+  keywords:
+    - Imbalance
+    - Excess
+    - Impatience
+    - Discord
+    - Forced integration
+  meaning: >
+    Reversed, Temperance signals excess and imbalance. Too much of a good
+    thing, impatience, or forcing incompatible elements together. You may be
+    trying to rush a process that requires time, or refusing to blend aspects
+    of yourself that need integration. The mixture curdles when you don't
+    respect the proportions.
+imagery:
+  - element: Winged angel pouring water between two cups
+    significance: >
+      The angel — often identified as Michael or Raphael — pours a liquid
+      between two golden cups in a stream that defies gravity, flowing upward
+      from the lower cup. This impossible pour is the point: the mixing of
+      opposites transcends physical law. Conscious and unconscious, spirit
+      and matter, are blended through patience and skill.
+    tradition: Alchemical (the Great Work) / Angelic hierarchy
+  - element: One foot on land, one foot in water
+    significance: >
+      The angel stands at the boundary between solid earth and flowing water —
+      between the conscious and unconscious, the fixed and the fluid. This
+      liminal stance means Temperance operates between worlds, combining
+      what normal experience keeps separate.
+    tradition: Elemental symbolism / Liminal threshold
+  - element: Triangle with a sun/square inside it on the angel's chest
+    significance: >
+      The triangle of fire (spirit) containing the square of matter — the
+      alchemical formula for integrating spirit and matter. This glyph is the
+      card's core equation: divine energy (triangle) expressed through
+      material form (square). The goal of the Work.
+    tradition: Alchemical / Hermetic geometry
+  - element: Path leading to golden crown on the horizon between mountains
+    significance: >
+      A winding path leads from the pool toward distant mountains where a
+      golden light (sometimes a crown or sun) gleams between two peaks. This
+      is the long road of integration — the patient path that leads to
+      illumination. No shortcuts; the path curves for a reason.
+    tradition: Mystical geography / Pilgrim's path
+  - element: Irises growing at the water's edge
+    significance: >
+      The iris flower is named for the Greek goddess of the rainbow — the
+      bridge between heaven and earth. Irises at the threshold of water and
+      land reinforce Temperance's role as mediator. The rainbow itself is
+      white light separated into its components: analysis as the complement
+      of synthesis.
+    tradition: "Greek (Iris) / Floral symbolism"
+correspondences:
+  element: Fire
+  planet: Jupiter
+  zodiac: Sagittarius
+  hebrew_letter: "Samekh (ס)"
+  tree_of_life: "Path 25: Tiphareth (Beauty) → Yesod (Foundation)"
+  numerology: >
+    14 — 1+4=5, the number of mediation (The Hierophant). But where 5
+    mediates through doctrine, 14 mediates through direct experience and
+    experimentation. The alchemist's number — combining and recombining
+    until the proportion is right.
+  colors:
+    - Blue (water, unconscious, the receptive cup)
+    - Gold (solar illumination, the alchemical goal)
+    - Green (nature, growth, the irises)
+    - White (angelic purity, the light being blended)
+connections:
+  - card: major-06
+    relationship: echo
+    description: >
+      The Lovers present a choice between opposites; Temperance blends them.
+      Both feature an angel — in The Lovers, the angel blesses a union; in
+      Temperance, the angel performs the union directly.
+  - card: major-13
+    relationship: sequence
+    description: >
+      Death clears the ground; Temperance rebuilds. After the old form dies,
+      the new form must be carefully assembled from what remains. Destruction
+      followed by patient reconstruction.
+  - card: major-21
+    relationship: echo
+    description: >
+      The World completes what Temperance begins — full integration, the
+      dance of wholeness. Temperance is the process; The World is the result.
+  - card: major-15
+    relationship: polarity
+    description: >
+      Temperance and The Devil are the angel and the demon — integration versus
+      bondage, patience versus compulsion. Temperance blends freely; The Devil
+      chains what should be separate.
+themes:
+  - "The middle way — Buddhist, Aristotelian, and alchemical paths between extremes"
+  - "Process over product — the insight that how you get there matters as much as arriving"
+  - "Integration as healing — the therapeutic reunion of split-off parts of the self"
+  - "Alchemy as metaphor — the transformation of base experience into golden wisdom"
+questions:
+  - "What aspects of yourself are you keeping separate that might be more powerful combined?"
+  - "Where in your life do you need more patience with a process that can't be rushed?"
+  - "What's the difference between compromise and integration — are you settling or synthesizing?"
+  - "What extremes are you bouncing between that might have a middle path?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes the angel as pouring "the essences of life" between the
+      cups. He emphasizes the path to the crown on the horizon — the long
+      journey of spiritual refinement.
+    section: "Part II: The Major Trumps — XIV. Temperance"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads Temperance as the card of healing after Death's crisis.
+      Her treatment of the alchemical symbolism — especially the triangle
+      and square on the angel's robe — is particularly useful.
+    section: "Chapter 14: Temperance"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley renamed this card "Art" and made the alchemical dimension
+      explicit — his version shows the actual chemical wedding. Useful for
+      understanding the card's alchemical subtext.
+    section: "Atu XIV: Art"

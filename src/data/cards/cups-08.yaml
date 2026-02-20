@@ -1,0 +1,125 @@
+﻿id: cups-08
+name: Eight of Cups
+arcana: minor
+suit: cups
+rank: 8
+image: RWSa-C-08.png
+symbol: 🍷
+upright:
+  keywords:
+    - Walking away
+    - Disillusionment
+    - Seeking deeper meaning
+    - Abandonment
+    - Emotional courage
+  meaning: >
+    A figure walks away from eight neatly stacked cups under a waning moon,
+    heading toward barren mountains. This is the brave, painful choice to
+    leave behind something that looks complete but feels hollow. Not
+    everything worth leaving is bad — sometimes you outgrow what once
+    sustained you.
+reversed:
+  keywords:
+    - Fear of change
+    - Staying too long
+    - Aimless drifting
+    - Returning to what was left
+    - Avoidance
+  meaning: >
+    You know you should leave but can't bring yourself to walk away. Fear
+    of the unknown keeps you at a table that no longer feeds you. Or: you
+    left prematurely and now reconsider. Reversed can indicate aimless
+    wandering — leaving without knowing what you're seeking.
+imagery:
+  - element: Figure walking away with a staff, heading toward mountains
+    significance: >
+      The pilgrim or seeker — someone who chooses the difficult path over
+      the comfortable one. The staff marks this as a deliberate journey,
+      not a flight. The mountains ahead represent spiritual challenge and
+      the higher ground that demands effort to reach.
+    tradition: Pilgrimage / spiritual quest
+  - element: Eight cups stacked in two rows with a gap
+    significance: >
+      The cups are neatly arranged — nothing is broken, nothing is spilled.
+      The gap in the top row (space for a ninth) suggests incompleteness
+      despite apparent fullness. You can have almost everything and still
+      feel something essential is missing.
+    tradition: Numerological — eight as material completion seeking spirit
+  - element: Waning moon with eclipsed sun (moon covering sun's face)
+    significance: >
+      The eclipse or crescent moon represents a turning point — the light
+      is partially obscured, suggesting the journey happens in emotional
+      twilight. Not total darkness (despair) but diminished light (doubt).
+      The figure walks by lunar, not solar, guidance — following feeling,
+      not reason.
+    tradition: Astrological / alchemical — the lunar journey
+  - element: Rocky, barren landscape with water in foreground
+    significance: >
+      The terrain ahead is harsh — this isn't an easy path. The water
+      (emotional life) is behind and below; the mountains (spiritual
+      striving) lie ahead. The composition moves from soft to hard,
+      comfort to austerity.
+    tradition: Landscape symbolism — ascent as spiritual growth
+correspondences:
+  element: Water
+  planet: Saturn
+  zodiac: Pisces
+  hebrew_letter: null
+  tree_of_life: "Hod (8 — Splendor)"
+  numerology: >
+    8 — mastery, power, movement. Eights represent the dynamic application
+    of energy. In Cups, the movement is away — the mastery is knowing when
+    to leave. Saturn's discipline applied to the emotional realm.
+  colors:
+    - Red (the cloak — still-living passion carried forward)
+    - Dark blue (night, the unknown, deep water)
+    - Brown/grey (the barren mountains — austerity ahead)
+connections:
+  - card: cups-07
+    relationship: sequence
+    description: >
+      The Seven's fantasies dissolve, and the Eight responds by walking
+      away from illusion toward truth. Disenchantment becomes departure.
+  - card: cups-09
+    relationship: sequence
+    description: >
+      The journey of the Eight leads to the satisfaction of the Nine.
+      You must leave the hollow feast to find the genuine one.
+  - card: major-09
+    relationship: echo
+    description: >
+      The Hermit also walks alone toward higher ground with a staff,
+      seeking truth through solitude. The Eight of Cups is the emotional
+      catalyst that creates a Hermit.
+  - card: pentacles-08
+    relationship: polarity
+    description: >
+      The Eight of Pentacles stays and works diligently; the Eight of
+      Cups leaves and seeks. One finds meaning through dedication to
+      craft; the other through the courage to abandon the familiar.
+themes:
+  - The courage to leave — walking away as an act of integrity, not failure
+  - Outgrowing — what sustains you at one stage may imprison you at the next
+  - The incomplete completion — having everything except the thing that matters
+  - Spiritual seeking — the journey that begins when comfort stops being enough
+questions:
+  - What in your life looks complete but feels hollow?
+  - What would you walk away from if you had the courage?
+  - Are you staying somewhere out of love or out of fear?
+  - What lies on the other side of the mountains you're afraid to climb?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads this as one of the most spiritually significant minor
+      arcana cards — the voluntary sacrifice of emotional comfort for
+      deeper truth. She connects it to Saturn in Pisces as disciplined
+      spiritual seeking.
+    section: "Cups: Eight"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes "decline of a matter, or that a matter which has
+      been thought to be important is really of slight consequence." His
+      reading is cooler than most modern interpretations.
+    section: "Part III: The Minor Arcana — Eight of Cups"

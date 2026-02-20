@@ -1,0 +1,111 @@
+id: pentacles-06
+name: Six of Pentacles
+arcana: minor
+suit: pentacles
+rank: 6
+image: RWSa-P-06.png
+symbol: 🪙
+upright:
+  keywords:
+    - Generosity
+    - Charity
+    - Fairness
+    - Giving and receiving
+    - Power dynamics
+  meaning: >
+    A wealthy merchant holds a balanced scale in one hand while distributing
+    coins to two kneeling figures with the other. Generosity, fair exchange,
+    the circulation of wealth. But look again — the scale measures, the
+    kneeling figures are below him. Every act of giving also defines a power
+    relationship. Who holds the scale?
+reversed:
+  keywords:
+    - Strings attached
+    - Debt
+    - One-sided generosity
+    - Power imbalance
+    - Exploitation
+  meaning: >
+    Reversed, the generosity comes with conditions. Gifts used as leverage,
+    charity that humiliates, debts that create dependency. Or the opposite —
+    refusing to receive because it feels like surrender. The scale tips
+    and the exchange becomes exploitation.
+imagery:
+  - element: Merchant holding a balanced scale
+    significance: >
+      The scale is the card's moral center — justice, fairness, measured
+      giving. But scales also weigh and judge. The merchant decides who gets
+      what and how much. Generosity and power are inseparable here. He is
+      simultaneously charitable and in control.
+    tradition: Justice symbolism / mercantile tradition
+  - element: Two kneeling figures receiving coins
+    significance: >
+      They kneel — gratitude or supplication? The posture is ambiguous by
+      design. Receiving help changes your relationship to the giver. The
+      card doesn't let you ignore this: even benevolent giving creates
+      hierarchy.
+    tradition: Christian charity traditions / social symbolism
+  - element: Six pentacles arranged above the scene
+    significance: >
+      The coins float above all three figures, suggesting that wealth itself
+      is neither the merchant's nor the beggars' — it circulates. The six
+      pentacles belong to the system, not to any individual.
+    tradition: Numerological / economic symbolism
+  - element: Rich robes of the merchant versus rags of the kneeling figures
+    significance: >
+      The visual contrast makes the power dynamic impossible to ignore.
+      Wealth isn't just numbers — it's expressed through clothing, posture,
+      who stands and who kneels. Material inequality is embodied.
+    tradition: Social realism / class symbolism
+correspondences:
+  element: Earth
+  planet: Moon
+  zodiac: Taurus
+  hebrew_letter: null
+  tree_of_life: "Tiphareth (Beauty) — harmony and balance in Earth"
+  numerology: >
+    6 — harmony, reciprocity, balance. The number of equilibrium after
+    the disruption of five. In Pentacles, six restores material order
+    through the act of sharing — but balanced sharing requires awareness
+    of power.
+  colors:
+    - Purple (wealth, authority, the merchant's status)
+    - Gold (the coins, the pentacles — wealth in circulation)
+    - Brown and grey (the kneeling figures — poverty, earth)
+connections:
+  - card: pentacles-04
+    relationship: polarity
+    description: >
+      The Four hoards; the Six distributes. They represent the two extremes
+      of material relationship — clutching and giving. The healthy middle
+      ground lies somewhere between them.
+  - card: pentacles-05
+    relationship: sequence
+    description: >
+      The Five's suffering finds relief in the Six's generosity. These cards
+      often appear in sequence in a reading, suggesting that hardship is
+      followed by help — but help that comes with its own complexities.
+  - card: major-11
+    relationship: echo
+    description: >
+      Justice also holds a scale and makes measured decisions about
+      fairness. The Six of Pentacles is Justice applied to material
+      resources — who deserves what, and who decides.
+themes:
+  - "The politics of generosity — giving as both kindness and power"
+  - "Circulation versus accumulation — wealth as flow"
+  - "The dignity question — how to give and receive without losing yourself"
+questions:
+  - "When you give, is it from genuine generosity or a need to feel powerful?"
+  - "When you receive help, what does it cost your sense of self?"
+  - "Who holds the scale in your most important relationships?"
+  - "What would truly equal exchange look like in your life?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite describes this as a card of 'presents, gifts, gratification' — but the image he commissioned is far more ambiguous than his keywords suggest."
+    section: "Part II: Minor Arcana — Six of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack's reading is particularly sharp on the power dynamics — she asks whose perspective the querent occupies: giver or receiver."
+    section: "Pentacles: Six"

@@ -1,0 +1,132 @@
+﻿id: cups-05
+name: Five of Cups
+arcana: minor
+suit: cups
+rank: 5
+image: RWSa-C-05.png
+symbol: 🍷
+upright:
+  keywords:
+    - Loss
+    - Grief
+    - Regret
+    - Disappointment
+    - Focusing on the negative
+  meaning: >
+    A cloaked figure stares down at three spilled cups while two remain standing
+    behind them, unseen. This is grief that narrows your vision — real loss,
+    but also the tendency to fixate on what's gone while ignoring what remains.
+    The card honors the pain while gently pointing out the bridge home.
+reversed:
+  keywords:
+    - Acceptance
+    - Moving on
+    - Finding what remains
+    - Forgiveness
+    - Recovery
+  meaning: >
+    The figure turns around and sees the two standing cups. Recovery begins not
+    when the pain ends, but when you stop staring exclusively at what was lost.
+    Reversed can mark the moment of acceptance — choosing to cross the bridge
+    rather than stand mourning on this side of the river.
+imagery:
+  - element: Cloaked figure in black, head bowed toward three spilled cups
+    significance: >
+      Grief embodied — the black cloak, the bowed posture, the inability to
+      look away from the loss. The figure's back is turned to the viewer and
+      to the remaining cups, illustrating how mourning can become a kind of
+      tunnel vision. We see what they cannot.
+    tradition: Memento mori / grief iconography
+  - element: Three cups spilled, red liquid flowing out
+    significance: >
+      Three losses — love, connection, or joy poured out and irrecoverable.
+      The red liquid suggests blood or wine, both loaded with sacrificial
+      meaning. What's spilled cannot be gathered back up.
+    tradition: Sacramental — spilled wine as sacrifice
+  - element: Two cups still standing behind the figure
+    significance: >
+      The card's hidden mercy. Not everything is lost — but the figure can't
+      see them yet. The composition forces the reader to notice what the
+      mourner cannot, making this a card about perspective as much as loss.
+    tradition: Compositional / narrative symbolism
+  - element: Bridge leading to a castle or house across a river
+    significance: >
+      The way home still exists. The bridge represents the path back to
+      stability, community, and shelter — but it requires the figure to
+      turn around and walk. Recovery is available but not automatic.
+    tradition: Landscape symbolism — the bridge as transition
+  - element: River flowing between the figure and the distant home
+    significance: >
+      Emotional current that must be crossed. The river separates the place
+      of grief from the place of belonging. Water — the element of Cups —
+      is both the medium of the pain and the thing that must be navigated
+      to reach the other side.
+    tradition: Elemental / mythological (Styx, Jordan)
+correspondences:
+  element: Water
+  planet: Mars
+  zodiac: Scorpio
+  hebrew_letter: null
+  tree_of_life: "Geburah (5 — Severity)"
+  numerology: >
+    5 — disruption, conflict, instability. The midpoint crisis of each suit.
+    Fives break the stability of the Fours. In Cups, the disruption is
+    emotional — loss that shatters the comfortable stagnation of the Four.
+  colors:
+    - Black (mourning, grief)
+    - Red (spilled emotion, passion lost)
+    - Grey (desolation, overcast feeling)
+connections:
+  - card: cups-04
+    relationship: sequence
+    description: >
+      The Four's apathy becomes the Five's grief. What was merely unsatisfying
+      is now actively painful. Discontent gives way to genuine loss.
+  - card: cups-06
+    relationship: sequence
+    description: >
+      After the Five's grief, the Six offers nostalgia — looking back at
+      happier times. The sequence from Five to Six is the movement from
+      mourning to memory, from raw loss to bittersweet remembrance.
+  - card: cups-02
+    relationship: shadow
+    description: >
+      The Five is the shadow of the Two — the grief that becomes possible
+      only because a real bond existed. You can only lose what you once had.
+  - card: swords-03
+    relationship: echo
+    description: >
+      The Three of Swords is heartbreak as a piercing insight; the Five of
+      Cups is heartbreak as lingering grief. One is the wound; the other
+      is the long ache afterward.
+themes:
+  - Grief as tunnel vision — real pain, distorted perspective
+  - What remains — the mercy hidden inside loss
+  - The bridge home — recovery as a choice, not a feeling
+  - Mourning as a stage, not a destination
+questions:
+  - What are you grieving that you haven't fully acknowledged?
+  - What still stands behind you that you've been unable to see?
+  - Is your mourning honoring the loss, or has it become its own trap?
+  - What bridge is waiting for you when you're ready to turn around?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack emphasizes the compositional brilliance — Pamela Colman Smith
+      forces the reader to see what the figure cannot. She reads the card
+      as fundamentally about perspective.
+    section: "Cups: Five"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes "a dark, cloaked figure looking at three prone cups;
+      two others stand upright behind him." His keywords include "loss"
+      but also "inheritance" — something remains.
+    section: "Part III: The Minor Arcana — Five of Cups"
+  - title: Tarot Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's later, deeper treatment explores the Five in the context
+      of the Scorpionic decan — Mars in Scorpio as transformative grief.
+    section: "Five of Cups"

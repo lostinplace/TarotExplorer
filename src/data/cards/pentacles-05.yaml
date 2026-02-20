@@ -1,0 +1,113 @@
+id: pentacles-05
+name: Five of Pentacles
+arcana: minor
+suit: pentacles
+rank: 5
+image: RWSa-P-05.png
+symbol: 🪙
+upright:
+  keywords:
+    - Hardship
+    - Poverty
+    - Exclusion
+    - Illness
+    - Spiritual poverty
+  meaning: >
+    Two ragged figures trudge through snow past a lit stained-glass window
+    depicting five pentacles. They are cold, injured, destitute — and they
+    walk right past the warmth without looking up. This is material hardship
+    compounded by spiritual blindness: the help exists, but suffering has
+    narrowed their vision to the ground beneath their feet.
+reversed:
+  keywords:
+    - Recovery
+    - Accepting help
+    - End of hardship
+    - Spiritual wealth
+    - Turning point
+  meaning: >
+    Reversed, the figures finally look up and see the lit window — or the
+    door beside it. Recovery begins, help is accepted, or you discover that
+    material loss has paradoxically freed you to find something more
+    valuable. The worst is behind you.
+imagery:
+  - element: Two figures in rags walking through snow
+    significance: >
+      The pair suggests shared suffering — poverty is rarely solitary. One
+      figure is bandaged and on crutches; the other is barefoot. They have
+      each other but seem too absorbed in misery to draw comfort from
+      companionship. Suffering can isolate even when you're not alone.
+    tradition: Christian iconography of the poor and afflicted
+  - element: Stained-glass window with five pentacles
+    significance: >
+      The window is lit from within — warmth, sanctuary, spiritual wealth
+      are available. The five pentacles in the glass suggest that material
+      abundance exists in a spiritual dimension even when absent in the
+      physical. The church represents community, charity, refuge. They
+      don't look up.
+    tradition: Christian / ecclesiastical symbolism
+  - element: Snow covering the ground
+    significance: >
+      Winter — the season of scarcity, dormancy, endurance. The Earth
+      element at its coldest and most barren. But snow also melts; winter
+      always ends. The hardship is real but not permanent.
+    tradition: Seasonal / elemental symbolism
+  - element: Bell visible above the church window
+    significance: >
+      The bell calls the faithful, announces sanctuary. It's another signal
+      the figures might hear if they weren't so focused on their suffering.
+      Help isn't just available — it's actively calling to them.
+    tradition: Christian liturgical tradition
+correspondences:
+  element: Earth
+  planet: Mercury
+  zodiac: Taurus
+  hebrew_letter: null
+  tree_of_life: "Geburah (Severity) — loss and restriction in Earth"
+  numerology: >
+    5 — disruption, conflict, instability. The number that breaks the
+    stability of four. In Pentacles, five is material crisis — the moment
+    when the structure fails and you must find a new foundation.
+  colors:
+    - White (snow, cold, barrenness)
+    - Black (the figures' ragged clothes, despair)
+    - Gold and warm light (the window — hope they haven't seen)
+connections:
+  - card: pentacles-06
+    relationship: sequence
+    description: >
+      The Five is deprivation; the Six is generosity. The merchant in the
+      Six may be giving to figures like those in the Five. Recovery from
+      the Five often looks like the Six — receiving help from someone with
+      more.
+  - card: major-16
+    relationship: echo
+    description: >
+      The Tower and the Five of Pentacles both depict figures cast out of
+      a structure. The Tower is sudden; the Five is grinding. Both ask
+      what remains when material security is stripped away.
+  - card: cups-05
+    relationship: echo
+    description: >
+      Both Fives depict loss and grief. The Five of Cups mourns emotional
+      loss but has cups still standing; the Five of Pentacles suffers
+      material loss but has a lit window nearby. Both miss what remains.
+themes:
+  - "The blindness of suffering — how hardship narrows perception"
+  - "Help unasked for — pride, shame, and the refusal to receive"
+  - "Material versus spiritual poverty — which is the real deprivation?"
+  - "The dark night of the soul — necessary passage, not permanent state"
+questions:
+  - "What help is available to you right now that you're not seeing or accepting?"
+  - "Is your current hardship material, spiritual, or both?"
+  - "Who have you walked past while focused on your own pain?"
+  - "What would it cost you to ask for help — and what does it cost you not to?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite describes this as a card of 'material trouble' but note the lit window — his image contains its own remedy."
+    section: "Part II: Minor Arcana — Five of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack's reading focuses on the psychological dimension — how suffering creates tunnel vision that prevents us from seeing available help."
+    section: "Pentacles: Five"

@@ -1,0 +1,121 @@
+﻿id: cups-02
+name: Two of Cups
+arcana: minor
+suit: cups
+rank: 2
+image: RWSa-C-02.png
+symbol: 🍷
+upright:
+  keywords:
+    - Partnership
+    - Mutual attraction
+    - Unity
+    - Connection
+    - Reciprocity
+  meaning: >
+    Two figures face each other and exchange cups in a voluntary, equal bond.
+    This is love as mutual recognition — not infatuation, not possession, but
+    two people choosing each other. Partnerships, engagements, deep friendships,
+    or any relationship built on genuine reciprocity.
+reversed:
+  keywords:
+    - Imbalance in relationship
+    - Broken partnership
+    - Miscommunication
+    - Codependency
+    - Separation
+  meaning: >
+    The exchange becomes unequal. One gives more than they receive, or the
+    connection has curdled into dependency or resentment. Can indicate a
+    breakup, a falling out, or a partnership where the original spark of
+    recognition has been lost. Sometimes simply: bad timing.
+imagery:
+  - element: A man and woman facing each other, each holding a cup
+    significance: >
+      The voluntary exchange — neither compelled, both offering. The equality
+      of their posture is the point: this is not conquest or surrender but
+      mutual choice. The two figures mirror each other, suggesting recognition
+      of self in the other.
+    tradition: Alchemical — the coniunctio, union of opposites
+  - element: Caduceus of Hermes rising between them — two snakes around a winged staff
+    significance: >
+      The caduceus represents healing, commerce, and communication between
+      realms. The two serpents are opposing forces reconciled. In the context
+      of partnership, it suggests that healthy union requires the integration
+      of differences, not their elimination.
+    tradition: Hermetic / Greek — the staff of Hermes/Mercury
+  - element: Lion's head atop the caduceus
+    significance: >
+      The lion symbolizes passion, courage, and raw desire — but here it
+      crowns a symbol of balance. Passion channeled through communication
+      and mutual respect. Some read this as the alchemical Red Lion,
+      representing the solar/masculine principle tamed by relationship.
+    tradition: Alchemical / Hermetic
+  - element: Garlands and pastoral background
+    significance: >
+      The setting is gentle, domestic, peaceful. No drama, no storm — just
+      two people in a garden. The wreaths suggest celebration or ritual,
+      evoking the handfasting or betrothal ceremony.
+    tradition: Pastoral / ceremonial
+correspondences:
+  element: Water
+  planet: Venus
+  zodiac: Cancer
+  hebrew_letter: null
+  tree_of_life: "Chokmah (2 — Wisdom)"
+  numerology: >
+    2 — duality, partnership, reflection. The first number of relationship:
+    it takes two to create a bond, a polarity, a dialogue. The number of
+    choice and of mirroring.
+  colors:
+    - Blue (emotion, trust)
+    - Red (passion, desire)
+    - Gold (the caduceus — sacred union)
+connections:
+  - card: cups-01
+    relationship: sequence
+    description: >
+      The Ace is the seed of emotional potential; the Two is its first
+      directed expression — love finds an object, feeling finds a partner.
+  - card: major-06
+    relationship: echo
+    description: >
+      The Lovers shares the theme of sacred union and choice, but at a
+      cosmic scale. The Two of Cups is the human, everyday version —
+      no angel required, just two people choosing each other.
+  - card: swords-02
+    relationship: polarity
+    description: >
+      The Two of Swords is the mind divided, refusing to choose. The Two
+      of Cups is the heart united, choosing freely. Both are about
+      duality — one resolves it, the other is stuck in it.
+  - card: cups-05
+    relationship: shadow
+    description: >
+      The Five of Cups is what happens when the bond of the Two breaks.
+      The grief of the Five only makes sense in light of the love that
+      the Two established.
+themes:
+  - Sacred reciprocity — love as equal exchange, not transaction
+  - Recognition — seeing yourself reflected in another person
+  - The alchemy of relationship — two becoming something greater than the sum
+  - Chosen bonds — partnership as conscious act, not fate or accident
+questions:
+  - In your closest relationships, is the giving and receiving truly equal?
+  - Who do you recognize as a genuine mirror — someone who reflects your truest self?
+  - What is the difference between partnership and dependency in your life?
+  - When has choosing someone been the bravest thing you've done?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading emphasizes the alchemical dimension — the caduceus
+      as coniunctio. She distinguishes the Two from The Lovers by scale
+      and context.
+    section: "Cups: Two"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes "love, passion, friendship, affinity, union" — note
+      how broadly he frames the card beyond romance.
+    section: "Part III: The Minor Arcana — Two of Cups"

@@ -1,0 +1,115 @@
+id: swords-07
+name: Seven of Swords
+arcana: minor
+suit: swords
+rank: 7
+image: RWSa-S-07.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Deception
+    - Stealth
+    - Strategy
+    - Getting away with something
+    - Cunning
+  meaning: >
+    A figure tiptoes away from a military camp carrying five swords, leaving two
+    behind. The classic image of the thief — but also the strategist. This card
+    asks: are you being clever or dishonest? Sometimes you need to use cunning
+    rather than confrontation. Sometimes you're just stealing.
+reversed:
+  keywords:
+    - Getting caught
+    - Coming clean
+    - Self-deception
+    - Imposter syndrome
+    - Confession
+  meaning: >
+    Reversed, the scheme unravels. You're caught, or the weight of deception
+    becomes unbearable and you confess. Can also point inward — the lies you
+    tell yourself, the ways you steal from your own integrity. Sometimes
+    reversed means the courage to finally be honest.
+imagery:
+  - element: Figure carrying five swords while looking back
+    significance: >
+      The backward glance is key — he's checking if he's been seen. This is
+      not confident action but furtive movement. He carries more than he can
+      manage (five swords) suggesting overreach. Greed or cleverness — the
+      card doesn't decide for you.
+    tradition: RWS moral ambiguity in figure posture
+  - element: Two swords left behind in the ground
+    significance: >
+      He couldn't take everything — the plan has gaps. Whether this represents
+      incomplete deception (evidence left behind) or calculated sacrifice
+      (taking what matters, leaving the rest), something remains.
+    tradition: Narrative symbolism
+  - element: Military camp with colorful tents
+    significance: >
+      The tents suggest an organized group — an army, a community, a system.
+      The thief acts alone against the collective. This could be rebellion
+      against unjust authority or betrayal of those who trusted you.
+    tradition: Military / community symbolism
+  - element: The figure's light, almost dancing step
+    significance: >
+      Smith draws him almost jauntily — there's pleasure in the cleverness.
+      This is not a desperate thief but someone enjoying the game. The
+      lightness suggests either skill or dangerous overconfidence.
+    tradition: RWS character expression
+correspondences:
+  element: Air
+  planet: Moon
+  zodiac: Aquarius
+  hebrew_letter: null
+  tree_of_life: Netzach (Victory) — desire, aesthetics, the drive to get what you want
+  numerology: >
+    7 — inner work, assessment, the number that questions. In Swords, seven
+    turns the mind's sharpness toward strategy and self-interest. Are you
+    being strategic or just sneaky?
+  colors:
+    - Yellow (the sky — exposed, bright, nowhere to hide)
+    - Red (tent accents — the passion or danger he's leaving behind)
+connections:
+  - card: major-01
+    relationship: shadow
+    description: >
+      The Magician channels power transparently; the Seven of Swords uses
+      the same cleverness covertly. Same mental agility, different ethics.
+      The shadow side of "as above, so below" is "what they don't know
+      won't hurt them."
+  - card: swords-05
+    relationship: echo
+    description: >
+      The Five wins through aggression; the Seven wins through stealth.
+      Both involve taking what belongs to others, but the Seven is more
+      calculated and less confrontational.
+  - card: major-07
+    relationship: echo
+    description: >
+      The Chariot moves forward with controlled will; the Seven of Swords
+      moves sideways with cunning. Both sevens involve directed movement
+      and strategy.
+themes:
+  - "The ethics of strategy — when does cleverness become dishonesty?"
+  - "Acting alone against the group — rebellion or betrayal?"
+  - "Self-deception — the lies we tell ourselves about our own motives"
+  - "Incomplete plans — what you leave behind catches up"
+questions:
+  - What are you getting away with, and what is it costing you?
+  - Is your strategy serving a genuine need or just your ego?
+  - What would happen if you were fully transparent right now?
+  - Who are you tiptoeing around, and why?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack explores the card's dual nature — the trickster archetype as
+      both creative and destructive. She connects it to the need for
+      unconventional approaches.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description includes "endeavour, hope, confidence" alongside
+      darker meanings — unusually ambivalent for such a clearly deceptive
+      image.
+    section: "Part III: The Minor Arcana — Suit of Swords"

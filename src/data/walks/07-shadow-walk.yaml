@@ -1,0 +1,1040 @@
+id: shadow-walk
+name: "The Shadow Walk"
+description: >
+  Every card has a mirror. The Shadow Walk visits pairs of cards that
+  illuminate each other through opposition — not as enemies but as two
+  faces of the same force. Light defines shadow; shadow reveals what light
+  conceals. Each pair unfolds in two steps: first the card, then its mirror.
+  This walk teaches polarity thinking — the skill of holding two truths
+  simultaneously without collapsing one into the other.
+author: null
+tradition: "Jungian / Hermetic (coincidentia oppositorum)"
+
+acts:
+  - id: the-personal
+    name: "The Personal Polarities"
+    description: >
+      Pairs that mirror how the self operates — will and receptivity,
+      structure and nurture, agency and surrender. These are the
+      oppositions you live inside every day.
+    steps:
+      - will
+      - stillness
+      - mother
+      - father
+      - doctrine
+      - solitude
+      - choice
+      - bondage
+
+  - id: the-transpersonal
+    name: "The Transpersonal Polarities"
+    description: >
+      Pairs that mirror forces larger than the individual — fate and
+      justice, destruction and hope, fear and clarity. These are the
+      oppositions the cosmos holds, whether you participate or not.
+    steps:
+      - fate
+      - consequence
+      - destruction
+      - hope
+      - fear
+      - clarity
+      - the-step
+      - the-dance
+
+  - id: the-elemental
+    name: "The Elemental Mirrors"
+    description: >
+      Pairs drawn from the Minor Arcana — the same number or situation
+      reflected across different elements. Fire's version of loss versus
+      Water's. Air's prison versus Earth's. The suits as four languages
+      saying the same thing differently.
+    steps:
+      - grief-of-water
+      - grief-of-air
+      - prison-of-air
+      - prison-of-earth
+      - burden-of-fire
+      - burden-of-air
+      - completion-of-water
+      - completion-of-earth
+
+steps:
+  # ============================================================
+  # THE PERSONAL POLARITIES
+  # ============================================================
+
+  # --- Pair 1: The Magician and The High Priestess ---
+
+  - id: will
+    card: major-01
+    title: "Will"
+    narrative: >
+      He stands before a table of tools — wand, cup, sword, pentacle — one
+      hand raised to heaven, one pointing to earth. Above his head, the
+      lemniscate: infinity. Around him, a garden in full bloom. The
+      Magician is the active principle made visible: Mercury, the messenger,
+      the channel between above and below.
+
+
+      Everything about him is directed. The wand in his hand is a single
+      point of focus. The four tools are the four elements, and he commands
+      them all. His posture says: I can shape reality through will. I can
+      translate the divine into the material. I can act.
+
+
+      And he's right. The Magician is not a con artist (that's his shadow).
+      He is genuine power, genuinely wielded. The question he doesn't ask —
+      the question he can't ask, because asking it would stop him — is
+      whether action is always the right response.
+    transition: >
+      Now turn him inside out. Same power, opposite expression. What does
+      the Magician look like when he stops moving?
+    reflection: >
+      Where in your life are you the Magician — directing, channeling,
+      acting? What does that power feel like at its best?
+    aside: >
+      Beth (ב), "house" — the Magician builds containers for power. Mercury
+      governs communication, skill, the translation between realms. His path
+      on the Tree (Kether→Binah) carries the first creative impulse toward
+      form. He is the outbreath.
+
+  - id: stillness
+    card: major-02
+    title: "Stillness"
+    narrative: >
+      She sits between two pillars — black and white — and does nothing.
+      A veil of pomegranates hangs behind her. A scroll rests half-hidden
+      in her lap. No tools on a table. No gesture. No bloom. The garden
+      is behind the veil, invisible. The High Priestess is the receptive
+      principle made visible: the Moon, the keeper, the silence between
+      words.
+
+
+      Everything about her is withheld. The scroll she holds is partially
+      concealed — TORA, or TARO, and you can't read the rest. Her crown
+      is the triple moon. Her throne is the space between opposites. She
+      doesn't channel power. She IS the channel, and the power flows
+      through her because she's not blocking it with effort.
+
+
+      Now hold them both. The Magician without the Priestess is noise —
+      all signal, no silence, all action, no reception. The Priestess
+      without the Magician is paralysis — all depth, no expression, all
+      knowing, no doing. Together they are the rhythm of every creative
+      act: do, then receive. Speak, then listen. Shape, then let the
+      shape speak back.
+    transition: >
+      Will and stillness. The first breath and its pause. The next pair
+      takes this polarity into the world of form — what happens when
+      the active and receptive principles become parents.
+    reflection: >
+      Where in your life are you the Priestess — receiving, holding,
+      knowing without acting? Now: which of these two comes more
+      naturally? What happens when you try to live exclusively from
+      the other?
+    aside: >
+      Gimel (ג), "camel" — the Priestess carries you across the Abyss.
+      The Moon governs cycles, the unconscious, reflected light. Her path
+      (Kether→Tiphareth) descends straight through Da'ath, the Abyss.
+      Beth (Magician) and Gimel (Priestess) both originate in Kether
+      but diverge immediately. The same source, two directions. The
+      same breath, inhale and exhale.
+
+  # --- Pair 2: The Empress and The Emperor ---
+
+  - id: mother
+    card: major-03
+    title: "The Mother"
+    narrative: >
+      Her garden overflows. Wheat at her feet. A river behind her.
+      Cushions, not stone. A scepter tipped with a globe — the world
+      as fruit, as gift, as something that grows without being forced.
+      The shield bears Venus. The crown bears twelve stars.
+
+
+      The Empress is abundance without condition. She doesn't ask what
+      you've earned — she gives because giving is what nature does. The
+      wheat doesn't check your credit score. The river doesn't bill you
+      for water. She is the principle of *more* — more growth, more
+      beauty, more life — and her danger is the same as her gift: she
+      doesn't know when to stop.
+
+
+      A garden without limits becomes a jungle. Love without boundaries
+      becomes engulfment. The Empress can nourish you to death.
+    transition: >
+      Now look up from the garden to the mountain. Same world, no green.
+      Same authority, no cushions.
+    reflection: >
+      Where in your life is the Empress energy — generous, abundant,
+      possibly excessive? What is it feeding?
+    aside: >
+      Daleth (ד), "door" — the Empress is the door between the divine
+      triad and the world of form. Venus governs attraction, beauty,
+      the pull toward life. Her path (Chokmah→Binah) connects the first
+      masculine force to the first feminine form. She is the moment
+      potential becomes something you can touch.
+
+  - id: father
+    card: major-04
+    title: "The Father"
+    narrative: >
+      Stone throne. Bare mountain. Red robes over armor. Rams' heads
+      carved into every surface. An ankh in one hand, an orb in the other.
+      Life and dominion. Law and territory. The Emperor looks at you
+      directly and does not smile.
+
+
+      The Emperor is structure without apology. Where the Empress says
+      "grow," the Emperor says "here, not there." Where she offers the
+      globe as fruit, he holds it as domain. His gift is the thing the
+      garden needs and resents: the wall, the law, the boundary that says
+      "this far and no further." Aries — cardinal fire, the ram that
+      charges, the force that initiates through assertion.
+
+
+      Now hold them together. The Empress without the Emperor is a flood —
+      abundance drowning everything because nothing channels it. The
+      Emperor without the Empress is a desert — walls with nothing alive
+      inside them. Her garden needs his walls. His walls need her garden.
+      Neither will admit it.
+    transition: >
+      Mother and father, garden and mountain. The next pair moves the
+      polarity indoors — into the temple, where the same truth splits
+      into public teaching and private knowing.
+    reflection: >
+      Where in your life is the Emperor energy — structured, boundaried,
+      possibly rigid? Now: where would the Empress's abundance benefit
+      from the Emperor's limits, and where are the Emperor's limits
+      killing the Empress's growth?
+    aside: >
+      Heh (ה), "window" — the Emperor lets you see through structure
+      into what it protects. Aries is the first sign — initiative,
+      assertion, the courage to impose order on chaos. Daleth (door)
+      and Heh (window): the door lets you through, the window lets
+      you see. Empress and Emperor share Chokmah as their origin on
+      the Tree — the same force of initial creation, carried into
+      nurture or into governance.
+
+  # --- Pair 3: The Hierophant and The High Priestess ---
+
+  - id: doctrine
+    card: major-05
+    title: "Doctrine"
+    narrative: >
+      Inside a temple. Grey pillars. Two acolytes kneel. The Hierophant
+      raises one hand in the sign of benediction — two fingers up, two
+      down, the sign of "as above, so below" made institutional. At his
+      feet, two crossed keys: the keys to heaven and earth, to the outer
+      teaching and the inner mystery.
+
+
+      The Hierophant is the public face of spiritual authority. Taurus —
+      fixed earth, the institution that endures. He teaches what can be
+      taught: doctrine, ritual, the inherited forms that carry meaning
+      across generations. His pillars are grey because he has resolved
+      the Priestess's black-and-white duality into a single, transmissible
+      tradition. The tension is gone. The teaching is clear.
+
+
+      But resolution is also reduction. What the Hierophant transmits is
+      real — tradition is not empty. But what he transmits is the part of
+      truth that survives being spoken aloud.
+    transition: >
+      The temple is full. The teaching is clear. Now leave the temple.
+      Walk behind it. Find the other door — the one that doesn't have
+      a congregation.
+    reflection: >
+      What tradition are you part of? What does it give you that you
+      couldn't find alone? And what does it flatten?
+    aside: >
+      Vav (ו), "nail/hook" — the Hierophant connects. He fastens one
+      thing to another: student to teacher, generation to generation,
+      individual to institution. His path (Chokmah→Chesed) carries
+      creative force into mercy — the benevolent structure that
+      sustains community.
+
+  - id: solitude
+    card: major-09
+    title: "Solitude"
+    narrative: >
+      A grey-robed figure stands alone on a mountain peak. No temple.
+      No acolytes. No keys. Just a lantern in one hand — inside it, a
+      six-pointed star — and a staff in the other. Snow below. Darkness
+      around. He didn't inherit his wisdom. He walked into the dark and
+      found it.
+
+
+      The Hermit is the Hierophant's mirror: both are wisdom figures,
+      both carry spiritual authority, both know something worth
+      transmitting. But the Hierophant transmits it. The Hermit doesn't.
+      The Hierophant says "receive this teaching." The Hermit says
+      "find it yourself." The temple gives you the answer. The mountain
+      gives you the conditions to discover it.
+
+
+      Together: two modes of spiritual growth, and every seeker needs
+      both at different times. The Hierophant when you're young and need
+      a framework. The Hermit when you're ready to test that framework
+      against direct experience. Doctrine gives you language. Solitude
+      gives you the thing the language points to.
+
+
+      The Hierophant without the Hermit produces followers who never
+      become seekers. The Hermit without the Hierophant produces seekers
+      who can never communicate what they found. The tradition and the
+      departure from it. The temple and the mountain.
+    transition: >
+      Doctrine and solitude, the temple and the peak. The next pair is
+      the sharpest polarity in the deck — the same two figures, free
+      and chained, in love and in bondage.
+    reflection: >
+      When did you outgrow a teaching — not because it was wrong, but
+      because you needed to find out for yourself? And when have you
+      wished you had a teacher instead of having to figure it out alone?
+    aside: >
+      The Hierophant (Vav, "nail" — connects) and the Hermit (Yod,
+      "hand/spark" — the divine point, the smallest letter). Taurus
+      (fixed earth, the institution) and Virgo (mutable earth, the
+      analyst). Both earth signs, but the Hierophant's earth is the
+      temple built to last; the Hermit's earth is the mountain that
+      was always there. The Hierophant's path (Chokmah→Chesed) moves
+      from creative force to mercy — the benevolent institution. The
+      Hermit's path (Chesed→Tiphareth) moves from mercy to the heart
+      — the personal discovery of beauty through withdrawal.
+
+  # --- Pair 4: The Lovers and The Devil ---
+
+  - id: choice
+    card: major-06
+    title: "Choice"
+    narrative: >
+      Beneath an angel with open arms, two naked figures stand in a garden.
+      Behind one, the Tree of Life. Behind the other, the Tree of
+      Knowledge, with the serpent. The angel watches. The figures are
+      apart, each in their own space, each facing the angel rather than
+      each other.
+
+
+      The Lovers is the moment of conscious choice. Gemini — the twins,
+      duality, the fork in the road. Not just romantic love (though it
+      includes that) but the fundamental human act of selecting one path
+      and abandoning another. The nakedness is innocence: they haven't
+      yet chosen, so they haven't yet lost anything. The garden still
+      holds both trees.
+
+
+      The angel's arms are open because the divine doesn't choose for
+      you. The freedom is total. And total freedom is terrifying, because
+      every yes is also a no, and the no is permanent.
+    transition: >
+      The choice is made. Time passes. And somewhere down the road, the
+      same two figures appear again — but everything has changed.
+    reflection: >
+      What choice defined you most? What did the other path look like
+      from the garden, before you chose?
+    aside: >
+      Zayin (ז), "sword" — the choice itself is the blade that
+      separates one future from another. The Lovers' path (Binah→
+      Tiphareth) connects understanding to the heart. Choice, properly
+      made, is an act of understanding that lands in the heart.
+
+  - id: bondage
+    card: major-15
+    title: "Bondage"
+    narrative: >
+      The same two figures — naked, together — but now they wear horns
+      and tails. Chains loop around their necks, attached to a half-cube
+      pedestal where a horned, winged figure crouches. The angel has
+      become the beast. The garden has become the dungeon. The freedom
+      has become chains.
+
+
+      But look. The chains are loose. The figures could remove them.
+      They don't.
+
+
+      The Devil is the Lovers' shadow — what happens when choice
+      calcifies into compulsion, when freedom is traded for the comfort
+      of not having to choose anymore. The half-cube he sits on is
+      incomplete matter: the material world mistaken for the whole of
+      reality. The inverted pentagram on his forehead is spirit buried
+      beneath the elements.
+
+
+      This is the deck's most devastating mirror because the two cards
+      share their figures. The couple who stood in the garden, free and
+      choosing, is the same couple in chains. They chose — and the
+      choice, over time, became a cage. Not because the choice was wrong.
+      Because they stopped choosing and started clinging.
+
+
+      The Lovers' freedom is terrifying. The Devil's bondage is
+      comfortable. That's the whole polarity. Not good versus evil.
+      Terror versus comfort. And the recognition that comfort, when it
+      replaces choice, IS the evil.
+    transition: >
+      Choice and its shadow. The personal polarities end here. The
+      transpersonal pairs begin with forces that don't care about
+      your choices at all.
+    reflection: >
+      Look at the chains. Where in your life have you traded the
+      Lovers' terrifying freedom for the Devil's comfortable bondage?
+      What does the bondage provide that freedom didn't? And — if you
+      took the chains off — what would you have to face?
+    aside: >
+      Ayin (ע), "eye" — the eye that sees only surfaces. The Lovers
+      (6) and the Devil (15) share a numerological root: 1+5=6. They
+      are the same energy in light and shadow. Zayin (sword, the cut
+      of choice) and Ayin (eye, the gaze that fixates). One separates;
+      the other stares. The Lovers connects Binah to Tiphareth
+      (understanding → heart). The Devil connects Tiphareth to Hod
+      (heart → calculating mind). Love reaches up. Bondage reaches
+      down toward the part of the mind that rationalizes staying
+      chained.
+
+  # ============================================================
+  # THE TRANSPERSONAL POLARITIES
+  # ============================================================
+
+  # --- Pair 5: The Wheel and Justice ---
+
+  - id: fate
+    card: major-10
+    title: "Fate"
+    narrative: >
+      The Wheel turns in the sky. Three figures ride its rim — one
+      ascending, one at the apex holding a sword, one descending. In the
+      four corners, the living creatures read from open books. The Wheel
+      is the mechanism of fate: impersonal, cyclical, indifferent to
+      merit.
+
+
+      Jupiter — expansion without discrimination. The Wheel doesn't
+      reward the good or punish the wicked. It turns. Kings fall.
+      Beggars rise. The sphinx at the top holds a sword — discernment
+      at the peak — but the wheel keeps turning regardless of whether
+      the sphinx approves.
+
+
+      The Wheel says: some things happen to you. Not because of you.
+      Not in response to you. The cosmos has its own rhythm, and your
+      story is caught in it.
+    transition: >
+      The Wheel turns without regard for merit. But immediately beside
+      it sits a figure who cares about nothing except merit.
+    reflection: >
+      When has fortune turned against you for no reason you could
+      identify? How did you make sense of it — or did you?
+    aside: >
+      Kaph (כ), "palm of the hand" — what grasps and what releases.
+      Jupiter governs expansion, luck, the turning of fortune. The
+      Wheel's path (Chesed→Netzach) carries mercy toward desire —
+      fortune is what happens when abundance meets wanting.
+
+  - id: consequence
+    card: major-11
+    title: "Consequence"
+    narrative: >
+      She sits perfectly still. Sword raised in the right hand. Scales
+      balanced in the left. A veil behind her — the Priestess's veil,
+      because Justice and Mystery share a boundary. Her eyes may or may
+      not be covered (versions differ). It doesn't matter. She sees
+      everything. She weighs everything. She is not moved.
+
+
+      Libra — cardinal air, the balance. Justice is the counterweight
+      to the Wheel: where the Wheel says "things change regardless of
+      merit," Justice says "things balance regardless of luck." The
+      sword is precision. The scales are equilibrium. Together they say:
+      the universe keeps accounts.
+
+
+      Now hold them both. The Wheel and Justice operate simultaneously.
+      Some things happen to you (Wheel). Some things happen because of
+      you (Justice). Neither truth cancels the other. The Wheel says
+      your goodness won't protect you from misfortune. Justice says your
+      misfortune won't excuse you from accountability. There is no
+      escape — only the question of how you respond to both.
+    transition: >
+      Fate and consequence, the impersonal and the precise. The next
+      pair is the deck's most violent transition — what happens when
+      structure is destroyed and what grows in the rubble.
+    reflection: >
+      When has consequence found you — exact, precise, proportional —
+      for something you thought you'd gotten away with? Can you hold
+      both truths: that fortune is random AND that actions have
+      consequences?
+    aside: >
+      Lamed (ל), "ox-goad" — the prod that corrects course. Libra
+      balances with precision. The Wheel (10) and Justice (11) are
+      adjacent because fate and consequence are always simultaneous.
+      The sphinx atop the Wheel holds the same sword Justice holds.
+      At the peak of fortune, accountability is already present.
+
+  # --- Pair 6: The Tower and The Star ---
+
+  - id: destruction
+    card: major-16
+    title: "Destruction"
+    narrative: >
+      Lightning from a black sky. The crown blasted from the tower's
+      peak. Two figures falling, head-first, through air thick with
+      Yods — the Hebrew letter of divine sparks, raining down like
+      burning alphabet. The tower was built on rock, built high, built
+      to last. It was not high enough.
+
+
+      Mars — the force that breaks. Peh — the mouth, the word that
+      shatters. The Tower is destruction that doesn't negotiate. Not
+      the Wheel's impersonal turning, not Justice's measured
+      consequence — the lightning bolt that arrives without warning and
+      reveals, in one terrible flash, that the structure was false.
+
+
+      The 22 falling Yods are the 22 Major Arcana. Even in destruction,
+      the sacred rains down. The Tower doesn't destroy truth — it
+      destroys what isn't true, and the truth falls with it, intact,
+      waiting to be gathered.
+    transition: >
+      The rubble settles. The smoke clears. And in the darkness after
+      the explosion, look up.
+    reflection: >
+      What structure in your life has been struck? What did the
+      lightning reveal that the tower was hiding?
+    aside: >
+      Peh (פ), "mouth" — the utterance that undoes. Mars destroys
+      with purpose (even if the purpose isn't visible from inside the
+      falling). The Tower's path (Netzach→Hod) runs horizontally across
+      the Tree — it breaks across the middle, separating what was
+      connected. The crown that falls is the false crown — the
+      authority that was assumed, not earned.
+
+  - id: hope
+    card: major-17
+    title: "Hope"
+    narrative: >
+      Silence. A naked woman kneeling at a pool under eight stars. She
+      pours water from two pitchers — one onto the land, one into the
+      pool. No walls. No crown. No tower. Just skin and starlight and
+      the quiet sound of pouring.
+
+
+      The Star is everything the Tower is not: voluntary, gentle, naked
+      where the Tower was armored, kneeling where the Tower was tall.
+      She holds nothing back. She measures nothing. The water she pours
+      is the knowledge that survived the destruction — the truth that
+      rained down as Yods, now gathered and poured freely.
+
+
+      Together: you cannot have the Star without the Tower. The
+      authenticity she offers — the nakedness, the openness, the freedom
+      from false structure — is only available after the false structure
+      is gone. And the Tower without the Star is meaningless destruction.
+      The lightning has to be followed by the starlight. Catastrophe
+      must produce grace, or it's just cruelty.
+
+
+      The promise of this pair is the deck's deepest promise:
+      destruction is not the end. What the lightning destroys, the
+      starlight heals. But the healing is not a return to what was.
+      The walls are gone forever. She doesn't rebuild them. She kneels
+      in the open and pours.
+    transition: >
+      Destruction and hope, lightning and starlight. The next pair goes
+      deeper — the Moon's fear and the Sun's clarity, the night journey
+      and the dawn.
+    reflection: >
+      What has been your Tower, and what was your Star? Did the Star
+      look like what you expected, or was it smaller, quieter, easier
+      to miss?
+    aside: >
+      Tzaddi (צ), "fishhook" — what draws up from the depths. The
+      Tower's Mars destroys; the Star's Aquarius pours out. Cards 16
+      and 17 are adjacent: the promise is structural. Every Tower is
+      followed by a Star. This is not optimism. This is architecture.
+
+  # --- Pair 7: The Moon and The Sun ---
+
+  - id: fear
+    card: major-18
+    title: "Fear"
+    narrative: >
+      A path winds between two towers toward a horizon that doesn't
+      promise anything. A dog and a wolf howl at a moon with a human
+      face — half-seeing, half-dreaming. From a dark pool, a crayfish
+      emerges. Drops fall like slow dew. Nothing is clear. Nothing is
+      what it appears to be.
+
+
+      Pisces — the last sign, dissolution, the place where boundaries
+      end. Qoph — the back of the head, the part of the brain you
+      can't see. The Moon is the unconscious at full volume: not the
+      Priestess's composed stillness but the disorienting immersion
+      in everything the daylight mind suppresses.
+
+
+      The dog is the tamed self. The wolf is the untamed self. Under
+      the Moon, both howl because neither is in charge. The crayfish
+      is older than either — the content of the psyche that predates
+      language, predates culture, predates mammals. It rises because
+      you've finally gone quiet enough for it to surface.
+    transition: >
+      The path winds. The towers pass. And beyond them —
+    reflection: >
+      What are you afraid of that you haven't looked at directly?
+      Not the rational fear — the one that howls.
+    aside: >
+      Qoph (ק), "back of the head." The Moon's path (Netzach→Malkuth)
+      is the longest descent on the Tree — from emotional desire all
+      the way down to the material world. The fear is the distance.
+      The path is real. The distortions are temporary.
+
+  - id: clarity
+    card: major-19
+    title: "Clarity"
+    narrative: >
+      A child on a white horse beneath an enormous sun with a human
+      face. Sunflowers turning toward the light. A garden wall behind.
+      Arms spread. Naked. Laughing. Free.
+
+
+      The Sun after the Moon is dawn after the longest night. Every
+      distortion the Moon created, the Sun corrects. Every shadow
+      dissolves. Every howling stops. The child rides the same white
+      horse that Death rode — the same animal, purified, now carrying
+      joy instead of transformation.
+
+
+      But the Sun is not the Moon's enemy. The Moon is the Sun's womb.
+      The child is not naive — the child has been through the night and
+      come out. The innocence is earned. The joy is real because the
+      fear was real. The clarity is the Moon's gift, processed through
+      darkness into something that survives daylight.
+
+
+      This is the polarity that resolves most fully: fear and clarity
+      are not opposites. Clarity is what you earn by walking through
+      fear without flinching. The Sun doesn't defeat the Moon. The Sun
+      is what the Moon was for.
+    transition: >
+      Fear and clarity, night and dawn. The final pair is the deck's
+      ultimate polarity — the beginning and the end, the zero and
+      the twenty-one.
+    reflection: >
+      What do you know now, in the sunlight, that you could only have
+      learned in the dark? What fear, fully faced, became a source of
+      clarity?
+    aside: >
+      Resh (ר), "head" — the conscious brain, the front of the head.
+      Qoph (back) and Resh (front): the Moon is what you can't see;
+      the Sun is what you can. Together they are the whole brain, the
+      whole mind, the full scope of human awareness. 18→1+8=9 (the
+      Hermit, walking alone with a lamp). 19→1+9=10→1 (the Magician,
+      creating in full light). Solitude and agency. Darkness and doing.
+
+  # --- Pair 8: The Fool and The World ---
+
+  - id: the-step
+    card: major-00
+    title: "The Step"
+    narrative: >
+      A figure at the edge of a cliff, dressed in motley, carrying a
+      knapsack and a white rose. A small dog at his heels. Mountains
+      behind. The void ahead. He doesn't look down.
+
+
+      Zero — not a number but the space before numbers begin. Aleph —
+      the silent letter, the breath before the first word. Air — the
+      most immaterial element, the one you can't see or hold. The Fool
+      has no history, no identity, no plan. He has potential and a rose
+      and a step.
+
+
+      The step is everything. It's the act that begins the journey
+      before the journey can be understood. The Fool doesn't know what
+      he's doing. That's not ignorance — it's the precondition for
+      discovery. You can't discover what you already know.
+    transition: >
+      He steps. Twenty-one cards later —
+    reflection: >
+      If you could step off a cliff right now — metaphorically,
+      into the unknown — what would you carry? What would you leave?
+    aside: >
+      Aleph (א), "ox" — the primal breath, the beast of burden that
+      carries creation. The Fool is assigned to Air and to the number 0.
+      Some traditions place him at the beginning; some between Judgement
+      and The World. Both are correct — he exists outside the sequence.
+
+  - id: the-dance
+    card: major-21
+    title: "The Dance"
+    narrative: >
+      A figure dances inside a great laurel wreath, holding a wand in
+      each hand. In the four corners, the living creatures — lion, bull,
+      eagle, angel — the same four who watched from the Wheel of Fortune.
+      But they are no longer reading. They are witnessing. The red
+      ribbons that bind the wreath form a lemniscate: infinity.
+
+
+      Twenty-one. Tav — the last letter, the seal. Saturn — the planet
+      of endings and mastery. Earth — the most material element, the one
+      you can touch. The World has everything the Fool lacked: history,
+      identity, integration. The wreath is the journey, the two wands
+      are the Magician's power doubled, the nakedness is the Star's
+      authenticity, the dance is what Temperance was working toward.
+
+
+      Now hold them both. The wreath is an oval. The oval is a zero.
+      The Fool's step and the World's dance are the same motion. The
+      Fool didn't know what he was doing. The World knows everything
+      and does it anyway. Innocence before experience and innocence
+      after experience are the same innocence. The journey was real.
+      And it changed nothing. And it changed everything.
+
+
+      The final polarity resolves itself by refusing to resolve. There
+      is no difference between the step and the dance. That's either
+      the joke or the point. Probably both.
+    transition: null
+    reflection: >
+      If the Fool is who you were before you knew anything, and the
+      World is who you'll be when you've integrated everything — what's
+      the difference? Is there one? And if there isn't, what was the
+      journey for?
+    aside: >
+      Tav (ת), "mark/cross" — the last letter, the signature on the
+      completed work. The Hebrew alphabet begins with Aleph and ends
+      with Tav. The Fool and the World ARE the alphabet. Everything
+      between them is language. Zero and twenty-one. The sum of all
+      numbers from 0 to 21 is 231 — the number of "gates" formed by
+      pairing all 22 Hebrew letters, according to the Sefer Yetzirah.
+      Every polarity in this walk is one of those gates.
+
+  # ============================================================
+  # THE ELEMENTAL MIRRORS
+  # ============================================================
+
+  # --- Pair 9: Two Griefs ---
+
+  - id: grief-of-water
+    card: cups-05
+    title: "Water's Grief"
+    narrative: >
+      Three cups spilled. Wine on the ground. A cloaked figure bowed
+      over the loss. Behind him — unseen — two cups still stand. A bridge
+      leads home.
+
+
+      Water's grief is immersion. The Five of Cups grieves by *feeling* —
+      the loss is emotional, the response is mourning, the figure wraps
+      himself in sorrow like a cloak. He can't see the standing cups
+      because grief has flooded his vision. The world is reduced to the
+      exact shape of what's missing.
+
+
+      Mars in Scorpio — aggressive, transformative emotion turned inward.
+      Geburah — severity. This is grief as occupation. You move into it.
+      You live there. The bridge home exists, but you can't see it because
+      you're facing the wrong direction.
+    transition: >
+      Now the same grief — the same loss, the same shattering — but
+      through a different element. Not felt. Understood.
+    reflection: >
+      When you grieve, do you grieve like the Five of Cups — absorbed
+      in the feeling, unable to see past it? What does the world look
+      like from inside that cloak?
+    aside: >
+      Five of Cups: Mars in Scorpio, Geburah. Water's grief flows —
+      it changes, it moves, eventually it recedes. That's Water's gift
+      and curse: nothing stays. The grief will pass. But while it's
+      here, it's total.
+
+  - id: grief-of-air
+    card: swords-03
+    title: "Air's Grief"
+    narrative: >
+      A heart. Three swords. Rain. Nothing else. No figure, no
+      landscape, no context. Just the wound.
+
+
+      Air's grief is piercing. The Three of Swords grieves by
+      *understanding* — the swords are thoughts that have reached
+      the heart. The breakup you saw coming. The betrayal you
+      understood before you felt it. The diagnosis that explains
+      everything you didn't want explained.
+
+
+      Saturn in Libra — heavy restriction in the sign of relationship.
+      Binah — the dark mother, understanding through form. Water's
+      grief flows and eventually recedes. Air's grief pins. Thoughts
+      don't flow. They hang there, like swords on a wall, precise
+      and immovable, until you pull them out yourself.
+
+
+      Same loss. Different element. Different torture. Water drowns
+      you in feeling. Air pins you with clarity. Which is worse
+      depends on whether you'd rather be unable to see or unable to
+      look away.
+    transition: >
+      Two griefs — one felt, one understood. The next pair explores
+      a different suffering: the prison, built from Air and from Earth.
+    reflection: >
+      And when you grieve like the Three of Swords — pierced by
+      understanding, unable to un-know — what does that feel like?
+      Is it better or worse than the Five of Cups' flood?
+    aside: >
+      Three of Swords: Saturn in Libra, Binah. Both cards live on
+      the left pillar of the Tree — the Pillar of Severity. Geburah
+      (Five of Cups) and Binah (Three of Swords) are severity in
+      action and severity in understanding. Mars attacks; Saturn
+      restricts. Same pillar, different heights, different elements,
+      same lesson.
+
+  # --- Pair 10: Two Prisons ---
+
+  - id: prison-of-air
+    card: swords-08
+    title: "Air's Prison"
+    narrative: >
+      A blindfolded woman stands surrounded by eight swords, loosely
+      bound. The swords don't touch her. The bindings are loose. The
+      path to safety is open. She doesn't move.
+
+
+      Air's prison is made of thoughts. The eight swords are beliefs
+      she mistakes for walls — "I can't," "it's hopeless," "there's
+      no way out." Jupiter in Gemini — the mind expanding into its own
+      labyrinth. Hod — intellect doubled. She is imprisoned by her
+      own analysis of the situation, which is thorough, logical,
+      and wrong.
+
+
+      The escape is seeing — literally removing the blindfold and
+      discovering that the swords are thoughts, and thoughts can be
+      stepped around. The prison dissolves the moment perception
+      changes.
+    transition: >
+      Now a different prison — same paralysis, different material.
+      Not thoughts. Things.
+    reflection: >
+      What beliefs are functioning as walls in your life right now?
+      What would you see if you took the blindfold off?
+    aside: >
+      Eight of Swords: Jupiter in Gemini, Hod. Air's prison is
+      conceptual — it exists only as long as you believe in it. This
+      is the cognitive behavioral therapy card: the swords are
+      automatic thoughts that feel like facts.
+
+  - id: prison-of-earth
+    card: pentacles-04
+    title: "Earth's Prison"
+    narrative: >
+      A figure sits on a stone block, clutching a pentacle to his
+      chest. Two more under his feet. One on his head. The city behind
+      him is grey and lifeless. He has everything. He holds everything.
+      He cannot move.
+
+
+      Earth's prison is made of possessions. The four pentacles are
+      real — not beliefs but actual material things: money, property,
+      status, security. Sun in Capricorn — identity fused with
+      material structure. Chesed — stability that has become rigidity.
+      The pentacle on his head blocks his thinking. The ones under his
+      feet prevent motion. The one on his chest covers his heart.
+
+
+      Air's prison dissolves when you see through it. Earth's prison
+      dissolves when you open your hands. Both are simple. Both are
+      terrifying. The Eight of Swords fears the swords. The Four of
+      Pentacles fears the emptiness that would follow letting go.
+      Different prisons, different locks, same paralysis.
+    transition: >
+      Two prisons — one of thought, one of matter. The next pair turns
+      to what happens at the end: the full weight of Fire and the full
+      weight of Air.
+    reflection: >
+      Which prison is more familiar — the mental cage or the material
+      cage? And which lock is harder to open — the belief or the grip?
+    aside: >
+      Four of Pentacles: Sun in Capricorn, Chesed. Hod (Swords) and
+      Chesed (Pentacles): intellect's maze and mercy's rigidity. Two
+      Sephiroth that should be liberating — thought and kindness —
+      turned into traps. The same Tree, twisted differently.
+
+  # --- Pair 11: Two Burdens ---
+
+  - id: burden-of-fire
+    card: wands-10
+    title: "Fire's Burden"
+    narrative: >
+      A figure staggers toward a town, carrying ten heavy wands. Back
+      bent. Face hidden. He can't see where he's going — only the
+      ground and the weight.
+
+
+      Fire's burden is chosen. Every wand was a creative impulse he
+      pursued, a battle he fought, a victory he claimed. The weight is
+      the consequence of success — the accumulated responsibilities of
+      everything he was passionate enough to build and too stubborn to
+      delegate. Saturn in Sagittarius — the weight of the quest. Malkuth
+      — full manifestation, where everything becomes real and heavy.
+
+
+      He could set some staves down. He doesn't. The burden is
+      voluntary, which makes it noble and stupid in equal measure.
+    transition: >
+      Now the same weight — ten, the number of completion — but
+      through Air. Not carried. Driven in.
+    reflection: >
+      What are you carrying that you chose to pick up? Could you
+      set some of it down? Why don't you?
+    aside: >
+      Ten of Wands: Saturn in Sagittarius, Malkuth. Fire's full
+      manifestation is exhaustion — the creative spark, fully realized,
+      is ten heavy logs.
+
+  - id: burden-of-air
+    card: swords-10
+    title: "Air's Burden"
+    narrative: >
+      A figure lies face-down. Ten swords in their back. Black sky
+      above. Golden dawn at the horizon. Not moving.
+
+
+      Air's burden is imposed. The figure didn't pick up these swords.
+      They were driven in — by circumstances, by other people's words,
+      by the accumulated weight of every thought the suit generated
+      from Ace to Nine. Sun in Gemini — consciousness in the sign of
+      the divided mind. Malkuth — full manifestation.
+
+
+      Fire's burden is what you carry. Air's burden is what carries you
+      down. Fire can set his staves down. Air must wait for dawn. But
+      the dawn IS there — that golden horizon. The Ten of Swords is
+      not just an ending. It's the most dramatic ending possible, which
+      means it's also the floor. Things cannot get worse. And the sky
+      is turning gold.
+
+
+      Two Tens. Both in Malkuth. Both the full weight of their element.
+      Fire's weight is earned. Air's weight is inflicted. Fire's release
+      is a choice (set them down). Air's release is surrender (stop
+      struggling and let the dawn come). Neither is easy.
+    transition: >
+      Two burdens, two collapses. The final pair steps back from
+      suffering and looks at completion — what wholeness looks like
+      in Water and Earth.
+    reflection: >
+      Are your burdens the Wands kind (chosen, earned, voluntary) or
+      the Swords kind (imposed, inflicted, involuntary)? Which is
+      harder to put down?
+    aside: >
+      Ten of Swords: Sun in Gemini, Malkuth. Both Tens are in
+      Malkuth — the material world, where everything is real and
+      heavy and consequential. Saturn (Wands) restricts the quest.
+      Sun (Swords) illuminates the divided mind. The Aces promised.
+      The Tens deliver.
+
+  # --- Pair 12: Two Completions ---
+
+  - id: completion-of-water
+    card: cups-10
+    title: "Water's Completion"
+    narrative: >
+      A couple stands with arms raised beneath a rainbow of ten cups.
+      Two children dance beside them. A house in a green landscape. The
+      scene is domestic, joyful, present-tense. The rainbow is a
+      covenant — the promise after the flood.
+
+
+      Water's completion is relational. Mars in Pisces — active
+      emotional force in the sign of universal feeling. The Ten of Cups
+      is joy shared — not the private satisfaction of the Nine but the
+      communal fulfillment that requires other people. The children dance
+      because joy, fully realized, creates more of itself. The rainbow
+      says: the emotional storm happened. The flood came. And this is
+      what grew after.
+
+
+      Water's answer to "was it enough?" is: did you love well? Were
+      you present? Did the joy survive the grief?
+    transition: >
+      Now the same completion — ten, fullness, Malkuth — through Earth.
+      Not present joy. Enduring structure.
+    reflection: >
+      What does your Ten of Cups look like — your vision of emotional
+      wholeness? Is it behind you, ahead of you, or the thing you're
+      standing in right now?
+    aside: >
+      Ten of Cups: Mars in Pisces, Malkuth. The rainbow is Genesis —
+      the covenant after the flood. The suit began with a dove
+      (Ace) and ends with a rainbow. Both are post-deluge symbols.
+
+  - id: completion-of-earth
+    card: pentacles-10
+    title: "Earth's Completion"
+    narrative: >
+      An old man sits beneath an archway carved with ten pentacles —
+      arranged in the pattern of the Tree of Life. A couple stands
+      before him. Dogs rest at his feet. An estate stretches behind.
+      The scene is multigenerational, prosperous, enduring. The old
+      man sits in shadow.
+
+
+      Earth's completion is structural. Mercury in Virgo — craft and
+      communication in the sign of service. The Ten of Pentacles is
+      wealth that outlasts the person who built it — the house, the
+      name, the legacy carved in stone. The ten pentacles form the
+      Tree of Life because the material world, fully realized, contains
+      the divine pattern.
+
+
+      But the old man sits apart. The couple doesn't look at him. The
+      dogs notice him more than the humans. Earth's completion has a
+      cost the cups didn't show: you build it, you pass it on, and
+      the world moves forward without you.
+
+
+      Water's completion asks: did you love well? Earth's completion
+      asks: did you build well? And behind both: was it enough?
+      Together they describe the fullest possible life — one that
+      loved deeply AND built enduringly. The deck doesn't say which
+      matters more. The Shadow Walk leaves you holding both.
+    transition: null
+    reflection: >
+      Which completion calls to you — the rainbow or the legacy? The
+      joy of the present or the endurance of the structure? Must you
+      choose?
+    aside: >
+      Ten of Pentacles: Mercury in Virgo, Malkuth. Both Tens in
+      Malkuth — full manifestation. The Cups' rainbow is ephemeral
+      (light and water). The Pentacles' arch is stone (carved and
+      permanent). One completion lives in the moment. The other
+      lives in the generations. Together: the full scope of what
+      a life can mean.
+
+connections:
+  - walk: fools-journey
+    relationship: counterpoint
+    description: >
+      The Fool's Journey presents the Major Arcana as a linear story.
+      The Shadow Walk takes pairs from that story and holds them still,
+      side by side, showing what the sequence hides: every card has a
+      twin, and the story is a web of mirrors, not just a path.
+  - walk: descent-and-return
+    relationship: parallel
+    description: >
+      The Descent explores one half of several polarities — the dark
+      half, the downward half. The Shadow Walk shows the other half
+      alongside it, refusing to let you see the darkness without also
+      seeing the light it defines.
+  - walk: four-lives-swords
+    relationship: deepens
+    description: >
+      The elemental pairs pull cards from the suit walks and
+      recontextualize them. The Three of Swords as a step in the Life
+      of Air means one thing; paired with the Five of Cups here, it
+      reveals something else entirely.

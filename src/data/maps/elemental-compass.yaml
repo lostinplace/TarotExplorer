@@ -1,0 +1,151 @@
+id: elemental-compass
+name: Elemental Compass
+description: >
+  Four suits radiating outward from a central ring of Major Arcana, organized by
+  element and cardinal direction. The simplest and most intuitive map — you see
+  at a glance how the four elements relate and contrast. Pip cards radiate from
+  center (Ace nearest) to edge (Ten farthest). Court cards anchor the outer rim.
+
+canvas:
+  width: 5000
+  height: 5000
+
+regions:
+  - id: center
+    name: "Major Arcana"
+    description: "The 22 trumps arranged in a circle at the heart of the compass — the archetypal forces that transcend any single element."
+    center: [2500, 2500]
+    radius: 700
+
+  - id: north
+    name: "Earth / North — Pentacles"
+    description: "The material world. Body, money, craft, nature. Slow, steady, tangible. Winter."
+    center: [2500, 800]
+    radius: 600
+
+  - id: east
+    name: "Air / East — Swords"
+    description: "The mind. Thought, conflict, truth, communication. Quick, cutting, clear. Spring."
+    center: [4200, 2500]
+    radius: 600
+
+  - id: south
+    name: "Fire / South — Wands"
+    description: "Will and spirit. Ambition, creativity, passion, action. Hot, expansive, transformative. Summer."
+    center: [2500, 4200]
+    radius: 600
+
+  - id: west
+    name: "Water / West — Cups"
+    description: "Emotion and intuition. Love, dreams, relationships, the unconscious. Deep, flowing, receptive. Autumn."
+    center: [800, 2500]
+    radius: 600
+
+paths:
+  # Elemental axes
+  - { from: north, to: south, label: "Earth ↔ Fire (Material ↔ Spiritual)", style: dashed }
+  - { from: east, to: west, label: "Air ↔ Water (Mind ↔ Heart)", style: dashed }
+  # Complementary diagonals
+  - { from: north, to: east, label: "Earth + Air (Practical thought)", style: faint }
+  - { from: east, to: south, label: "Air + Fire (Inspired action)", style: faint }
+  - { from: south, to: west, label: "Fire + Water (Passionate feeling)", style: faint }
+  - { from: west, to: north, label: "Water + Earth (Embodied intuition)", style: faint }
+
+cards:
+  # === MAJOR ARCANA — circle at center ===
+  # 22 cards evenly spaced on a circle of radius ~550 around (2500, 2500)
+  # Starting at top (north), going clockwise
+  major-00: [2500, 1950]      # Fool — top (between all elements)
+  major-01: [2660, 1960]      # Magician
+  major-02: [2800, 2010]      # High Priestess
+  major-03: [2920, 2100]      # Empress
+  major-04: [2990, 2230]      # Emperor
+  major-05: [3020, 2380]      # Hierophant
+  major-06: [3010, 2540]      # Lovers
+  major-07: [2960, 2690]      # Chariot
+  major-08: [2870, 2820]      # Strength
+  major-09: [2750, 2920]      # Hermit
+  major-10: [2610, 2980]      # Wheel of Fortune
+  major-11: [2460, 3010]      # Justice
+  major-12: [2310, 2990]      # Hanged Man
+  major-13: [2170, 2930]      # Death
+  major-14: [2060, 2840]      # Temperance
+  major-15: [1980, 2720]      # Devil
+  major-16: [1940, 2570]      # Tower
+  major-17: [1940, 2410]      # Star
+  major-18: [1980, 2260]      # Moon
+  major-19: [2050, 2120]      # Sun
+  major-20: [2160, 2010]      # Judgement
+  major-21: [2300, 1950]      # World
+
+  # === PENTACLES — North (Earth) ===
+  # Aces nearest center, 10s farthest. Radiating upward from center.
+  pentacles-01: [2500, 1700]  # Ace — closest to center
+  pentacles-02: [2400, 1550]
+  pentacles-03: [2600, 1550]
+  pentacles-04: [2300, 1400]
+  pentacles-05: [2500, 1400]
+  pentacles-06: [2700, 1400]
+  pentacles-07: [2350, 1250]
+  pentacles-08: [2500, 1200]
+  pentacles-09: [2650, 1250]
+  pentacles-10: [2500, 1050]  # Ten — farthest from center
+  # Court cards — outer rim
+  pentacles-11: [2200, 500]   # Page
+  pentacles-12: [2400, 400]   # Knight
+  pentacles-13: [2600, 400]   # Queen
+  pentacles-14: [2800, 500]   # King
+
+  # === SWORDS — East (Air) ===
+  # Radiating rightward from center
+  swords-01: [3300, 2500]
+  swords-02: [3450, 2400]
+  swords-03: [3450, 2600]
+  swords-04: [3600, 2300]
+  swords-05: [3600, 2500]
+  swords-06: [3600, 2700]
+  swords-07: [3750, 2350]
+  swords-08: [3800, 2500]
+  swords-09: [3750, 2650]
+  swords-10: [3950, 2500]
+  # Court cards — outer rim
+  swords-11: [4500, 2200]
+  swords-12: [4600, 2400]
+  swords-13: [4600, 2600]
+  swords-14: [4500, 2800]
+
+  # === WANDS — South (Fire) ===
+  # Radiating downward from center
+  wands-01: [2500, 3300]
+  wands-02: [2400, 3450]
+  wands-03: [2600, 3450]
+  wands-04: [2300, 3600]
+  wands-05: [2500, 3600]
+  wands-06: [2700, 3600]
+  wands-07: [2350, 3750]
+  wands-08: [2500, 3800]
+  wands-09: [2650, 3750]
+  wands-10: [2500, 3950]
+  # Court cards — outer rim
+  wands-11: [2200, 4500]
+  wands-12: [2400, 4600]
+  wands-13: [2600, 4600]
+  wands-14: [2800, 4500]
+
+  # === CUPS — West (Water) ===
+  # Radiating leftward from center
+  cups-01: [1700, 2500]
+  cups-02: [1550, 2400]
+  cups-03: [1550, 2600]
+  cups-04: [1400, 2300]
+  cups-05: [1400, 2500]
+  cups-06: [1400, 2700]
+  cups-07: [1250, 2350]
+  cups-08: [1200, 2500]
+  cups-09: [1250, 2650]
+  cups-10: [1050, 2500]
+  # Court cards — outer rim
+  cups-11: [500, 2200]
+  cups-12: [400, 2400]
+  cups-13: [400, 2600]
+  cups-14: [500, 2800]

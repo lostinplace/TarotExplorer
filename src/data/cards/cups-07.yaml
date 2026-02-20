@@ -1,0 +1,127 @@
+﻿id: cups-07
+name: Seven of Cups
+arcana: minor
+suit: cups
+rank: 7
+image: RWSa-C-07.png
+symbol: 🍷
+upright:
+  keywords:
+    - Fantasy
+    - Illusion
+    - Wishful thinking
+    - Choices
+    - Temptation
+  meaning: >
+    A shadowy figure gazes up at seven cups floating in a cloud, each
+    containing a different vision — jewels, a wreath, a castle, a dragon,
+    a veiled figure, a serpent, a glowing head. This is the seductive
+    paralysis of too many options, or imagination untethered from reality.
+    Not all that glitters is gold, and not all these cups contain what
+    they promise.
+reversed:
+  keywords:
+    - Clarity of purpose
+    - Cutting through illusion
+    - Determined choice
+    - Overwhelm
+    - Disillusionment
+  meaning: >
+    The fog clears. You see through the fantasies and make a concrete choice,
+    or the illusions collapse and you're left with reality — which may be
+    disappointing but is at least solid. Can also indicate overwhelm from
+    too many options, leading to complete withdrawal rather than decision.
+imagery:
+  - element: Silhouetted figure gazing up at floating cups in clouds
+    significance: >
+      The figure is in shadow — undefined, unclear even to themselves. They
+      gaze upward rather than forward, lost in possibility rather than engaged
+      with reality. The cloud supporting the cups tells you these visions
+      have no foundation.
+    tradition: Dream/vision iconography
+  - element: Seven cups each containing a different vision
+    significance: >
+      Each cup holds a different desire or fear — wealth (jewels), victory
+      (wreath), security (castle), fear (dragon/serpent), beauty (veiled
+      figure), illumination (glowing head). They represent the full
+      spectrum of what the imagination can conjure when untethered. Some
+      are gifts, some are traps, and you can't tell which is which.
+    tradition: Hermetic — the seven classical planets as seven desires
+  - element: The dragon emerging from one cup
+    significance: >
+      Not all fantasies are pleasant. Among the treasures and laurels lurks
+      a dragon — fear, danger, the shadow side of desire. Fantasy includes
+      anxiety as much as wish-fulfillment. The imagination doesn't
+      discriminate between hopes and terrors.
+    tradition: Alchemical — the dragon as untransformed prima materia
+  - element: Clouds surrounding and supporting the cups
+    significance: >
+      Nothing here is grounded. Clouds are the traditional symbol of
+      illusion, the veil between the seen and unseen. These cups float
+      because they're not real yet — they're projections, not possessions.
+    tradition: Elemental — Air/Water boundary as illusion
+correspondences:
+  element: Water
+  planet: Venus
+  zodiac: Scorpio
+  hebrew_letter: null
+  tree_of_life: "Netzach (7 — Victory)"
+  numerology: >
+    7 — introspection, spiritual seeking, the inner journey. Sevens across
+    all suits involve an internal challenge. In Cups, the challenge is
+    discernment — separating genuine desire from fantasy, vision from
+    delusion.
+  colors:
+    - Grey (fog, confusion, the undefined)
+    - Gold (alluring treasures, false promises)
+    - Black (shadow, the unknown figure)
+connections:
+  - card: cups-06
+    relationship: sequence
+    description: >
+      The Six's nostalgia tips into the Seven's fantasy. Pleasant memories
+      become projections, and looking backward becomes dreaming forward
+      without grounding.
+  - card: cups-08
+    relationship: sequence
+    description: >
+      The Eight is the response to the Seven — walking away from illusion
+      in search of something real. The disillusionment that follows fantasy.
+  - card: major-18
+    relationship: echo
+    description: >
+      The Moon also deals with illusion, fear, and the deceptive landscape
+      of the unconscious. The Seven of Cups is the personal, everyday
+      version — the Moon is the full nocturnal journey.
+  - card: swords-07
+    relationship: echo
+    description: >
+      Both Sevens involve deception. The Seven of Swords deceives others;
+      the Seven of Cups deceives yourself. One is strategy; the other
+      is self-delusion.
+themes:
+  - Imagination as double-edged — creative vision vs. escapist fantasy
+  - The paradox of choice — too many options as a form of paralysis
+  - Desire unexamined — wanting without knowing why
+  - Discernment — the discipline of separating real from unreal
+questions:
+  - Which of your current desires are genuine, and which are fantasies you'd never actually want if they materialized?
+  - Where are you substituting daydreaming for action?
+  - What would clarity look like right now — if you could only choose one cup, which would it be?
+  - What are you afraid to see clearly?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack catalogs each of the seven visions and their possible meanings,
+      reading them as a map of human desire. She connects the card to the
+      challenge of Netzach — victory through discernment.
+    section: "Cups: Seven"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite lists "fairy favours, images of reflection, imagination" —
+      note his emphasis on reflection and imagination as both gift and
+      danger. His divinatory meanings include "desire, will, determination"
+      alongside the illusions.
+    section: "Part III: The Minor Arcana — Seven of Cups"

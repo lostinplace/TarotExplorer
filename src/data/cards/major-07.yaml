@@ -1,0 +1,138 @@
+id: major-07
+name: The Chariot
+arcana: major
+suit: null
+rank: 7
+image: RWSa-T-07.png
+symbol: 🏇
+upright:
+  keywords:
+    - Determination
+    - Willpower
+    - Victory
+    - Control
+    - Forward momentum
+  meaning: >
+    The Chariot surges forward through sheer force of will. Opposing forces are
+    harnessed and directed — this is triumph through discipline, not luck. The
+    charioteer doesn't eliminate the contradictions; he masters them. Victory
+    here requires holding tension, not resolving it.
+reversed:
+  keywords:
+    - Lack of direction
+    - Aggression
+    - Powerlessness
+    - Scattered energy
+    - Pyrrhic victory
+  meaning: >
+    Reversed, the charioteer loses control. Directionless aggression, self-doubt,
+    or trying to force outcomes that require patience. Can also mean a victory
+    that costs too much — winning the battle while losing everything that
+    mattered. Control without wisdom.
+imagery:
+  - element: Armored figure standing in a stone chariot
+    significance: >
+      The charioteer stands — he does not sit. This is active will, not passive
+      rule. His armor is decorated with alchemical and astrological symbols,
+      including crescent moons on his shoulders. He carries no reins and holds
+      no whip. He directs the sphinxes through will alone, not physical force.
+    tradition: Triumphal / Alchemical
+  - element: Black and white sphinxes
+    significance: >
+      One black, one white — opposing forces, like the Priestess's pillars now
+      in motion. They pull in different directions unless mastered. Sphinxes
+      combine human intelligence with animal power — these are not dumb beasts
+      but conscious forces that must be directed through understanding, not
+      brute control.
+    tradition: Egyptian (Great Sphinx) / Hermetic duality
+  - element: Canopy of stars on blue
+    significance: >
+      The canopy over the charioteer depicts the celestial vault — he carries
+      heaven with him. Six-pointed stars suggest the macrocosm. The message:
+      his journey is not merely physical but spiritual. He moves through the
+      world under divine authority.
+    tradition: Astrological / Masonic (celestial canopy)
+  - element: City walls behind him
+    significance: >
+      The chariot has left the city — civilization, safety, the known world.
+      He ventures into the field of action. This is the moment of departure,
+      the hero leaving home with the confidence of structured preparation
+      (cards I-VI) behind him.
+    tradition: Hero's Journey / Classical triumph
+  - element: Winged sun disc on the chariot's front
+    significance: >
+      The Egyptian winged sun — divine protection and the elevated soul. Also a
+      symbol of the union of opposites (the two wings) under a single solar
+      principle. The chariot itself is a vehicle for the integrated self.
+    tradition: Egyptian / Hermetic
+correspondences:
+  element: Water
+  planet: Moon
+  zodiac: Cancer
+  hebrew_letter: "Cheth (ח)"
+  tree_of_life: "Path 18: Binah (Understanding) → Geburah (Severity)"
+  numerology: >
+    7 — the number of the mystic, the seeker, the inner journey. Seven
+    planets, seven days, seven stages of alchemy. After six (harmony), seven
+    introduces motion and quest — the drive to go beyond what is known.
+  colors:
+    - Blue (water, emotion, the unconscious harnessed)
+    - Yellow (stars, divine will, intellect)
+    - Black and white (duality in motion)
+connections:
+  - card: major-01
+    relationship: echo
+    description: >
+      The Magician's focused will expressed in motion. The Magician stands at
+      his table; The Chariot takes that same willpower onto the road. Static
+      potential becomes kinetic force.
+  - card: major-08
+    relationship: sequence
+    description: >
+      The Chariot conquers through external will; Strength masters through
+      internal patience. The progression from 7 to 8 is the shift from forcing
+      your way through to finding a gentler kind of power.
+  - card: major-13
+    relationship: shadow
+    description: >
+      Death is The Chariot's shadow — the unstoppable force that no will can
+      master. The Chariot says "I will prevail"; Death says "not this time."
+      Both ride forward; only one can be directed.
+  - card: major-18
+    relationship: echo
+    description: >
+      Cancer rules both The Chariot and informs The Moon's watery landscape.
+      The Chariot harnesses Cancer's emotional currents; The Moon shows what
+      happens when those currents overwhelm you.
+themes:
+  - "Willpower versus control — the difference between directing and forcing"
+  - "Triumph as process — victory as sustained effort, not a single moment"
+  - "The vehicle of the self — who is driving your life?"
+  - "Integration of opposites in motion — holding contradictions while moving forward"
+questions:
+  - "What opposing forces in your life need to be directed rather than eliminated?"
+  - "Are you moving forward with purpose, or just moving fast?"
+  - "Where are you trying to control outcomes through force of will when a different approach is needed?"
+  - "What victory are you pursuing, and will it be worth what it costs?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description emphasizes conquest and triumph "on all planes."
+      Note his insistence that the sphinxes are not horses — the nature of the
+      forces being directed matters.
+    section: "Part II: The Major Trumps — VII. The Chariot"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack connects The Chariot to the ego's first great achievement —
+      the successful assertion of individual will. She also explores its
+      limitations: will alone is not enough for the journey ahead.
+    section: "Chapter 7: The Chariot"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Chariot emphasizes the Grail connection — the chariot as the
+      Holy Grail, the vehicle that carries the blood of the divine. His reading
+      is more mystical than martial.
+    section: "Atu VII: The Chariot"

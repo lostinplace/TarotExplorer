@@ -1,0 +1,116 @@
+id: swords-08
+name: Eight of Swords
+arcana: minor
+suit: swords
+rank: 8
+image: RWSa-S-08.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Restriction
+    - Imprisonment
+    - Victim mentality
+    - Self-imposed limitation
+    - Feeling trapped
+  meaning: >
+    A blindfolded and bound figure stands surrounded by eight swords planted in
+    the ground — but look: the bindings are loose, the swords don't form a
+    complete cage, and there's open ground behind her. The prison is largely
+    mental. This card is about the stories we tell ourselves about why we can't
+    move, when the real barrier is belief.
+reversed:
+  keywords:
+    - Self-liberation
+    - New perspective
+    - Release from mental prison
+    - Empowerment
+    - Seeing options
+  meaning: >
+    Reversed, the blindfold comes off and the figure sees the gaps between the
+    swords. The mental prison dissolves once you stop believing in it. This
+    is the moment of realization that you were never as trapped as you thought —
+    terrifying and liberating in equal measure.
+imagery:
+  - element: Blindfolded and loosely bound woman
+    significance: >
+      The blindfold echoes the Two of Swords — again, sight is blocked. But
+      here the figure also cannot act (hands bound). The combination of
+      blocked perception and restricted agency creates the feeling of total
+      helplessness. Crucially, the bindings are loose enough to escape.
+    tradition: RWS psychological symbolism
+  - element: Eight swords planted in the mud around her
+    significance: >
+      The swords form a partial fence, not a cage. There are clear gaps.
+      Eight is an excess of mental constructs — too many thoughts, too many
+      fears, too many reasons why you can't move. The swords are her own
+      overthinking made manifest.
+    tradition: Numerological — Hod (mental analysis) overwhelming
+  - element: Muddy, waterlogged ground
+    significance: >
+      The ground is soft and wet — emotions (water) have saturated the
+      mental landscape (swords). She is stuck not just in thought but in
+      feeling. Feet in mud: unable to gain traction.
+    tradition: Elemental — Water and Earth trapping Air
+  - element: Castle or fortress on the hill in the background
+    significance: >
+      Safety and structure exist — but at a distance. The path to security
+      requires leaving the sword-prison. The castle represents the stable
+      ground the figure could reach if she moved.
+    tradition: RWS landscape symbolism
+correspondences:
+  element: Air
+  planet: Jupiter
+  zodiac: Gemini
+  hebrew_letter: null
+  tree_of_life: Hod (Splendor) — intellect, communication, analysis in excess
+  numerology: >
+    8 — structure, power, karma. In Swords, eight creates the mental cage
+    — thought patterns so structured they become a prison. Hod's analytical
+    nature turned against itself.
+  colors:
+    - Grey (overcast sky — depression, limited vision)
+    - Red (the figure's dress — passion and life force still present beneath restriction)
+connections:
+  - card: swords-02
+    relationship: echo
+    description: >
+      Both cards feature blindfolded figures. The Two chooses not to see;
+      the Eight cannot see. The progression from voluntary to (apparently)
+      involuntary blindness shows how avoidance calcifies into paralysis.
+  - card: major-12
+    relationship: polarity
+    description: >
+      The Hanged Man is voluntarily suspended and gains wisdom; the Eight
+      of Swords is involuntarily trapped and gains nothing. Same stillness,
+      opposite relationship to it.
+  - card: major-15
+    relationship: echo
+    description: >
+      The Devil shows figures chained loosely enough to escape. The Eight
+      of Swords shows a figure bound loosely enough to escape. Both cards
+      are about the prison you could leave if you believed you could.
+themes:
+  - "The mental prison — how thoughts create cages"
+  - "Learned helplessness versus actual helplessness"
+  - "The gap between feeling trapped and being trapped"
+  - "Perception as the primary barrier"
+questions:
+  - What would you do if you discovered you were never actually stuck?
+  - Which of your limitations are real and which are stories?
+  - What are you not seeing because you've decided in advance what's there?
+  - Who or what convinced you that you have no options?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading is definitive on the self-imposed nature of the
+      bondage — she emphasizes that the figure can escape and that the card
+      is about mental restriction, not external oppression.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite lists "crisis, conflict, calumny" — external difficulties. The
+      tension between his external reading and Smith's clearly internal
+      imagery is instructive.
+    section: "Part III: The Minor Arcana — Suit of Swords"

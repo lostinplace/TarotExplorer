@@ -1,0 +1,140 @@
+id: major-05
+name: The Hierophant
+arcana: major
+suit: null
+rank: 5
+image: RWSa-T-05.png
+symbol: ⛪
+upright:
+  keywords:
+    - Tradition
+    - Spiritual wisdom
+    - Conformity
+    - Education
+    - Institutional knowledge
+  meaning: >
+    The Hierophant is the bridge between heaven and earth — a teacher of sacred
+    traditions. He represents established wisdom, institutions, and the value of
+    shared belief. Where The High Priestess holds secret knowledge, The
+    Hierophant transmits public doctrine. He is the keeper of the keys, the one
+    who initiates through ritual and instruction.
+reversed:
+  keywords:
+    - Rebellion
+    - Subversiveness
+    - Personal belief
+    - Challenging tradition
+    - Spiritual independence
+  meaning: >
+    Reversed, The Hierophant signals a break from convention. Question the
+    rules, seek your own spiritual path, challenge outdated institutions. This
+    can be liberation or rootlessness — rejecting tradition is not the same as
+    transcending it. Are you building something new or just tearing down?
+imagery:
+  - element: Papal figure seated between two grey pillars
+    significance: >
+      He sits between pillars like The High Priestess, but his are grey stone —
+      institutional, visible, public. Where her pillars mark the threshold to
+      mystery, his mark the entrance to organized religion. The symmetry between
+      cards II and V is deliberate.
+    tradition: Catholic papal iconography / Kabbalistic
+  - element: Triple papal crown (triregnum)
+    significance: >
+      Three tiers representing authority over three realms — the physical,
+      intellectual, and spiritual worlds. Also the three stages of initiation
+      or the Christian Trinity. This is not personal wisdom; it's authority
+      sanctioned by an entire system.
+    tradition: Papal / Trinitarian Christian
+  - element: Two crossed keys at his feet
+    significance: >
+      The keys of St. Peter — the power to bind and loose, to open and close
+      the gates of heaven. These are the keys to doctrine, the authority to
+      define what is orthodox and what is heresy. Access to the sacred is
+      mediated through his office.
+    tradition: "Catholic — Matthew 16:19"
+  - element: Right hand raised in blessing (two fingers up, two down)
+    significance: >
+      The ecclesiastical blessing — two fingers pointing to heaven, two to
+      earth. Like The Magician's gesture but formalized into ritual. The
+      transmission of grace follows prescribed forms. This is channeled
+      spiritual power, not spontaneous.
+    tradition: Christian liturgical
+  - element: Two kneeling acolytes with yoked robes
+    significance: >
+      The students/initiates wear robes decorated with roses and lilies —
+      desire and purity, the same symbols from The Magician's garden, now
+      woven into institutional garments. They kneel: they receive wisdom from
+      above, through hierarchy. The yoke suggests both devotion and constraint.
+    tradition: Monastic / Initiatory traditions
+correspondences:
+  element: Earth
+  planet: Venus
+  zodiac: Taurus
+  hebrew_letter: "Vav (ו)"
+  tree_of_life: "Path 16: Chokmah (Wisdom) → Chesed (Mercy)"
+  numerology: >
+    5 — the number that breaks the stability of four. The pentagram, the five
+    senses, the human figure with arms and legs spread. Five introduces
+    mediation — the point that connects the four elements, the teacher who
+    bridges above and below.
+  colors:
+    - Red (spiritual authority, passion restrained by form)
+    - White (purity, sanctity)
+    - Grey (institution, permanence, stone)
+connections:
+  - card: major-02
+    relationship: polarity
+    description: >
+      The Hierophant teaches public doctrine; the High Priestess holds esoteric
+      knowledge. He is the outer church; she is the inner mystery. Both sit
+      between pillars; one faces a congregation, the other faces the veil.
+  - card: major-04
+    relationship: sequence
+    description: >
+      The Emperor establishes secular law; The Hierophant extends it into
+      spiritual doctrine. Temporal authority followed by sacred authority —
+      the two pillars of institutional civilization.
+  - card: major-00
+    relationship: shadow
+    description: >
+      The Fool is The Hierophant's shadow — pure spontaneity against codified
+      tradition, the spirit that no institution can contain. Every Hierophant
+      secretly fears The Fool who doesn't need a teacher.
+  - card: major-09
+    relationship: echo
+    description: >
+      The Hermit also teaches, but through solitary example rather than
+      institutional authority. Where The Hierophant leads a congregation,
+      The Hermit lights a single lantern for whoever can find him.
+themes:
+  - "Tradition as technology — accumulated wisdom encoded in ritual and institution"
+  - "Orthodoxy versus personal revelation — when does received wisdom become a cage?"
+  - "The teacher-student relationship — power, trust, and the transmission of knowledge"
+  - "Sacred conformity — the value of belonging to something larger than yourself"
+questions:
+  - "What traditions have you inherited that still serve you, and which ones are you following out of habit?"
+  - "Who are your teachers — not just people, but systems and institutions you've trusted with your formation?"
+  - "When does belonging to a group enhance your spiritual life, and when does it replace it?"
+  - "What would you believe if no one had ever told you what to believe?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite identifies The Hierophant with the outer way of religion and
+      distinguishes it from the inner way of The High Priestess. His
+      Catholic background inflects this card heavily.
+    section: "Part II: The Major Trumps — V. The Hierophant"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack explores the tension between The Hierophant as wisdom-keeper
+      and as authoritarian gatekeeper. Her treatment is sympathetic but
+      critical of institutional spiritual power.
+    section: "Chapter 5: The Hierophant"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Hierophant is more explicitly about Taurus and the fixity of
+      doctrine. His treatment foregrounds the Vav attribution — the nail that
+      joins things together.
+    section: "Atu V: The Hierophant"

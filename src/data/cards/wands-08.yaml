@@ -1,0 +1,111 @@
+id: wands-08
+name: Eight of Wands
+arcana: minor
+suit: wands
+rank: 8
+image: RWSa-W-08.png
+symbol: 🔥
+upright:
+  keywords:
+    - Speed
+    - Momentum
+    - Swift action
+    - Communication
+    - Air travel
+  meaning: >
+    Eight wands fly through a clear sky, angled downward toward the earth — nothing
+    impedes their flight. This is the only pip card in the RWS deck with no human
+    figure, because nothing human is slowing things down. Events are accelerating.
+    Messages arrive, plans converge, things happen fast. Don't overthink it — move.
+reversed:
+  keywords:
+    - Delays
+    - Frustration
+    - Stalled momentum
+    - Miscommunication
+    - Waiting
+  meaning: >
+    The wands stall mid-flight. Frustrating delays, messages that don't arrive,
+    plans that lose momentum just when everything was moving. Can indicate
+    internal resistance — you're the one slowing things down, not external
+    circumstances. Sometimes: too much happening at once, overwhelm from speed.
+imagery:
+  - element: Eight wands in flight through clear sky
+    significance: >
+      No obstacles, no figures, no landscape features interrupting the
+      trajectory. Pure kinetic energy — Fire in motion without friction.
+      The wands are parallel, suggesting coordinated movement: everything
+      is heading the same direction at once.
+    tradition: RWS — unique among pips for absence of human figures
+  - element: Wands angled downward toward green landscape
+    significance: >
+      They're about to land — this isn't aimless flight but directed
+      arrival. The energy has a destination. The green landscape below
+      suggests fertile ground ready to receive the impact. Momentum
+      is about to become manifestation.
+    tradition: Elemental — Fire descending into Earth
+  - element: Clear blue sky
+    significance: >
+      No clouds, no storms, no interference. The path is unobstructed.
+      This clarity is rare in the tarot — most cards show some kind of
+      complication. Here, the message is: nothing is in your way.
+    tradition: RWS scenic convention — sky as conditions
+  - element: River in the landscape below
+    significance: >
+      Water flowing through the green land — emotions and intuition
+      running alongside the fiery momentum. The landscape is alive and
+      receptive, not barren. The energy will land somewhere fertile.
+    tradition: Elemental — Water as emotional context
+correspondences:
+  element: Fire
+  planet: Mercury
+  zodiac: Sagittarius
+  hebrew_letter: null
+  tree_of_life: "Hod (Splendor) — Mercury's domain, communication and intellect"
+  numerology: >
+    8 — movement, power, mastery of forces. In Wands, this is Fire at
+    its most kinetic — not just potential or struggle but pure directed
+    velocity.
+  colors:
+    - Blue (clear sky, unobstructed path)
+    - Green (fertile landing, growth)
+    - Brown/wood (the wands themselves, organic energy)
+connections:
+  - card: wands-07
+    relationship: sequence
+    description: >
+      After the defensive stand of the Seven, the Eight breaks free —
+      all obstacles cleared, pure forward momentum.
+  - card: swords-08
+    relationship: polarity
+    description: >
+      The Eight of Swords is paralysis, bound and blindfolded. The Eight
+      of Wands is its opposite — total freedom of movement, nothing
+      blocking the path.
+  - card: major-10
+    relationship: echo
+    description: >
+      The Wheel of Fortune also represents swift change and momentum
+      beyond personal control. Both cards say: things are moving whether
+      you're ready or not.
+themes:
+  - "Velocity as clarity — when everything aligns, don't hesitate"
+  - "The absence of obstacles — recognizing an open path"
+  - "Momentum beyond individual control — events with their own trajectory"
+questions:
+  - "What in your life is accelerating — and are you keeping up?"
+  - "Where are you overthinking when the situation calls for speed?"
+  - "What message or communication have you been delaying?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes this as the card of great haste, swiftness, and
+      activity. His emphasis on arrows of love and communication is notable.
+    section: "Part III: The Minor Arcana — Eight of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack notes the uniqueness of this card — no human figure, no
+      obstacles — and reads it as pure directed energy.
+    section: "Minor Arcana: Wands"

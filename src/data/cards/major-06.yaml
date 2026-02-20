@@ -1,0 +1,144 @@
+id: major-06
+name: The Lovers
+arcana: major
+suit: null
+rank: 6
+image: RWSa-T-06.png
+symbol: 💕
+upright:
+  keywords:
+    - Love
+    - Harmony
+    - Partnership
+    - Authentic choice
+    - Values alignment
+  meaning: >
+    The Lovers represent the sacred choice — not just romantic love, but the
+    alignment of values. This card asks: what do you truly desire, and are you
+    choosing authentically? It marks the moment consciousness encounters another
+    and must decide what it values. The angel above reminds us that genuine
+    choice has a spiritual dimension.
+reversed:
+  keywords:
+    - Disharmony
+    - Imbalance
+    - Misalignment of values
+    - Avoidance of choice
+    - Self-betrayal
+  meaning: >
+    Reversed, The Lovers warn of values in conflict, relationships out of
+    balance, or choices made from fear rather than love. You may be avoiding a
+    necessary decision, compromising your integrity for comfort, or projecting
+    your own needs onto another person rather than seeing them clearly.
+imagery:
+  - element: Angel Raphael in the clouds above
+    significance: >
+      Raphael, the archangel of healing and Air, blesses the union from above.
+      His arms are spread wide in benediction. The purple cloak suggests
+      spiritual authority. The lovers don't look at each other — the woman
+      looks up at the angel, the man looks at the woman. Consciousness is
+      mediated: the divine reaches the man through the woman, through feeling.
+    tradition: "Judeo-Christian angelology / Hermetic"
+  - element: Naked man and woman facing each other
+    significance: >
+      Adam and Eve before the Fall — humanity in its natural state, without
+      shame or artifice. Their nakedness means they hide nothing. The card
+      depicts the moment of choice, not its aftermath. They are still in
+      paradise; the fruit has not yet been eaten.
+    tradition: "Genesis 2-3 / Edenic mythology"
+  - element: Tree of Knowledge with serpent (behind the woman)
+    significance: >
+      The serpent coils around the tree bearing fruit — the Tree of Knowledge
+      of Good and Evil. Behind the woman, it suggests that experience,
+      knowledge, and the consequences of choice come through the feminine
+      principle, through feeling and desire, not abstract intellect.
+    tradition: "Biblical (Genesis 3) / Gnostic"
+  - element: Tree of Life with twelve flames (behind the man)
+    significance: >
+      Twelve flames for the twelve zodiac signs — the Tree of Life in its
+      cosmic aspect. Behind the man, it represents the pure spiritual life
+      before the intervention of knowledge. The two trees frame the central
+      choice: innocence or experience, unity or knowledge.
+    tradition: "Kabbalistic / Biblical"
+  - element: Mountain between and behind the figures
+    significance: >
+      The phallic mountain rising between the two figures represents the
+      challenge of union — the obstacle and the aspiration. In alchemical
+      terms, the mountain is where the marriage of opposites occurs. It's
+      also the higher ground that relationship, at its best, allows you to
+      reach.
+    tradition: Alchemical / Landscape symbolism
+correspondences:
+  element: Air
+  planet: Mercury
+  zodiac: Gemini
+  hebrew_letter: "Zayin (ז)"
+  tree_of_life: "Path 17: Binah (Understanding) → Tiphareth (Beauty)"
+  numerology: >
+    6 — the number of harmony and balance. The hexagram (Star of David) —
+    two triangles interlocking, above and below united. Six is the first
+    "perfect" number (1+2+3=6), suggesting completeness through relationship.
+  colors:
+    - Yellow (consciousness, solar illumination)
+    - Green (growth, fertility, the garden)
+    - Purple (spiritual authority of the angel)
+connections:
+  - card: major-15
+    relationship: polarity
+    description: >
+      The Devil is The Lovers inverted. Same composition — angel replaced by
+      Baphomet, naked figures now chained. Choice becomes compulsion, love
+      becomes bondage. The Lovers choose; The Devil's captives believe they
+      can't.
+  - card: major-04
+    relationship: sequence
+    description: >
+      After the external structures of Emperor (law) and Hierophant (doctrine),
+      The Lovers introduce internal authority — choosing from your own values
+      rather than following imposed rules. The first truly personal card.
+  - card: major-14
+    relationship: echo
+    description: >
+      Temperance echoes The Lovers' theme of union — but where The Lovers
+      choose between, Temperance blends and integrates. The angel reappears,
+      now doing the mixing directly. Choice matured into synthesis.
+  - card: major-02
+    relationship: echo
+    description: >
+      The High Priestess holds the mystery of the unconscious; The Lovers
+      encounter it in another person. Both cards deal with what lies beyond
+      the rational — one through inner stillness, the other through
+      relationship.
+themes:
+  - "Choice as identity — you are what you choose, not what you think"
+  - "The knowledge that costs innocence — growing up as a form of exile"
+  - "The Other as mirror — encountering yourself through relationship"
+  - "Eros as a spiritual force — desire that draws you toward wholeness"
+questions:
+  - "What choice are you avoiding, and what does the avoidance cost you?"
+  - "In your closest relationships, are you seeing the other person or your projection of them?"
+  - "What would you choose if you weren't afraid of losing something?"
+  - "Where are your values and your actions misaligned?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite explicitly states this card is about choice, not just romance.
+      His description of the angel as Raphael and the trees as Knowledge
+      and Life is essential for reading the card correctly.
+    section: "Part II: The Major Trumps — VI. The Lovers"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's treatment of the gaze direction — woman to angel, man to
+      woman — is one of the most cited observations in modern tarot
+      interpretation. She reads it as consciousness reaching the divine
+      through relationship.
+    section: "Chapter 6: The Lovers"
+  - title: The Symposium
+    author: Plato
+    relevance: >
+      Plato's dialogue on love — especially Aristophanes' speech about
+      split souls seeking reunion — provides the philosophical foundation
+      for The Lovers as a card about wholeness through union.
+    section: "Aristophanes' Speech (189c-193e)"

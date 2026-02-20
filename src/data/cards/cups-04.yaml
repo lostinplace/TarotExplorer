@@ -1,0 +1,122 @@
+﻿id: cups-04
+name: Four of Cups
+arcana: minor
+suit: cups
+rank: 4
+image: RWSa-C-04.png
+symbol: 🍷
+upright:
+  keywords:
+    - Apathy
+    - Contemplation
+    - Discontent
+    - Withdrawal
+    - Reevaluation
+  meaning: >
+    A young man sits under a tree with arms crossed, staring at three cups on
+    the ground while a fourth is offered by a hand from a cloud. He doesn't
+    see it — or doesn't care. This is the restlessness that comes when what
+    you have no longer satisfies, but you haven't yet figured out what you
+    actually want.
+reversed:
+  keywords:
+    - Renewed motivation
+    - Accepting an opportunity
+    - Breaking free of apathy
+    - Sudden awareness
+    - Gratitude
+  meaning: >
+    The spell of indifference breaks. You finally see the cup being offered
+    and reach for it — or you realize the three cups you already have are
+    enough. Reversed can mark the moment apathy lifts and engagement returns.
+    Sometimes simply: you were right to refuse, and now you know why.
+imagery:
+  - element: Young man sitting under a tree, arms crossed
+    significance: >
+      Withdrawal into contemplation — or stubbornness disguised as meditation.
+      The crossed arms are defensive, closed. He's turned inward, and the tree
+      suggests Buddha under the Bodhi tree, but without the enlightenment.
+      This is the stage before insight, where dissatisfaction hasn't yet
+      become wisdom.
+    tradition: Buddhist parallel / psychological withdrawal
+  - element: Hand emerging from cloud offering a fourth cup
+    significance: >
+      The same divine hand that offers the Aces — grace arriving unsolicited.
+      But unlike the Aces, this offering is ignored or unseen. The universe
+      presents an opportunity; the question is whether you're too lost in
+      your own discontent to notice it.
+    tradition: Christian mysticism / RWS Ace imagery
+  - element: Three cups arranged on the ground before him
+    significance: >
+      What he already has — emotional experiences, relationships, or gifts
+      he's taking for granted. They're stable (the number four suggests
+      structure) but uninspiring. The problem isn't scarcity; it's boredom.
+    tradition: Numerological — stability tipping into stagnation
+  - element: Hilly, green landscape
+    significance: >
+      The setting is pleasant but unremarkable — there's nothing wrong here.
+      That's the point. Discontent doesn't require suffering; sometimes the
+      most paralyzing restlessness comes when everything is fine.
+    tradition: Pastoral
+correspondences:
+  element: Water
+  planet: Moon
+  zodiac: Cancer
+  hebrew_letter: null
+  tree_of_life: "Chesed (4 — Mercy)"
+  numerology: >
+    4 — stability, structure, consolidation. In the emotional realm, stability
+    can become stagnation. The four walls of a room can be a foundation or a
+    prison, depending on whether the door is open.
+  colors:
+    - Green (the landscape — growth stalled)
+    - Brown (earth, groundedness tipping into inertia)
+    - Grey (clouds, emotional flatness)
+connections:
+  - card: cups-03
+    relationship: sequence
+    description: >
+      After the celebration of the Three comes the hangover of the Four.
+      The joy of community gives way to solitary contemplation — what now?
+  - card: cups-05
+    relationship: sequence
+    description: >
+      If the Four is discontent before loss, the Five is grief after it.
+      The Four still has all its cups; the Five has already spilled three.
+  - card: swords-04
+    relationship: echo
+    description: >
+      Both Fours depict withdrawal and rest. The Four of Swords is
+      deliberate recovery; the Four of Cups is unproductive brooding.
+      Same posture, different relationship to stillness.
+  - card: major-12
+    relationship: echo
+    description: >
+      The Hanged Man also shows voluntary withdrawal leading to changed
+      perspective. The Four of Cups is the early stage of that process —
+      before the surrender that makes insight possible.
+themes:
+  - Apathy as a message — discontent pointing toward something that needs to change
+  - The missed offering — grace that arrives when you're not looking
+  - Satiation vs. satisfaction — having enough but not feeling enough
+  - Contemplation vs. avoidance — the fine line between reflection and withdrawal
+questions:
+  - What opportunity might you be ignoring because you're focused on what you lack?
+  - Is your current restlessness a signal to change, or an invitation to look deeper at what you have?
+  - When has boredom or apathy actually preceded a breakthrough?
+  - What would you see if you uncrossed your arms and looked up?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads this card as a necessary withdrawal — not pathological
+      but preparatory. She connects it to the spiritual desert that precedes
+      transformation.
+    section: "Cups: Four"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's keyword is "blended pleasure" — satisfaction mixed with
+      ennui. His description hints that the figure's contemplation may
+      lead somewhere productive.
+    section: "Part III: The Minor Arcana — Four of Cups"

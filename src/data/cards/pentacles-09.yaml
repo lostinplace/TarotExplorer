@@ -1,0 +1,118 @@
+id: pentacles-09
+name: Nine of Pentacles
+arcana: minor
+suit: pentacles
+rank: 9
+image: RWSa-P-09.png
+symbol: 🪙
+upright:
+  keywords:
+    - Luxury
+    - Self-sufficiency
+    - Financial independence
+    - Refinement
+    - Earned abundance
+  meaning: >
+    A well-dressed woman stands alone in a vineyard heavy with grapes and
+    golden pentacles, a hooded falcon perched on her gloved hand. This is
+    earned luxury — not inherited, not borrowed, but cultivated through
+    discipline and patience. She enjoys the fruits of her labor in solitary
+    elegance. Independence has its pleasures and its price.
+reversed:
+  keywords:
+    - Financial dependence
+    - Superficiality
+    - Overindulgence
+    - Hustling
+    - Empty success
+  meaning: >
+    Reversed, the luxury is a facade or comes at too high a cost. Living
+    beyond your means, success that feels hollow, or independence that has
+    become isolation. The vineyard may belong to someone else, or the
+    falcon's hood hides the fact that the wildness has been trained out
+    entirely.
+imagery:
+  - element: Well-dressed woman alone in a vineyard
+    significance: >
+      She stands with confidence and composure — self-possessed in every
+      sense. The vineyard is her domain, cultivated and abundant. Her
+      solitude is chosen, not imposed. This is what the Eight of Pentacles'
+      diligence eventually produces: a person who needs nothing from anyone.
+    tradition: Aristocratic / garden symbolism
+  - element: Hooded falcon on her gloved hand
+    significance: >
+      The falcon represents trained instinct — wild nature disciplined to
+      serve. Falconry was an aristocratic pursuit requiring patience and
+      skill. The bird is hooded, at rest but ready. Self-mastery means
+      keeping your power available but controlled.
+    tradition: Medieval falconry / aristocratic tradition
+  - element: Ripe grapevines heavy with fruit
+    significance: >
+      The vineyard is the result of years of cultivation — planting,
+      tending, waiting. Grapes become wine, a symbol of refined pleasure.
+      The abundance is tangible, sensory, and earned. Everything here grew
+      from the ground up.
+    tradition: Biblical (vineyard parables) / Dionysian
+  - element: Nine pentacles woven among the vines
+    significance: >
+      The coins are integrated into the living garden — wealth and nature
+      intertwined. This isn't money in a vault but abundance that grows,
+      breathes, and renews. Material success expressed as living beauty.
+    tradition: Alchemical (gold as perfected nature)
+  - element: Snail at her feet
+    significance: >
+      Easily overlooked but significant — the snail represents slow,
+      steady progress. It carries its home on its back, self-sufficient
+      and unhurried. A quiet reminder that this abundance was built
+      slowly, not seized quickly.
+    tradition: Natural symbolism / patience emblems
+correspondences:
+  element: Earth
+  planet: Venus
+  zodiac: Virgo
+  hebrew_letter: null
+  tree_of_life: "Yesod (Foundation) — refined abundance rooted in Earth"
+  numerology: >
+    9 — near-completion, fulfillment, the harvest before the final
+    integration. Nine is the last single digit — abundance at its peak
+    before it becomes legacy in the Ten.
+  colors:
+    - Gold and yellow (wealth, autumn harvest, ripeness)
+    - Green (the vineyard, living growth)
+    - Red (her beret — vitality, pleasure)
+connections:
+  - card: pentacles-08
+    relationship: sequence
+    description: >
+      The Eight's diligent apprenticeship produces the Nine's refined
+      independence. The craftsman's discipline becomes the lady's elegance.
+      What was practice is now mastery made visible.
+  - card: pentacles-10
+    relationship: sequence
+    description: >
+      The Nine enjoys personal abundance; the Ten shares it across
+      generations. The Nine asks: now that you have everything, what
+      do you build for others?
+  - card: major-03
+    relationship: echo
+    description: >
+      The Empress embodies abundance through nature and fertility. The
+      Nine of Pentacles is the same energy made personal and earned —
+      the Empress's garden, tended by human hands.
+themes:
+  - "Earned independence — luxury as the fruit of discipline, not luck"
+  - "Solitary refinement — the pleasures and costs of self-sufficiency"
+  - "Trained instinct — wildness disciplined into elegance"
+questions:
+  - "What have you built through sustained effort that you can now enjoy?"
+  - "Is your independence a choice or an avoidance of vulnerability?"
+  - "What has your success cost you, and was it worth the price?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite emphasizes 'prudence' and 'safety' — the financial security angle. But Smith's image adds the falcon and snail, deepening the card considerably."
+    section: "Part II: Minor Arcana — Nine of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack connects the Nine to the archetype of the self-made woman and explores the tension between independence and connection."
+    section: "Pentacles: Nine"

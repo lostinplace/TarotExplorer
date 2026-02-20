@@ -1,0 +1,114 @@
+id: pentacles-01
+name: Ace of Pentacles
+arcana: minor
+suit: pentacles
+rank: 1
+image: RWSa-P-0A.png
+symbol: 🪙
+upright:
+  keywords:
+    - New opportunity
+    - Prosperity
+    - Abundance
+    - Security
+    - Manifestation
+  meaning: >
+    A divine hand extends from a cloud, offering a golden pentacle over a
+    lush garden with an archway leading to distant mountains. This is the
+    seed of material reality — a new opportunity for wealth, health, or
+    tangible achievement. Unlike the other aces, this gift must be cultivated;
+    the garden suggests the work has already begun.
+reversed:
+  keywords:
+    - Missed opportunity
+    - Scarcity mindset
+    - Instability
+    - Poor planning
+    - Greed
+  meaning: >
+    Reversed, the coin slips through fingers. A promising opportunity is
+    missed through hesitation, poor planning, or fixation on the wrong kind
+    of wealth. Can also indicate materialism — chasing money while the garden
+    of real abundance goes untended.
+imagery:
+  - element: Hand emerging from cloud holding a golden pentacle
+    significance: >
+      The Hand of God — divine source offering material blessing. The pentacle
+      is a disc inscribed with a pentagram, the five-pointed star representing
+      spirit ruling over the four elements. Material wealth, properly understood,
+      is a spiritual gift.
+    tradition: Hermetic / Christian mystical
+  - element: Garden with lilies and a hedge archway
+    significance: >
+      The cultivated garden represents Eden or Paradise — material abundance
+      in its ideal form. The archway is a threshold; you must choose to walk
+      through it. The lilies suggest purity of intention. This isn't wild
+      nature but tended earth — wealth requires stewardship.
+    tradition: Biblical / Alchemical (hortus conclusus)
+  - element: Path leading to distant mountains
+    significance: >
+      The mountains represent long-term goals and higher aspirations. The path
+      through the garden gate leads toward them — material opportunity is not
+      the destination but the means to reach something greater.
+    tradition: Landscape symbolism
+  - element: Lush greenery and flowers
+    significance: >
+      Fertility, growth, the Earth element in its most abundant expression.
+      Everything is blooming — the conditions are right. The question is
+      whether you'll plant the seed being offered.
+    tradition: Elemental symbolism
+correspondences:
+  element: Earth
+  planet: null
+  zodiac: null
+  hebrew_letter: null
+  tree_of_life: "Kether (Crown) — the pure seed of Earth"
+  numerology: >
+    1 — unity, beginning, the undifferentiated potential before it takes form.
+    The Ace is not yet wealth; it is the possibility of wealth.
+  colors:
+    - Gold (wealth, solar energy, value)
+    - Green (growth, fertility, Earth element)
+    - White (purity, spiritual origin of material gifts)
+connections:
+  - card: pentacles-10
+    relationship: sequence
+    description: >
+      The Ace is the seed; the Ten is the harvest. What begins as a single
+      opportunity in the Ace becomes generational wealth and legacy in the Ten.
+      The entire suit's journey lives between these two cards.
+  - card: cups-01
+    relationship: echo
+    description: >
+      Both Aces offer gifts from the divine hand, but the Ace of Cups offers
+      emotional/spiritual abundance while the Ace of Pentacles offers material
+      abundance. Together they represent inner and outer prosperity.
+  - card: major-21
+    relationship: echo
+    description: >
+      The World card represents completion and wholeness in all realms. The Ace
+      of Pentacles is one facet of that — the material dimension of fulfillment,
+      the garden within the dancer's wreath.
+themes:
+  - "Opportunity as seed — potential that requires cultivation, not just reception"
+  - "The spiritual dimension of material life — wealth as a sacred trust"
+  - "Beginnings that are already grounded — not dreaming but planting"
+  - "The garden gate — thresholds you must choose to walk through"
+questions:
+  - "What opportunity is being offered to you right now that you haven't fully acknowledged?"
+  - "How do you distinguish between genuine abundance and mere accumulation?"
+  - "What would you build if you trusted that the resources would come?"
+  - "Is your relationship with material security based on gratitude or anxiety?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite's description of the Ace emphasizes the garden and the hand — note how he frames material gifts as coming from above."
+    section: "Part II: Minor Arcana — Ace of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack connects the Ace to the idea of 'primordial trust' — the ground beneath your feet as the first gift."
+    section: "Pentacles: Ace"
+  - title: "The Tarot: History, Symbolism, and Divination"
+    author: "Robert M. Place"
+    relevance: "Place traces the pentacle symbol through its alchemical and Pythagorean roots, illuminating why a five-pointed star represents earth."
+    section: "The Minor Arcana"

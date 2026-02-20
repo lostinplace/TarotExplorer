@@ -1,0 +1,557 @@
+id: descent-and-return
+name: "The Descent and Return"
+description: >
+  The oldest story humanity tells: someone goes down into the dark and comes
+  back changed. Inanna descends to the underworld and is stripped at every gate.
+  Persephone eats the pomegranate and becomes queen of the dead. Orpheus walks
+  into hell for love and fails the one test that matters. The tarot tells this
+  story too — scattered across both Major and Minor Arcana, a thread of cards
+  that trace the arc of voluntary or involuntary descent into the unconscious,
+  the encounter with what lives there, and the transformed return.
+author: null
+tradition: "Mythological / Jungian / Mystery traditions"
+
+acts:
+  - id: the-threshold
+    name: "The Threshold"
+    description: >
+      Before the descent, there is the one who guards the gate. You don't
+      stumble into the underworld — you are called, or you choose, or you
+      are dragged. But first you must stand at the boundary and recognize
+      what you're about to enter.
+    steps:
+      - the-guardian
+      - the-first-surrender
+
+  - id: the-descent
+    name: "The Descent"
+    description: >
+      The stripping away. At each stage, something is removed — control,
+      certainty, identity, hope. The descent is not punishment; it is the
+      price of the knowledge that lives below. You cannot bring your
+      surface self into the depths. It will not fit through the gates.
+    steps:
+      - the-cup-abandoned
+      - the-inversion
+      - the-death
+      - the-grief
+
+  - id: the-depths
+    name: "The Depths"
+    description: >
+      The bottom. The place where there is no light that you brought with
+      you — only the light that was always there, invisible until everything
+      else was dark. This is where the transformation happens, not because
+      you chose it, but because you have nothing left to resist it with.
+    steps:
+      - the-dark-water
+      - the-creature
+
+  - id: the-return
+    name: "The Return"
+    description: >
+      You come back. But not as you were — that person died in the descent.
+      What returns is quieter, less defended, more whole. The return is not
+      a triumph. It is a gentle surfacing, a willingness to pour yourself
+      out, a capacity for joy that doesn't need to pretend the dark
+      wasn't real.
+    steps:
+      - the-first-light
+      - the-pouring
+      - the-new-world
+
+steps:
+  # ============================================================
+  # THE THRESHOLD
+  # ============================================================
+
+  - id: the-guardian
+    card: major-02
+    title: "The Guardian at the Gate"
+    narrative: >
+      Before there is a descent, there is a veil. The High Priestess sits
+      between the pillars — black and white, known and unknown — and behind
+      her hangs a curtain embroidered with pomegranates. Persephone's fruit.
+      The boundary between worlds.
+
+
+      She does not invite you in. She does not warn you away. She simply
+      sits, and by sitting, defines the threshold. Everything before her is
+      the daylight world — will, action, structure, all the things you
+      learned to build your life with. Everything behind her is the territory
+      of the descent: the unconscious, the unspoken, the things that live
+      in the dark because you put them there.
+
+
+      You have come to the veil. You can feel what's behind it. The
+      question is not whether it's there. The question is whether you'll
+      go through.
+    transition: >
+      She will not open the veil for you. But she shows you that it can
+      be opened. The first step of any descent is the decision to let go
+      of something you're holding.
+    reflection: >
+      What veil are you standing in front of right now? Not what you're
+      afraid of — what you already know is there but haven't yet been
+      willing to look at directly?
+    aside: >
+      The pomegranates on the Priestess's veil are not decorative. In the
+      myth of Persephone, eating pomegranate seeds in the underworld binds
+      you to return there — you cannot un-know what the depths taught you.
+      The Priestess holds the TORA scroll half-hidden: the knowledge of the
+      descent is always partially concealed. You will understand it fully
+      only by going through. Inanna, at the first gate to the underworld,
+      was told: "The ways of the underworld are perfect. They may not be
+      questioned."
+
+  - id: the-first-surrender
+    card: cups-08
+    title: "The Cup Walked Away From"
+    narrative: >
+      A figure in a red cloak turns away from eight stacked cups and walks
+      toward a mountain pass under a crescent moon. The cups are still
+      standing. Nothing is broken. Nothing was taken. He simply... left.
+
+
+      This is the moment the descent begins in your life — not when
+      something is destroyed, but when you realize that what you have,
+      even though it's intact, is no longer enough. The eight cups represent
+      everything you built: relationships, achievements, comforts, the
+      emotional architecture of your life. They're fine. They're real.
+      And they're not why you're here.
+
+
+      The descent starts with walking away from what works toward what
+      matters. The moon lights just enough of the path to take the next step.
+    transition: >
+      He has left the cups behind. The mountain pass ahead will take him
+      higher before it takes him lower — but the direction is set. What
+      was abandoned cannot be un-abandoned. The descent has begun.
+    reflection: >
+      What in your life is perfectly fine — functional, successful, even
+      good — but not enough? What would it cost to walk away from it?
+      What cup would you leave standing?
+    aside: >
+      The Eight of Cups is Saturn in Pisces — the structure (Saturn) of
+      dissolution (Pisces). It lives in Hod on the Tree of Life, the
+      Sephirah of intellect and analysis. This is not an emotional
+      departure; it's a reasoned one. The figure has *understood* that
+      the cups are insufficient. The crescent moon connects to the High
+      Priestess's lunar domain — the journey is already moving toward
+      her territory. In the Inanna myth, the goddess chooses to descend.
+      No one forces her. She hears of her sister's suffering in the
+      underworld and goes. The Eight of Cups is that choice.
+
+  # ============================================================
+  # THE DESCENT
+  # ============================================================
+
+  - id: the-cup-abandoned
+    card: cups-05
+    title: "What Spills"
+    narrative: >
+      A cloaked figure stands before three spilled cups, head bowed in
+      grief. Behind them, unnoticed, two cups still stand. A bridge in the
+      background leads to a house, a home, a life that continues — but
+      the figure cannot see it. The figure can only see what's been lost.
+
+
+      The Eight of Cups was a choice. The Five of Cups is the consequence.
+      When you walk away from what was safe, you discover what you actually
+      valued — because losing it hurts. The grief is real. Three cups are
+      empty. The wine is on the ground. And the two cups standing behind
+      you? You can't access them yet. Not because they're gone, but because
+      grief narrows vision to exactly the shape of what was lost.
+
+
+      This is the first stripping. At Inanna's first gate, her crown was
+      removed. Here, your certainty that leaving was the right choice is
+      removed. You feel only the cost.
+    transition: >
+      The grief does not pass quickly. But it does what grief always does —
+      it hollows you out. And the hollow is necessary. You cannot be filled
+      with new knowledge if you're still full of the old.
+    reflection: >
+      What have you lost that you still look at instead of looking behind
+      you? What might the two standing cups represent in your life —
+      resources or relationships that survived your loss but that grief
+      won't let you see?
+    aside: >
+      The Five of Cups is Mars in Scorpio — aggressive, transformative
+      emotional energy turned inward as grief. Fives on the Tree of Life
+      belong to Geburah, the Sephirah of severity and necessary
+      destruction. Every Five in the deck is a disruption — but the Five
+      of Cups is the only one where the disruption is primarily felt
+      rather than fought. The bridge in the background is crucial: the
+      way home still exists. The descent is not exile. But you can't
+      go back the same way you came.
+
+  - id: the-inversion
+    card: major-12
+    title: "The Hanging"
+    narrative: >
+      A man hangs upside down from a living tree. One leg is crossed behind
+      the other. His hands are hidden — bound, or simply resting. A halo
+      of light surrounds his head. His expression is calm. He is not in pain.
+
+
+      Deeper now. The Hanged Man is what happens when you stop fighting
+      the descent. The Eight of Cups walked away by choice. The Five of
+      Cups grieved what was lost. The Hanged Man surrenders the need to
+      understand why. He lets go of the last thing: the belief that he
+      should be right-side up.
+
+
+      In every descent myth, there is a moment of total inversion.
+      Inanna is stripped naked and hung on a hook. Odin hangs from
+      Yggdrasil for nine days. Christ on the cross. The surrender is
+      not defeat — it is the pivot point. You stop falling and start
+      transforming.
+    transition: >
+      Suspended between worlds, the Hanged Man sees what the upright
+      cannot see. And what he sees is that something in him has already
+      died. The next card names it.
+    reflection: >
+      When have you stopped struggling — not from exhaustion, but from
+      understanding? What did the world look like from that inverted
+      position?
+    aside: >
+      The Hanged Man is assigned to Mem (מ), meaning "water." He is
+      suspended above the waters of the unconscious, not immersed in them
+      — yet. His halo shows that illumination comes during the suspension,
+      not after. The tree he hangs from is alive — it's a Tau cross, the
+      letter Tav, which is assigned to The World (card 21). He hangs from
+      the ending. In the Norse tradition, Odin's hanging was voluntary and
+      purposeful: he sacrificed himself to himself to gain the runes. The
+      Hanged Man is that same exchange — identity for wisdom.
+
+  - id: the-death
+    card: major-13
+    title: "The Stripping"
+    narrative: >
+      The skeleton rides through on a white horse. A king is fallen.
+      A bishop pleads. A maiden kneels. A child offers flowers to the
+      rider, the only one not afraid.
+
+
+      This is the bottom of the descent's active phase — the moment where
+      what you were is no longer sustainable. Not because it was wrong.
+      Because the descent has taken everything that held it together.
+      The crown (your authority), the robes (your role), the arguments
+      (your justifications) — all of it falls before the rider who
+      carries a banner marked with a white rose.
+
+
+      In Inanna's myth, she arrives at the throne room of the underworld
+      naked, stripped of every symbol of her power. She is killed and
+      hung on a hook. And from that death, something else begins.
+      The child in the card already knows this. The child offers flowers
+      because the child understands that death is not the enemy of life.
+    transition: >
+      The old self is dead. What remains is not yet a new self — it is
+      the raw material from which a new self might form. But first,
+      there is the sitting with it. The grief after the death. The
+      time in the dark.
+    reflection: >
+      What version of you has already died on this journey — not who
+      you wish you'd lost, but who actually fell? Can you name them?
+    aside: >
+      Death is Nun (נ), the fish — the creature that lives entirely
+      in the unconscious waters. The white rose on the black banner is
+      the Fool's rose transformed: innocence doesn't die, it changes
+      form. In the Eleusinian Mysteries — the Greek initiation rites
+      that lasted for nearly 2,000 years — the central experience was
+      a symbolic death and rebirth. Initiates were forbidden from
+      revealing what happened. We still don't know. But we know they
+      came out changed. Plutarch wrote: "At the moment of death, the
+      soul experiences something like what those experience who are
+      initiated into the great mysteries."
+
+  - id: the-grief
+    card: swords-03
+    title: "The Heart Pierced"
+    narrative: >
+      Three swords pierce a red heart. Rain falls from heavy clouds.
+      There is nothing else — no figure, no landscape, no context.
+      Just the heart and the swords and the rain.
+
+
+      After the death, before the rebirth: grief in its purest form.
+      Not grief for a specific loss — grief as a state of being. The
+      Three of Swords is the moment in the descent where the mind
+      (swords, air) finally reaches the heart. You don't just know
+      that something has died. You feel it. The intellectual
+      understanding of transformation becomes physical, cardiac,
+      unbearable.
+
+
+      This is the bottom of the emotional descent. The lowest point is
+      not death — death is a transition. The lowest point is the moment
+      after, when you're still alive and the loss is real.
+    transition: >
+      The rain falls. The heart bleeds. And somewhere beneath the storm,
+      beneath the pain, the waters are rising. The descent is no longer
+      downward — it has reached the floor. What comes next is the
+      encounter with what lives there.
+    reflection: >
+      When has grief pierced through your defenses so completely that
+      there was nothing to do but feel it? What happened after you
+      stopped trying to manage it?
+    aside: >
+      The Three of Swords is Saturn in Libra — heavy restriction in the
+      sign of balance and relationship. Threes on the Tree of Life belong
+      to Binah, the Great Mother, the Sephirah of understanding through
+      form — and through loss. Binah is sometimes called the "dark mother"
+      because she gives form to things, and form means limitation, and
+      limitation means something must be excluded. To take shape is to lose
+      infinite possibility. The Three of Swords is that grief: the grief
+      of becoming specific, of having a heart that can be pierced because
+      it chose to love something particular.
+
+  # ============================================================
+  # THE DEPTHS
+  # ============================================================
+
+  - id: the-dark-water
+    card: major-18
+    title: "The Underworld"
+    narrative: >
+      A path winds between two towers into darkness. A dog and a wolf
+      howl at a moon that sees but does not illuminate. Drops fall like
+      slow rain. And from a dark pool, a crayfish emerges — ancient,
+      armored, rising from depths so deep they predate language.
+
+
+      This is the underworld itself. Not a place you arrive at — a state
+      you enter when everything else has been stripped away. The descent
+      through the cups, through the hanging, through death, through grief
+      — it was all preparation for this. The Moon is what the Priestess's
+      veil was hiding.
+
+
+      There is no clear thought here. The dog (your trained, socialized
+      mind) and the wolf (your instinct) are both howling because neither
+      one is in charge. The only thing moving with purpose is the crayfish:
+      the oldest, deepest, most primitive content of your psyche, finally
+      surfacing because you've gone quiet enough for it to emerge.
+
+
+      You cannot navigate this. You can only be in it.
+    transition: >
+      The crayfish rises. Something from the very bottom is making its
+      way up. Not because you called it — because you finally stopped
+      making so much noise that it could surface. What emerges is not
+      what you expected.
+    reflection: >
+      What has risen from your depths when you were too exhausted or
+      stripped-down to keep it submerged? Was it what you feared, or
+      something else?
+    aside: >
+      The Moon is Qoph (ק), the "back of the head" — the part of
+      the brain that processes what consciousness doesn't see. In the
+      Inanna myth, after she is killed and hung on a hook in the
+      underworld, two creatures made of dirt are sent to retrieve her.
+      They are small, genderless, and they do not argue or fight — they
+      simply witness Ereshkigal's (queen of the underworld's) pain and
+      mirror it back. The healing of the descent happens not through
+      heroism but through witness. The crayfish is that witness: the
+      ancient thing that simply sees what's there.
+
+  - id: the-creature
+    card: cups-07
+    title: "What Lives Below"
+    narrative: >
+      Seven cups float in clouds before a shadowed figure. In the cups:
+      a castle, jewels, a wreath, a dragon, a snake, a glowing figure,
+      a veiled face. Visions. Dreams. Fears. Desires. Everything the
+      unconscious has been holding, now offered up in a phantasmagoria
+      of image and symbol.
+
+
+      At the bottom of the descent, the unconscious shows you its
+      contents. Not in the language of reason — in the language of
+      vision. Each cup holds something: an aspiration, a terror, a
+      forgotten desire, a suppressed truth. They float because they
+      have no weight here — in the depths, a dragon and a jewel are
+      equally real, equally insubstantial.
+
+
+      This is the treasure of the descent. Not a single answer but a
+      flood of images. The work — the real work, which takes longer
+      than the descent itself — is sorting them. Knowing which cup
+      holds the real thing and which holds the illusion. The descent
+      doesn't tell you. It only shows you everything.
+    transition: >
+      The visions hover. Some will dissolve; some will remain. But the
+      figure has seen them now — and what has been seen cannot be unseen.
+      The return begins. Not all at once. Slowly, like a diver surfacing
+      from deep water, letting the pressure equalize.
+    reflection: >
+      If your unconscious offered you seven cups right now, what would
+      be in them? Which ones would you be afraid to look at? Which ones
+      have you already been shown but refused to pick up?
+    aside: >
+      The Seven of Cups is Venus in Scorpio — desire meeting the
+      transformative depths. Sevens live in Netzach, the Sephirah of
+      emotion, desire, and artistic vision. This is the card most often
+      read as "illusion" or "wishful thinking" — but in the context of
+      the descent, it's the opposite. It's the unconscious finally
+      communicating. The problem isn't that the visions are false; it's
+      that they're *all* true at the symbolic level, and the conscious
+      mind must learn to read them. In Jungian active imagination, the
+      practice is to encounter these images without judging them —
+      exactly what the descent teaches.
+
+  # ============================================================
+  # THE RETURN
+  # ============================================================
+
+  - id: the-first-light
+    card: cups-06
+    title: "The Memory of Home"
+    narrative: >
+      A child offers a cup filled with flowers to another child in a
+      garden. A village behind them. An old figure walks away. The
+      scene is gentle, domestic, impossibly safe after everything
+      that came before.
+
+
+      The first sign of return is not triumph — it's nostalgia. A
+      memory of something pure, something from before the descent.
+      The Six of Cups is often read as childhood, but in this walk it
+      means something deeper: the moment when, rising from the depths,
+      you touch something you thought you'd lost. Not the thing itself —
+      the feeling of the thing. The warmth. The simplicity. The sense
+      that the world is, at some fundamental level, kind.
+
+
+      This memory is not the destination. But it's the first sign that
+      the surface world still exists and that you belong to it.
+    transition: >
+      The memory warms. The surface draws closer. But you don't return
+      to the daylight world by climbing — you return by giving. By
+      pouring out what the depths filled you with.
+    reflection: >
+      What memory, feeling, or image from your life before the descent
+      first surfaces when you begin to heal? What does it represent
+      to you — not literally, but as a symbol?
+    aside: >
+      The Six of Cups is Sun in Scorpio — light shining into the
+      depths, warmth in the sign of transformation. Sixes live in
+      Tiphareth, the heart of the Tree of Life, the Sephirah of beauty
+      and harmony. In the Inanna myth, after the goddess is resurrected
+      by the two dirt-creatures, the first thing she sees is the
+      familiar world — but it looks different. She has underworld eyes
+      now. The village looks the same. She does not. The Six of Cups
+      is that moment: the world hasn't changed, but you see it with
+      the eyes of someone who has been dead.
+
+  - id: the-pouring
+    card: major-17
+    title: "The Return as Gift"
+    narrative: >
+      Naked under stars, she kneels at the edge of a pool and pours.
+      One stream onto the earth. One stream into the water. She holds
+      nothing back. She measures nothing. The great star blazes above
+      her, and seven smaller stars attend.
+
+
+      The Star is not the end of the descent. She IS the return. She
+      is what the descent produces: a person stripped of everything
+      false, kneeling on the ground, pouring out freely what she
+      received in the depths. The water she pours is the knowledge
+      of the underworld made available to the living world.
+
+
+      She is Inanna returned. She is Persephone in spring. She is
+      Orpheus's song after the failure — the music that couldn't save
+      Eurydice but that could heal everyone else. The descent was for
+      her. The return is for everyone.
+    transition: >
+      She has poured. The earth drinks. The water receives. The
+      exchange between the depths and the surface is now open, flowing,
+      continuous. One thing remains — to see the world as it is now,
+      with new eyes.
+    reflection: >
+      What have you brought back from your own descents that you were
+      able to give to others? Not advice — something deeper. A quality
+      of presence, a capacity for empathy, a willingness to sit with
+      someone else's darkness because you've sat in your own?
+    aside: >
+      In the Inanna myth, the goddess returns from the underworld but
+      must send someone to take her place. She eventually sends Dumuzi,
+      her consort, who did not grieve her absence. The return always
+      has a cost — something in the upper world must go to the lower
+      world in exchange. The Star's nakedness is that cost made visible:
+      she has given up every defense, every covering, every armor. What
+      she pours out is what filled the space where those defenses were.
+
+  - id: the-new-world
+    card: cups-01
+    title: "The Cup Refilled"
+    narrative: >
+      A hand emerges from a cloud, holding a single golden chalice.
+      Five streams of water overflow from it — the five senses, the
+      five rivers, the five wounds. A dove descends with a communion
+      wafer. Below, lotus flowers bloom on the water's surface.
+
+
+      The journey began with a cup walked away from. It ends with a
+      cup received. But this is not the same cup. The Eight of Cups
+      held what you had built. The Ace of Cups holds what you have
+      been given — the raw emotional capacity that returns after the
+      descent has hollowed you out and the Star has begun to fill
+      you again.
+
+
+      The Ace is not a feeling. It is the capacity to feel. After
+      grief, after death, after the long walk through the Moon's
+      darkness, after the pouring-out — the heart reopens. Not because
+      you willed it open. Because the descent made space, and life
+      rushed in to fill it.
+
+
+      The cup overflows. You are not the same person who walked away.
+      You are the person who came back.
+    transition: null
+    reflection: >
+      What has the descent given you that you could not have received
+      any other way? Not what you learned — what you became?
+    aside: >
+      The Ace of Cups lives in Kether — the crown, the first
+      emanation, pure being. It is the root of Water before water
+      takes any particular form. In alchemical terms, this is the
+      *albedo* — the whitening that follows the *nigredo* (blackening/
+      death). The soul, having been dissolved, is reconstituted in
+      purified form. The dove is the Holy Spirit in Christian
+      symbolism, but older than Christianity: it is the soul-bird,
+      the breath that returns to the body after death. The lotus
+      blooms because the lotus grows in mud. It requires the dark
+      water. The descent was the mud. The Ace is the bloom.
+
+connections:
+  - walk: fools-journey
+    relationship: deepens
+    description: >
+      The Fool's Journey passes through Death, the Hanged Man, and the
+      Moon as stages in a linear progression. The Descent stops at each
+      one and asks: what is actually happening here? What does it feel
+      like from the inside? The Fool's Journey is the map; the Descent
+      is the territory.
+  - walk: shadow-walk
+    relationship: parallel
+    description: >
+      The Shadow Walk explores polarities between cards; the Descent
+      traces one side of every polarity — the dark side, the underworld
+      side, the side that only reveals itself when the light goes out.
+      The Descent is what the Shadow Walk's shadows actually look like
+      when you enter them.
+  - walk: four-lives
+    relationship: parallel
+    description: >
+      The Cups suit progression (Ace through Ten) tells the full
+      emotional life cycle. The Descent borrows specific Cups cards
+      (Eight, Five, Seven, Six, Ace) and weaves them into a mythic
+      framework. Reading the full Cups life cycle after the Descent
+      reveals how these cards function both as story beats and as
+      stages in an emotional arc.

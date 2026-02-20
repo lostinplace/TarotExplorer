@@ -1,0 +1,287 @@
+id: tree-of-life
+name: Tree of Life
+description: >
+  The Kabbalistic Tree of Life — the esoteric framework the Golden Dawn embedded
+  into the Rider-Waite-Smith deck. Ten Sephiroth (emanations of divine creation)
+  connected by 22 paths, each carrying one Major Arcana card. Pip cards cluster
+  by number into their Sephirah; court cards map to the four Kabbalistic worlds.
+  This is the structural skeleton of the deck.
+
+canvas:
+  width: 4000
+  height: 5000
+
+regions:
+  - id: kether
+    name: "Kether (Crown)"
+    description: "The first emanation. Pure being, the point before extension. Unity before duality. Aces live here — the root of each element in its most abstract form."
+    center: [2000, 400]
+    radius: 250
+
+  - id: chokmah
+    name: "Chokmah (Wisdom)"
+    description: "The first masculine principle. Dynamic force, the initial creative impulse. The moment potential becomes motion. Twos and Kings reside here."
+    center: [3200, 1000]
+    radius: 250
+
+  - id: binah
+    name: "Binah (Understanding)"
+    description: "The first feminine principle. Form, structure, the womb that receives force and gives it shape. The Great Mother. Threes and Queens reside here."
+    center: [800, 1000]
+    radius: 250
+
+  - id: daath
+    name: "Da'ath (Knowledge)"
+    description: "The hidden Sephirah — not a true emanation but the Abyss between the supernal triad and the rest of the tree. Where knowledge dissolves into understanding. No cards are assigned here, but the paths of the Fool, Magician, and High Priestess cross above it."
+    center: [2000, 1500]
+    radius: 150
+
+  - id: chesed
+    name: "Chesed (Mercy)"
+    description: "Expansive love, benevolence, the builder. Jupiter energy — growth, abundance, the desire to give without limit. Fours live here."
+    center: [3200, 2000]
+    radius: 250
+
+  - id: geburah
+    name: "Geburah (Severity)"
+    description: "Restriction, judgment, the surgeon's cut. Mars energy — necessary destruction, discipline, the courage to remove what doesn't serve. Fives live here."
+    center: [800, 2000]
+    radius: 250
+
+  - id: tiphareth
+    name: "Tiphareth (Beauty)"
+    description: "The heart of the tree. Harmony, balance, the self. The Sun. Where all paths converge and the higher and lower worlds meet. Sixes and Knights reside here."
+    center: [2000, 2600]
+    radius: 280
+
+  - id: netzach
+    name: "Netzach (Victory)"
+    description: "Emotion, desire, artistic impulse, the drive toward connection. Venus energy — love as force, beauty as power. Sevens live here."
+    center: [3200, 3200]
+    radius: 250
+
+  - id: hod
+    name: "Hod (Splendor)"
+    description: "Intellect, communication, systems and analysis. Mercury energy — the mind that categorizes, names, and transmits. Eights live here."
+    center: [800, 3200]
+    radius: 250
+
+  - id: yesod
+    name: "Yesod (Foundation)"
+    description: "The unconscious, dreams, the astral plane, sexuality. The Moon — the mirror that reflects the higher Sephiroth into material form. Nines live here."
+    center: [2000, 3800]
+    radius: 250
+
+  - id: malkuth
+    name: "Malkuth (Kingdom)"
+    description: "The material world. The body, the earth, the manifest. Where all the forces of the tree finally land. Tens and Pages reside here."
+    center: [2000, 4500]
+    radius: 280
+
+paths:
+  # Supernal triad
+  - from: kether
+    to: chokmah
+    label: "Aleph — The Fool"
+    style: solid
+  - from: kether
+    to: binah
+    label: "Beth — The Magician"
+    style: solid
+  - from: kether
+    to: tiphareth
+    label: "Gimel — The High Priestess"
+    style: solid
+  - from: chokmah
+    to: binah
+    label: "Daleth — The Empress"
+    style: solid
+  - from: chokmah
+    to: tiphareth
+    label: "Heh — The Emperor"
+    style: solid
+  - from: chokmah
+    to: chesed
+    label: "Vav — The Hierophant"
+    style: solid
+  - from: binah
+    to: tiphareth
+    label: "Zayin — The Lovers"
+    style: solid
+  - from: binah
+    to: geburah
+    label: "Cheth — The Chariot"
+    style: solid
+  # Ethical triad
+  - from: chesed
+    to: geburah
+    label: "Teth — Strength"
+    style: solid
+  - from: chesed
+    to: tiphareth
+    label: "Yod — The Hermit"
+    style: solid
+  - from: chesed
+    to: netzach
+    label: "Kaph — Wheel of Fortune"
+    style: solid
+  - from: geburah
+    to: tiphareth
+    label: "Lamed — Justice"
+    style: solid
+  - from: geburah
+    to: hod
+    label: "Mem — The Hanged Man"
+    style: solid
+  # Lower paths
+  - from: tiphareth
+    to: netzach
+    label: "Nun — Death"
+    style: solid
+  - from: tiphareth
+    to: yesod
+    label: "Samekh — Temperance"
+    style: solid
+  - from: tiphareth
+    to: hod
+    label: "Ayin — The Devil"
+    style: solid
+  - from: netzach
+    to: hod
+    label: "Peh — The Tower"
+    style: solid
+  - from: netzach
+    to: yesod
+    label: "Tzaddi — The Star"
+    style: solid
+  - from: netzach
+    to: malkuth
+    label: "Qoph — The Moon"
+    style: solid
+  - from: hod
+    to: yesod
+    label: "Resh — The Sun"
+    style: solid
+  - from: hod
+    to: malkuth
+    label: "Shin — Judgement"
+    style: solid
+  - from: yesod
+    to: malkuth
+    label: "Tav — The World"
+    style: solid
+
+cards:
+  # === MAJOR ARCANA — placed at path midpoints ===
+  major-00: [2600, 700]       # Fool: Kether→Chokmah
+  major-01: [1400, 700]       # Magician: Kether→Binah
+  major-02: [2000, 1500]      # High Priestess: Kether→Tiphareth (crosses the Abyss)
+  major-03: [2000, 1000]      # Empress: Chokmah→Binah
+  major-04: [2600, 1800]      # Emperor: Chokmah→Tiphareth
+  major-05: [3200, 1500]      # Hierophant: Chokmah→Chesed
+  major-06: [1400, 1800]      # Lovers: Binah→Tiphareth
+  major-07: [800, 1500]       # Chariot: Binah→Geburah
+  major-08: [2000, 2000]      # Strength: Chesed→Geburah
+  major-09: [2600, 2300]      # Hermit: Chesed→Tiphareth
+  major-10: [3200, 2600]      # Wheel of Fortune: Chesed→Netzach
+  major-11: [1400, 2300]      # Justice: Geburah→Tiphareth
+  major-12: [800, 2600]       # Hanged Man: Geburah→Hod
+  major-13: [2600, 2900]      # Death: Tiphareth→Netzach
+  major-14: [2050, 3200]      # Temperance: Tiphareth→Yesod
+  major-15: [1400, 2900]      # Devil: Tiphareth→Hod
+  major-16: [1950, 3250]      # Tower: Netzach→Hod (offset from Temperance)
+  major-17: [2600, 3500]      # Star: Netzach→Yesod
+  major-18: [2600, 3850]      # Moon: Netzach→Malkuth
+  major-19: [1400, 3500]      # Sun: Hod→Yesod
+  major-20: [1400, 3850]      # Judgement: Hod→Malkuth
+  major-21: [2000, 4150]      # World: Yesod→Malkuth
+
+  # === PIP CARDS — clustered in their Sephirah ===
+  # Layout: Wands(top/Fire) Swords(left/Air) Cups(right/Water) Pentacles(bottom/Earth)
+  # Offset ~120px from Sephirah center
+
+  # Kether — Aces
+  wands-01: [2000, 280]
+  swords-01: [1880, 400]
+  cups-01: [2120, 400]
+  pentacles-01: [2000, 520]
+
+  # Chokmah — Twos
+  wands-02: [3200, 880]
+  swords-02: [3080, 1000]
+  cups-02: [3320, 1000]
+  pentacles-02: [3200, 1120]
+
+  # Binah — Threes
+  wands-03: [800, 880]
+  swords-03: [680, 1000]
+  cups-03: [920, 1000]
+  pentacles-03: [800, 1120]
+
+  # Chesed — Fours
+  wands-04: [3200, 1880]
+  swords-04: [3080, 2000]
+  cups-04: [3320, 2000]
+  pentacles-04: [3200, 2120]
+
+  # Geburah — Fives
+  wands-05: [800, 1880]
+  swords-05: [680, 2000]
+  cups-05: [920, 2000]
+  pentacles-05: [800, 2120]
+
+  # Tiphareth — Sixes
+  wands-06: [2000, 2480]
+  swords-06: [1880, 2600]
+  cups-06: [2120, 2600]
+  pentacles-06: [2000, 2720]
+
+  # Netzach — Sevens
+  wands-07: [3200, 3080]
+  swords-07: [3080, 3200]
+  cups-07: [3320, 3200]
+  pentacles-07: [3200, 3320]
+
+  # Hod — Eights
+  wands-08: [800, 3080]
+  swords-08: [680, 3200]
+  cups-08: [920, 3200]
+  pentacles-08: [800, 3320]
+
+  # Yesod — Nines
+  wands-09: [2000, 3680]
+  swords-09: [1880, 3800]
+  cups-09: [2120, 3800]
+  pentacles-09: [2000, 3920]
+
+  # Malkuth — Tens
+  wands-10: [2000, 4380]
+  swords-10: [1880, 4500]
+  cups-10: [2120, 4500]
+  pentacles-10: [2000, 4620]
+
+  # === COURT CARDS — by Kabbalistic World ===
+
+  # Kings (Atziluth/Fire) — near Chokmah, outer right
+  wands-14: [3600, 800]
+  cups-14: [3600, 950]
+  swords-14: [3600, 1100]
+  pentacles-14: [3600, 1250]
+
+  # Queens (Briah/Water) — near Binah, outer left
+  wands-13: [400, 800]
+  cups-13: [400, 950]
+  swords-13: [400, 1100]
+  pentacles-13: [400, 1250]
+
+  # Knights (Yetzirah/Air) — near Tiphareth, offset right
+  wands-12: [2400, 2450]
+  cups-12: [2400, 2580]
+  swords-12: [2400, 2710]
+  pentacles-12: [2400, 2840]
+
+  # Pages (Assiah/Earth) — near Malkuth, offset right
+  wands-11: [2350, 4350]
+  cups-11: [2350, 4480]
+  swords-11: [2350, 4610]
+  pentacles-11: [2350, 4740]

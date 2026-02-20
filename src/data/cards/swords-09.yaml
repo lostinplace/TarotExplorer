@@ -1,0 +1,115 @@
+id: swords-09
+name: Nine of Swords
+arcana: minor
+suit: swords
+rank: 9
+image: RWSa-S-09.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Anxiety
+    - Nightmares
+    - Despair
+    - Mental anguish
+    - Worry
+  meaning: >
+    A figure sits up in bed, face in hands, nine swords mounted horizontally
+    on the wall behind. This is 3 AM anxiety — the thoughts that attack in
+    the dark when defenses are down. The mind torturing itself with worst-case
+    scenarios, guilt, shame, or dread. The swords aren't falling; they're
+    just there, and that's enough.
+reversed:
+  keywords:
+    - Recovery from anxiety
+    - Releasing worry
+    - Light at the end
+    - Sharing your burden
+    - Inner calm returning
+  meaning: >
+    Reversed, the nightmare begins to break. You wake up and realize the fears
+    were exaggerated — or you finally share the burden that's been eating you
+    alive. Can also indicate deep-seated anxiety that hasn't surfaced yet, the
+    depression beneath the panic.
+imagery:
+  - element: Figure sitting up in bed, face in hands
+    significance: >
+      The universal posture of anguish — woken from sleep (or unable to sleep)
+      by the mind's own cruelty. The bedroom, normally a place of rest and
+      safety, has become a torture chamber. The darkness is internal.
+    tradition: RWS psychological realism
+  - element: Nine swords mounted horizontally on the black wall
+    significance: >
+      The swords are arranged in a grid — ordered, systematic, relentless.
+      These aren't chaotic threats but organized anxieties, each one a
+      distinct worry or regret catalogued by the mind. Nine is one short of
+      completion — the dread of what's coming next.
+    tradition: Numerological — Yesod (foundation) destabilized
+  - element: Quilt decorated with roses and astrological symbols
+    significance: >
+      Even in anguish, beauty and meaning persist — the quilt suggests that
+      the sufferer's life contains richness they can't see right now. The
+      zodiac signs hint at fate and cosmic order beneath personal chaos.
+    tradition: RWS detail — comfort objects in dark scenes
+  - element: Carved bed panel showing one figure defeating another
+    significance: >
+      A scene of combat or domination carved into the bed itself — the mind
+      at war with itself is embedded in the very structure of rest. You bring
+      the battle to bed with you.
+    tradition: RWS symbolic furniture
+correspondences:
+  element: Air
+  planet: Mars
+  zodiac: Gemini
+  hebrew_letter: null
+  tree_of_life: Yesod (Foundation) — the subconscious, dreams, the astral plane
+  numerology: >
+    9 — culmination, the final single digit. In Swords, nine is the mind's
+    anguish reaching its peak before the Ten's total collapse. Everything
+    you've worried about crystallizes into this one sleepless night.
+  colors:
+    - Black (the wall — darkness, the void of 3 AM)
+    - Yellow (the quilt — life and warmth still present but ignored)
+connections:
+  - card: swords-08
+    relationship: sequence
+    description: >
+      The Eight's mental prison becomes the Nine's mental torture. Trapped
+      in your thoughts during the day (Eight), tormented by them at night
+      (Nine). The progression from restriction to anguish.
+  - card: swords-03
+    relationship: echo
+    description: >
+      The Three is acute heartbreak — sharp, specific pain. The Nine is
+      chronic anxiety — diffuse, nocturnal, self-generated. Different
+      flavors of mental suffering.
+  - card: major-18
+    relationship: echo
+    description: >
+      The Moon card rules the night, fear, and the unconscious. The Nine
+      of Swords is the lived experience of the Moon's terrain — lost in
+      darkness with your own fears as companions.
+themes:
+  - "The mind as its own torturer"
+  - "Anxiety as distorted perception — real feelings about unreal threats"
+  - "The loneliness of 3 AM — suffering that can't be shared"
+  - "The gap between what you fear and what is actually happening"
+questions:
+  - What are you lying awake worrying about, and how much of it is real?
+  - What would you tell a friend who was carrying this same anxiety?
+  - When has your worst fear actually come true — and when hasn't it?
+  - What would it take to share what's keeping you up at night?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack emphasizes that the Nine shows suffering that is primarily
+      mental — the swords don't touch the figure. The anguish is
+      self-generated, which is both the problem and the potential solution.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite lists "death, failure, miscarriage, delay, deception" — but
+      Smith painted anxiety, not events. The card is about the fear of
+      these things, not their occurrence.
+    section: "Part III: The Minor Arcana — Suit of Swords"

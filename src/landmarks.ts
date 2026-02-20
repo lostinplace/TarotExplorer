@@ -1,6 +1,5 @@
 import L from 'leaflet';
-import { TarotCard } from './types';
-import { DiscoveryState, isDiscovered } from './discovery';
+import { TarotCard, MapData } from './types';
 
 export interface LandmarkEntry {
   card: TarotCard;
@@ -10,54 +9,59 @@ export interface LandmarkEntry {
 export function createLandmarks(
   map: L.Map,
   cards: TarotCard[],
-  state: DiscoveryState,
+  mapData: MapData,
   onSelect: (card: TarotCard) => void,
 ): LandmarkEntry[] {
-  return cards.map(card => {
-    const discovered = isDiscovered(state, card.id);
+  const entries: LandmarkEntry[] = [];
+  
+  for (const card of cards) {
+    const position = mapData.cards[card.id];
+    if (!position) continue;
+
     const suitClass = card.suit ? `suit-${card.suit}` : 'suit-major';
-    const stateClass = discovered ? 'discovered' : 'undiscovered';
+    const stateClass = 'discovered';
 
     const html = `
-      <div class="card-landmark ${stateClass} ${discovered ? suitClass : ''}">
+      <div class="card-landmark ${stateClass} ${suitClass}">
         <span>${card.symbol}</span>
-        ${discovered ? `<div class="card-label">${card.name}</div>` : ''}
+        <div class="card-label">${card.name}</div>
       </div>
     `;
 
     const icon = L.divIcon({
       className: 'card-landmark-wrapper',
       html,
-      iconSize: discovered ? [40, 40] : [28, 28],
-      iconAnchor: discovered ? [20, 20] : [14, 14],
+      iconSize: [40, 40],
+      iconAnchor: [20, 20],
     });
 
-    // Leaflet uses [lat, lng] which maps to [y, x] in CRS.Simple
-    const marker = L.marker([card.position[1], card.position[0]], { icon }).addTo(map);
+    const marker = L.marker([position[1], position[0]], { icon }).addTo(map);
 
     marker.on('click', () => onSelect(card));
 
-    return { card, marker };
-  });
+    entries.push({ card, marker });
+  }
+
+  return entries;
 }
 
-export function updateLandmark(entry: LandmarkEntry, discovered: boolean): void {
+export function updateLandmark(entry: LandmarkEntry): void {
   const card = entry.card;
   const suitClass = card.suit ? `suit-${card.suit}` : 'suit-major';
-  const stateClass = discovered ? 'discovered' : 'undiscovered';
+  const stateClass = 'discovered';
 
   const html = `
-    <div class="card-landmark ${stateClass} ${discovered ? suitClass : ''}">
+    <div class="card-landmark ${stateClass} ${suitClass}">
       <span>${card.symbol}</span>
-      ${discovered ? `<div class="card-label">${card.name}</div>` : ''}
+      <div class="card-label">${card.name}</div>
     </div>
   `;
 
   const icon = L.divIcon({
     className: 'card-landmark-wrapper',
     html,
-    iconSize: discovered ? [40, 40] : [28, 28],
-    iconAnchor: discovered ? [20, 20] : [14, 14],
+    iconSize: [40, 40],
+    iconAnchor: [20, 20],
   });
 
   entry.marker.setIcon(icon);

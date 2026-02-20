@@ -1,0 +1,146 @@
+id: major-10
+name: Wheel of Fortune
+arcana: major
+suit: null
+rank: 10
+image: RWSa-T-10.png
+symbol: 🎡
+upright:
+  keywords:
+    - Change
+    - Cycles
+    - Fate
+    - Turning point
+    - Destiny
+  meaning: >
+    The Wheel turns — what was down comes up, what was up comes down. This is
+    the great cycle of fortune, the reminder that change is the only constant.
+    You are not in control of the Wheel, but you can choose how you ride it.
+    This card marks a pivot point where fate intervenes and the landscape
+    shifts.
+reversed:
+  keywords:
+    - Bad luck
+    - Resistance to change
+    - Breaking cycles
+    - Setbacks
+    - Karmic repetition
+  meaning: >
+    Reversed, the Wheel suggests fighting against inevitable change, a downturn
+    in fortune, or the need to break free from a repeating pattern. You may be
+    stuck in a cycle — same mistakes, same dynamics, different faces. The
+    question is whether you're learning from the rotation or just enduring it.
+imagery:
+  - element: Central wheel with TARO/ROTA letters and Hebrew YHVH
+    significance: >
+      The outer ring bears four letters — T, A, R, O — which also spell ROTA
+      (Latin for wheel), TORA, and TAROT. Interspersed are the Hebrew letters
+      Yod, Heh, Vav, Heh — the Tetragrammaton, the unpronounceable name of God.
+      The wheel of fate and the divine name occupy the same circle: fortune and
+      providence are intertwined.
+    tradition: Hermetic / Kabbalistic / Latin
+  - element: Alchemical symbols on the inner wheel
+    significance: >
+      Mercury, sulfur, water, and salt — the four alchemical principles. The
+      inner workings of the Wheel are alchemical transformation: base
+      experience transmuted through the cycle of change. What looks like random
+      fortune has an inner logic.
+    tradition: Alchemical
+  - element: Sphinx atop the wheel holding a sword
+    significance: >
+      The sphinx represents the fixed point of wisdom that does not turn with
+      the wheel. It sits at the apex, bearing a sword of discernment. The
+      riddle of the sphinx: understanding the nature of change is the key to
+      surviving it. Only awareness sits still while fortune revolves.
+    tradition: Egyptian / Greek (Oedipus myth)
+  - element: Serpent descending on the left
+    significance: >
+      Typhon/Set — the descending principle, entropy, the downward arc of
+      fortune. The serpent slides down the Wheel's left side, representing the
+      fall from grace, the inevitable decline that follows every peak.
+    tradition: Egyptian (Set/Typhon) / Biblical (the Fall)
+  - element: Anubis rising on the right
+    significance: >
+      The jackal-headed figure ascending — Anubis/Hermanubis, guide of souls,
+      the principle of regeneration. What goes down must come back up. The
+      psychopomp who escorts you through the underworld and back.
+    tradition: Egyptian (Anubis) / Hermetic
+  - element: Four winged creatures in the corners
+    significance: >
+      The cherubim of Ezekiel's vision — bull, lion, eagle, and human/angel —
+      representing the four fixed signs (Taurus, Leo, Scorpio, Aquarius) and
+      the four elements. Each reads a book: the fixed signs provide the stable
+      framework within which the Wheel turns. They appear again in The World.
+    tradition: "Biblical (Ezekiel 1:10, Revelation 4:7) / Astrological"
+correspondences:
+  element: Fire
+  planet: Jupiter
+  zodiac: null
+  hebrew_letter: "Kaph (כ)"
+  tree_of_life: "Path 21: Chesed (Mercy) → Netzach (Victory)"
+  numerology: >
+    10 — completion and return. The Pythagorean Tetractys (1+2+3+4=10),
+    containing all numbers within itself. Ten is one and zero: the return
+    to unity at a higher level. The Wheel marks the midpoint of the Major
+    Arcana — the turn from outer to inner journey.
+  colors:
+    - Blue (celestial background, the sky of fate)
+    - Orange (the Wheel, alchemical fire, transformation)
+    - Yellow (the sphinx, wisdom, solar awareness)
+connections:
+  - card: major-21
+    relationship: echo
+    description: >
+      The World and the Wheel share the four cherubim in the corners — the
+      same cosmic framework. The Wheel shows fate in motion; The World shows
+      the dance within fate's circle. Spinning versus dancing.
+  - card: major-09
+    relationship: sequence
+    description: >
+      The Hermit's inner preparation meets the Wheel's external change.
+      After solitary reflection, fate intervenes — ready or not. The
+      transition from inner work to the world's response.
+  - card: major-13
+    relationship: echo
+    description: >
+      Death and the Wheel both speak to inevitable transformation. The Wheel
+      is the abstract principle; Death is the lived experience. One turns,
+      the other arrives.
+  - card: major-00
+    relationship: echo
+    description: >
+      The Fool and the Wheel both involve stepping into what you can't
+      control. The Fool chooses to leap; the Wheel turns regardless.
+      Innocence and fate — both are beyond your management.
+themes:
+  - "Impermanence — the Buddhist and Stoic insight that nothing lasts"
+  - "Kairos versus chronos — the moment of turning versus the flow of linear time"
+  - "Fortune as teacher — what you learn from loss that success can't teach"
+  - "The pattern beneath the chaos — cycles, seasons, and the hidden order in change"
+questions:
+  - "What cycle are you currently in — ascending, descending, or at a turning point?"
+  - "What pattern keeps repeating in your life, and what would it take to break it?"
+  - "How do you relate to changes you didn't choose — do you ride them or resist them?"
+  - "What would you do differently if you truly accepted that this, too, shall pass?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description emphasizes the wheel as the "perpetual motion of a
+      fluidic universe." His occult readers would have recognized the ROTA/TARO
+      cipher immediately.
+    section: "Part II: The Major Trumps — X. Wheel of Fortune"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's treatment focuses on the card as the midpoint of the Major
+      Arcana — the transition from the outer, social world (1-9) to the
+      inner, spiritual journey (11-21).
+    section: "Chapter 10: Wheel of Fortune"
+  - title: The Consolation of Philosophy
+    author: Boethius
+    relevance: >
+      The original philosophical meditation on Fortune's Wheel. Boethius's
+      argument that happiness must be independent of fortune is the Wheel
+      card's deepest teaching.
+    section: "Book II: The Fickleness of Fortune"

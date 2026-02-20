@@ -1,0 +1,112 @@
+id: swords-01
+name: Ace of Swords
+arcana: minor
+suit: swords
+rank: 1
+image: RWSa-S-0A.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Clarity
+    - Breakthrough
+    - New idea
+    - Truth
+    - Mental force
+  meaning: >
+    A single sword pierces the clouds, crowned with victory. This is the pure
+    seed of intellect — a moment of absolute clarity where confusion falls away
+    and truth stands naked. The Ace of Swords is the flash of insight, the
+    decisive cut that separates what is from what isn't.
+reversed:
+  keywords:
+    - Confusion
+    - Misinformation
+    - Brutality of thought
+    - Clouded judgment
+    - Hollow victory
+  meaning: >
+    Reversed, the blade turns against its wielder. Mental clarity degrades into
+    confusion, or worse — intellect weaponized without conscience. A truth
+    spoken to wound rather than illuminate. The breakthrough that cuts too deep,
+    or the brilliant idea built on a false premise.
+imagery:
+  - element: Hand emerging from a cloud, gripping a sword
+    significance: >
+      The divine hand — power offered from beyond the material plane. As with
+      all four Aces, the gift comes from the clouds (spirit/the unconscious),
+      not from human effort. You don't forge this sword; it is given to you.
+    tradition: Hermetic — the hand of God motif across all RWS Aces
+  - element: Crown at the sword's tip with laurel and olive branches
+    significance: >
+      Victory (laurel) and peace (olive) balanced together. The crown suggests
+      that true mental mastery achieves both — the capacity to win and the
+      wisdom to make peace. The sword earns the crown, not the other way around.
+    tradition: Greco-Roman victory symbolism
+  - element: Six yods (droplets) falling from the crown
+    significance: >
+      Yods represent divine sparks — the Hebrew letter Yod (י) is the seed of
+      all other letters. Six yods suggest the six directions of manifest space.
+      The insight of the Ace scatters seeds of consequence into the world.
+    tradition: Kabbalistic
+  - element: Barren mountainous landscape below
+    significance: >
+      The mental realm is stark and unadorned — no lush growth of Cups or
+      Pentacles. The mountains suggest challenges that can only be navigated
+      through clarity of thought. This is high, cold, clear air.
+    tradition: Elemental — Air as the suit's domain
+correspondences:
+  element: Air
+  planet: null
+  zodiac: null
+  hebrew_letter: null
+  tree_of_life: Kether (Crown) — the pure, undifferentiated source
+  numerology: >
+    1 — the point of origin, undivided potential. In the suit of Swords, this
+    is the first thought before it becomes opinion, the truth before it becomes
+    argument.
+  colors:
+    - Grey (the clouds — liminal, between worlds)
+    - Gold (the crown — mental triumph)
+    - White (the light behind the hand — purity of thought)
+connections:
+  - card: major-01
+    relationship: echo
+    description: >
+      The Magician channels all four elements; the Ace of Swords is the pure
+      essence of one. Both represent the moment of directed will, but the Ace
+      is specifically intellectual — the Magician's sword isolated and amplified.
+  - card: swords-02
+    relationship: sequence
+    description: >
+      The Ace's single clear truth immediately creates duality in the Two —
+      once you see clearly, you must choose. Clarity begets decision.
+  - card: cups-01
+    relationship: polarity
+    description: >
+      The Ace of Cups offers emotional/intuitive knowing; the Ace of Swords
+      offers intellectual/analytical knowing. Heart versus mind, reception
+      versus incision.
+themes:
+  - "The double edge — truth liberates and wounds simultaneously"
+  - "Clarity as a gift, not an achievement"
+  - "The mind's power to cut through illusion"
+  - "Beginnings that demand courage to follow through"
+questions:
+  - What truth are you avoiding because it would require you to act?
+  - When did a single insight change everything for you?
+  - Are you using your intellect to illuminate or to dominate?
+  - What would you see clearly if you stopped wanting a particular answer?
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description is deliberately spare — he emphasizes triumph and
+      force. Notice how he frames the Ace as both creative and destructive.
+    section: "Part III: The Minor Arcana — Suit of Swords"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack connects the Ace to the idea of primal mind — thought before
+      it becomes entangled with emotion or ego. Her reading emphasizes the
+      spiritual dimension of mental clarity.
+    section: "Minor Arcana: Swords"

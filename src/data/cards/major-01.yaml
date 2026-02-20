@@ -1,0 +1,153 @@
+id: major-01
+name: The Magician
+arcana: major
+suit: null
+rank: 1
+image: RWSa-T-01.png
+symbol: 🪄
+upright:
+  keywords:
+    - Manifestation
+    - Willpower
+    - Skill
+    - Resourcefulness
+    - Focused intention
+  meaning: >
+    The Magician channels cosmic energy through focused will. All four elements
+    are at his command — he transforms potential into reality through skill and
+    intention. This is the moment where "I could" becomes "I will." He doesn't
+    create from nothing; he directs what already exists.
+reversed:
+  keywords:
+    - Manipulation
+    - Trickery
+    - Untapped talent
+    - Deception
+    - Misaligned will
+  meaning: >
+    Reversed, The Magician becomes the con artist — using gifts to deceive
+    rather than create. Or it signals talent left dormant, potential squandered
+    through lack of focus. The tools are on the table but you won't pick them
+    up, or you're using them to manipulate rather than manifest.
+imagery:
+  - element: Right hand raised with wand, left hand pointing down
+    significance: >
+      The classic "as above, so below" gesture — drawing power from the divine
+      (above) and directing it into the material world (below). He is a conduit,
+      not a source. The wand in the raised hand is the instrument of will,
+      focusing what would otherwise be diffuse spiritual energy.
+    tradition: "Hermetic — The Emerald Tablet of Hermes Trismegistus"
+  - element: Lemniscate (infinity symbol) above his head
+    significance: >
+      The horizontal figure-eight represents infinite potential and the eternal
+      cycling of energy. It floats above him, not on him — suggesting that
+      infinity is the context he works within, not something he possesses.
+      This same symbol appears on the Strength card.
+    tradition: Mathematical mysticism / Hermetic
+  - element: Table with cup, pentacle, sword, and wand
+    significance: >
+      The four suits of the Minor Arcana — the four elements, the four
+      directions, the four modes of engaging reality. The Magician has access
+      to all of them. They're laid out like tools on a workbench, not treasures
+      in a vault. They're meant to be used.
+    tradition: Elemental / Western esoteric
+  - element: Red robe over white undergarment
+    significance: >
+      Red is action, will, desire — the outer expression. White is purity,
+      spiritual foundation — the inner reality. The Magician's power is
+      spiritual energy clothed in active will. Without the white beneath,
+      the red becomes mere aggression.
+    tradition: Alchemical (rubedo over albedo)
+  - element: Garden of roses and lilies
+    significance: >
+      Roses (red, desire, passion) above and lilies (white, purity, spiritual
+      truth) below frame the figure. The cultivated garden suggests that nature
+      responds to conscious will — this is not wilderness but a shaped
+      environment. The Magician's work produces real growth.
+    tradition: Rosicrucian / Alchemical
+  - element: Ouroboros belt (snake eating its tail)
+    significance: >
+      The snake forming a circle around his waist represents eternity,
+      self-renewal, and the cyclical nature of creation. At his center of
+      gravity — where will meets action — sits the symbol of endless
+      transformation.
+    tradition: Alchemical / Gnostic
+correspondences:
+  element: Air
+  planet: Mercury
+  zodiac: null
+  hebrew_letter: "Beth (ב)"
+  tree_of_life: "Path 12: Kether (Crown) → Binah (Understanding)"
+  numerology: >
+    1 — unity, the first act of creation, the point from which all else
+    extends. One is not lonely; it's the concentrated singularity before
+    multiplication. The first differentiation from zero.
+  colors:
+    - Red (will, action, desire)
+    - White (purity, spiritual foundation)
+    - Yellow (intellect, Mercury, communication)
+connections:
+  - card: major-02
+    relationship: polarity
+    description: >
+      The Magician acts; the High Priestess receives. He channels power
+      downward into manifestation; she draws wisdom upward from the
+      unconscious. Active and passive, Mercury and Moon, table and veil.
+  - card: major-00
+    relationship: sequence
+    description: >
+      The Fool's raw potential meets focused will and becomes The Magician.
+      Where The Fool leaps without a plan, The Magician has all four tools
+      on the table and knows how to use them.
+  - card: major-15
+    relationship: shadow
+    description: >
+      The Devil is The Magician's shadow — both figures make the "as above,
+      so below" gesture, but The Devil inverts it. Conscious will becomes
+      compulsive bondage. The same power, directed toward enslavement
+      rather than creation.
+  - card: major-07
+    relationship: echo
+    description: >
+      The Chariot echoes The Magician's theme of will directing force, but
+      at a larger scale — controlling opposing energies in motion rather
+      than static tools on a table. Willpower in action vs. willpower in
+      preparation.
+themes:
+  - "Agency — the philosophical assertion that you can cause effects in the world"
+  - "Skill as spiritual practice — mastery of craft as a form of devotion"
+  - "The tool-user — what separates directed action from random motion"
+  - "Correspondence — the Hermetic principle that all levels of reality mirror each other"
+questions:
+  - "What tools do you have that you're not using?"
+  - "Where is your intention unclear — where are you acting without knowing what you want?"
+  - "What's the difference between influence and manipulation in your life right now?"
+  - "If you had all the resources you needed, what would you actually do?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite connects The Magician to Mercury and emphasizes skill and diplomacy.
+      His description is notably brief — much of the card's meaning is encoded
+      in the visual symbols rather than his text.
+    section: "Part II: The Major Trumps — I. The Magician"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's treatment emphasizes The Magician as the first act of
+      consciousness — awareness becoming will. She connects the four tools
+      to psychological functions.
+    section: "Chapter 1: The Magician"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Magus is more explicitly Mercurial — the trickster aspect is
+      foregrounded. Useful for understanding why the same archetype produces
+      both the creator and the con artist.
+    section: "Atu I: The Magus"
+  - title: The Kybalion
+    author: Three Initiates
+    relevance: >
+      The Hermetic principles — especially Correspondence and Mentalism —
+      are the philosophical foundation of The Magician's gesture and power.
+    section: "Chapter II: The Seven Hermetic Principles"

@@ -1,0 +1,125 @@
+﻿id: cups-10
+name: Ten of Cups
+arcana: minor
+suit: cups
+rank: 10
+image: RWSa-C-10.png
+symbol: 🍷
+upright:
+  keywords:
+    - Happiness
+    - Family
+    - Harmony
+    - Emotional fulfillment
+    - Lasting joy
+  meaning: >
+    A couple stands with arms raised toward a rainbow of ten cups while their
+    children play nearby. This is the culmination of the Cups suit — love
+    that has grown into a life, emotion that has built something lasting.
+    Family happiness, deep belonging, and the rare experience of looking
+    at your life and feeling genuinely grateful.
+reversed:
+  keywords:
+    - Broken family
+    - Disharmony
+    - Unrealistic expectations
+    - Disconnection
+    - Domestic unhappiness
+  meaning: >
+    The rainbow picture doesn't match reality. Family conflict, domestic
+    unhappiness, or the painful gap between what your life looks like from
+    the outside and how it feels from the inside. Can indicate holding your
+    relationships to an impossible ideal and feeling perpetually disappointed.
+imagery:
+  - element: Couple with arms raised in gratitude, looking at the sky
+    significance: >
+      Joy expressed openly, together — not performed for others but shared
+      between partners. The raised arms suggest both celebration and
+      reception — they are giving thanks and receiving blessing
+      simultaneously. Unlike the Nine's solitary satisfaction, this
+      happiness is relational.
+    tradition: Devotional — the gesture of prayer and praise
+  - element: Rainbow arc containing ten cups
+    significance: >
+      The rainbow is God's covenant — the promise that the flood is over,
+      that the worst has passed. Ten cups arranged in it represent the
+      full spectrum of emotional experience culminating in harmony. The
+      rainbow also bridges earth and sky, human love and divine blessing.
+    tradition: Biblical — Genesis 9:13, the Noahic covenant
+  - element: Two children playing together
+    significance: >
+      Love made manifest in the next generation. The children play freely,
+      unburdened — they are the fruit of the couple's emotional journey.
+      Their carefree joy is possible because the adults did the work of
+      building a secure foundation.
+    tradition: Pastoral / family iconography
+  - element: A cozy home and rolling green landscape
+    significance: >
+      The domestic ideal — a home in a verdant landscape, the garden
+      cultivated. This is love that has been grounded in daily life, not
+      just felt but built. The stream flowing nearby keeps the Cups
+      element present — emotion still flows, it hasn't stagnated.
+    tradition: Pastoral / domestic
+correspondences:
+  element: Water
+  planet: Mars
+  zodiac: Pisces
+  hebrew_letter: null
+  tree_of_life: "Malkuth (10 — Kingdom)"
+  numerology: >
+    10 — completion, fulfillment, the full expression of the suit's energy
+    in the material world. The Ten is the Ace fully realized — the seed
+    of emotional potential has grown into a life of love and belonging.
+  colors:
+    - Rainbow spectrum (wholeness, the full range of feeling)
+    - Green (growth, fertility, the living landscape)
+    - Blue (the stream — emotion still flowing)
+connections:
+  - card: cups-09
+    relationship: sequence
+    description: >
+      The Nine's personal satisfaction expands into the Ten's shared joy.
+      Individual contentment becomes family happiness — fulfillment that
+      includes others.
+  - card: cups-01
+    relationship: polarity
+    description: >
+      The Ace is the seed; the Ten is the harvest. Pure emotional potential
+      has become a fully realized life of love. The circle of the suit
+      completes.
+  - card: pentacles-10
+    relationship: echo
+    description: >
+      Both Tens depict generational abundance — the Ten of Pentacles
+      through material legacy, the Ten of Cups through emotional legacy.
+      Together they represent the fullest vision of "the good life."
+  - card: major-19
+    relationship: echo
+    description: >
+      The Sun radiates the same joy and wholeness but at a cosmic scale.
+      The Ten of Cups is the domestic, human-sized version — no less
+      precious for being ordinary.
+themes:
+  - Emotional completion — love that has grown into a life
+  - The domestic as sacred — finding the divine in family and home
+  - Gratitude — the rare capacity to recognize happiness while you're in it
+  - Legacy — what you build emotionally outlasts you
+questions:
+  - What does your version of the Ten of Cups look like — not the ideal, but yours?
+  - Can you recognize happiness while you're living it, or only in retrospect?
+  - What emotional legacy are you building for the people who come after you?
+  - Where does your picture of "the good life" come from — your own heart or someone else's expectations?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack notes this card's deceptive simplicity — it looks like a
+      greeting card, but the emotional maturity required to reach genuine
+      contentment is the entire journey of the Cups suit.
+    section: "Cups: Ten"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes "contentment, repose of the entire heart" and
+      emphasizes the card's connection to home, family, and lasting peace.
+    section: "Part III: The Minor Arcana — Ten of Cups"

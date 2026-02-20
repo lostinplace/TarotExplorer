@@ -1,0 +1,112 @@
+id: wands-03
+name: Three of Wands
+arcana: minor
+suit: wands
+rank: 3
+image: RWSa-W-03.png
+symbol: 🔥
+upright:
+  keywords:
+    - Expansion
+    - Foresight
+    - Enterprise
+    - Exploration
+    - Progress
+  meaning: >
+    A figure stands on a cliff overlooking the sea, watching ships sail toward
+    the horizon. The plans made in the Two have been set in motion — this is
+    the moment of committed expansion. You've launched something into the
+    world and now wait with confidence for it to reach distant shores.
+reversed:
+  keywords:
+    - Delays in progress
+    - Overextension
+    - Failed expansion
+    - Lack of foresight
+    - Frustration
+  meaning: >
+    The ships don't come back, or the horizon feels empty. Plans hit unexpected
+    obstacles, or you expanded too fast without adequate preparation. Can also
+    suggest a reluctance to think big — limiting yourself to what's comfortable
+    rather than reaching for what's possible.
+imagery:
+  - element: Figure with back turned, gazing at the sea
+    significance: >
+      Unlike the Two, this figure faces outward — fully committed to the
+      horizon. His back is to us, to safety, to the known. This posture
+      is confidence: he's not second-guessing, he's watching his vision
+      unfold.
+    tradition: RWS scenic convention — orientation as psychological state
+  - element: Three wands planted in the ground
+    significance: >
+      The three wands are stable, rooted — the vision has structure now.
+      One wand is held by the figure (active will), two are planted
+      (established resources or partnerships). The triangle of three
+      suggests the first stable form.
+    tradition: Numerological — three as synthesis and first stability
+  - element: Ships sailing on golden sea
+    significance: >
+      Commerce, trade, ventures sent out into the world. The ships
+      represent projects or efforts that have left your hands — you've
+      committed resources and now await returns. The golden light
+      suggests optimism about the outcome.
+    tradition: RWS — ships as enterprise and long-range ventures
+  - element: Elevated cliff vantage point
+    significance: >
+      Height represents perspective and foresight. This figure can see
+      further than those at sea level — strategic vision that allows
+      anticipation of what's coming.
+    tradition: Elemental — Fire's association with vision and aspiration
+correspondences:
+  element: Fire
+  planet: Sun
+  zodiac: Aries
+  hebrew_letter: null
+  tree_of_life: "Binah (Understanding) — vision given form and structure"
+  numerology: >
+    3 — synthesis, the first fruit of creation. One became two (duality),
+    and two becomes three (resolution). In Wands, the creative spark has
+    been given direction and now produces its first tangible expansion.
+  colors:
+    - Gold/yellow (solar confidence, success)
+    - Red (passion, Fire energy)
+    - Green (the fertile land behind, growth achieved)
+connections:
+  - card: wands-02
+    relationship: sequence
+    description: >
+      The Two held the globe and chose; the Three shows what happens after
+      choosing — the ventures launched, the commitment made visible.
+  - card: wands-10
+    relationship: shadow
+    description: >
+      The Ten of Wands is the dark echo of the Three's expansion — what
+      happens when all those ships come back loaded and you must carry
+      everything yourself.
+  - card: pentacles-03
+    relationship: echo
+    description: >
+      Both Threes involve collaborative creation, but the Three of Pentacles
+      is craft and teamwork while the Three of Wands is vision and enterprise.
+      Building versus launching.
+themes:
+  - "Foresight as power — seeing further than your current position"
+  - "The confidence of commitment — trusting what you've set in motion"
+  - "Expansion beyond the familiar — growth requires reaching past known shores"
+questions:
+  - "What have you set in motion that you need to trust and let unfold?"
+  - "Where could you be thinking bigger than your current horizon?"
+  - "What ventures have you launched — are you watching with confidence or anxiety?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes this as a card of established strength and enterprise,
+      emphasizing commerce and discovery.
+    section: "Part III: The Minor Arcana — Three of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads the progression from Two to Three as the shift from
+      contemplation to action — vision made real through commitment.
+    section: "Minor Arcana: Wands"

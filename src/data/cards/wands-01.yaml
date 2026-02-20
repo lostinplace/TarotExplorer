@@ -1,0 +1,113 @@
+id: wands-01
+name: Ace of Wands
+arcana: minor
+suit: wands
+rank: 1
+image: RWSa-W-0A.png
+symbol: 🔥
+upright:
+  keywords:
+    - Inspiration
+    - New venture
+    - Creative spark
+    - Potential
+    - Initiative
+  meaning: >
+    A hand emerges from the clouds offering a sprouting wand — pure creative
+    fire. This is the seed of inspiration, the bolt of lightning that starts
+    everything. It doesn't promise completion, only ignition. What you do with
+    the flame is up to you.
+reversed:
+  keywords:
+    - Delays
+    - Lack of motivation
+    - Creative block
+    - False starts
+    - Hesitation
+  meaning: >
+    The spark fizzles or fails to catch. Creative blocks, missed opportunities,
+    or a promising idea that can't find traction. Sometimes indicates an
+    inspiration you're sitting on rather than acting upon — the wand is offered,
+    but you haven't reached for it.
+imagery:
+  - element: Hand emerging from a cloud, grasping a living wand
+    significance: >
+      The divine hand — the same motif across all four Aces — represents a gift
+      from the unseen. You didn't earn this; it appeared. The wand is not a dead
+      stick but a living branch with leaves sprouting from it, suggesting the
+      creative impulse is already alive and growing.
+    tradition: Hermetic / Kabbalistic — Kether manifesting into the material
+  - element: Falling leaves and yods
+    significance: >
+      The scattered leaf-like shapes are yods (י), the smallest Hebrew letter,
+      associated with the divine spark. They rain down like embers from the
+      wand, suggesting that this single creative impulse scatters seeds of
+      potential in every direction.
+    tradition: Kabbalistic — the Yod as seed of the divine name
+  - element: Fertile landscape with castle in the distance
+    significance: >
+      Below the cloud, a green landscape with a river and a distant castle
+      suggests that this inspiration has somewhere to go — there is fertile
+      ground waiting for it. The castle hints at the structured achievement
+      that could result if the spark is nurtured.
+    tradition: RWS scenic convention — landscape as future potential
+  - element: Sprouting leaves on the wand
+    significance: >
+      The wand is not polished or crafted — it's raw, organic, still growing.
+      This is Fire in its most primal form, creativity before it's been shaped
+      by discipline or craft. The leaves confirm vitality and growth potential.
+    tradition: Elemental — living wood as the Fire suit's emblem
+correspondences:
+  element: Fire
+  planet: null
+  zodiac: null
+  hebrew_letter: null
+  tree_of_life: "Kether (Crown) — the pure root of Fire"
+  numerology: >
+    1 — unity, the source, the undivided point from which all else proceeds.
+    In the Aces, this is pure elemental potential before differentiation.
+  colors:
+    - Yellow (inspiration, solar energy, will)
+    - Green (growth, fertility, the living wand)
+    - Grey-white (clouds, the divine source)
+connections:
+  - card: cups-01
+    relationship: polarity
+    description: >
+      Both are Aces — divine gifts from the cloud-hand. But where the Ace of
+      Wands offers creative fire and action, the Ace of Cups offers emotional
+      depth and receptivity. Inspiration versus feeling.
+  - card: wands-02
+    relationship: sequence
+    description: >
+      The Two of Wands is what happens after you grasp the Ace — you hold the
+      world in your hand and must decide what to do with the inspiration. The
+      spark becomes a plan.
+  - card: major-01
+    relationship: echo
+    description: >
+      The Magician channels all four elements; the Ace of Wands is the pure
+      Fire component of that channeling. Both represent creative initiative
+      and the power to begin.
+themes:
+  - "The gift of ignition — inspiration as something received, not manufactured"
+  - "Potential without guarantee — the spark requires fuel and tending"
+  - "Creative courage — the willingness to begin before you know the ending"
+questions:
+  - "What creative impulse have you been ignoring or postponing?"
+  - "When did an idea last seize you with genuine excitement — and what did you do about it?"
+  - "What would you start today if you trusted the spark?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description emphasizes the hand from the cloud and the falling
+      leaves as yods. Note his association with creation and enterprise.
+    section: "Part III: The Minor Arcana — Ace of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack frames the Ace as the root of Fire — primal energy before it
+      takes shape. Her discussion of Aces as gifts clarifies the passive
+      reception implied by the cloud-hand.
+    section: "Minor Arcana: Wands"

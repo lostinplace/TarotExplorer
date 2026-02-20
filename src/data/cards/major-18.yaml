@@ -1,0 +1,174 @@
+id: major-18
+name: The Moon
+arcana: major
+suit: null
+rank: 18
+image: RWSa-T-18.png
+symbol: 🌕
+upright:
+  keywords:
+    - Illusion
+    - Fear
+    - The subconscious
+    - Anxiety
+    - Deception
+    - The unknown path
+  meaning: >
+    The Moon illuminates a landscape where nothing is what it seems. This is
+    the deep unconscious made visible — a realm of instinct, projection, and
+    ancestral memory. The path is long, the creatures are strange, and the
+    light is borrowed and deceptive. The Moon does not lie exactly; it reveals
+    the fears and fantasies your conscious mind normally suppresses. Walking
+    this path requires courage precisely because you cannot trust your
+    perceptions. Not everything that frightens you is dangerous, and not
+    everything that seems safe is real.
+reversed:
+  keywords:
+    - Clarity emerging
+    - Release of fear
+    - Truth revealed
+    - Repressed emotions surfacing
+    - Self-deception recognized
+  meaning: >
+    Reversed, The Moon's fog begins to lift. Illusions you've been living
+    under are dissolving — this can feel like relief or like loss, since some
+    illusions were comfortable. Repressed emotions, dreams, and anxieties may
+    surface forcefully. Can also indicate that you're finally seeing through
+    someone else's deception, or recognizing your own self-deception for what
+    it is.
+imagery:
+  - element: Full moon with a face in profile, radiating yellow drops
+    significance: >
+      The moon has a human face — the unconscious is not impersonal but
+      deeply intimate. It reflects your own features back at you, distorted.
+      The falling drops are Yods (divine sparks), suggesting that even in
+      confusion and fear, the divine is present. But moonlight is reflected
+      sunlight — everything here is secondhand, filtered, unreliable.
+    tradition: Kabbalistic (Yod as divine fire) / Lunar symbolism
+  - element: Dog and wolf howling at the moon
+    significance: >
+      The domesticated dog and the wild wolf represent two responses to the
+      unconscious: the socialized, tamed instinct and the raw, untamed
+      animal nature. Both react to the moon's pull. They bracket the path,
+      suggesting you must walk between civilization and wildness, neither
+      fully controlled nor fully feral.
+    tradition: Dual nature of instinct / Jungian shadow
+  - element: Crayfish emerging from the pool
+    significance: >
+      The crayfish crawls up from the depths — the most primitive,
+      unconscious content rising toward awareness. It is pre-verbal,
+      pre-rational, and ancient. This is the evolutionary memory, the
+      reptilian brain, the fears that predate language. It has barely
+      emerged; the journey from pool to path to towers to moon is the
+      entire arc of consciousness evolving from instinct.
+    tradition: Evolutionary symbolism / Alchemical prima materia
+  - element: Long winding path between two towers
+    significance: >
+      The path is narrow and leads into the unknown distance — there is no
+      shortcut through the unconscious. The two towers echo The High
+      Priestess's pillars (Boaz and Jachin) but here they are gray and
+      fortress-like, guarding the threshold with severity rather than
+      mystery. You must pass between them to continue.
+    tradition: Threshold guardians / Kabbalistic pillars
+  - element: Pool of water in the foreground
+    significance: >
+      The primordial pool from which the crayfish emerges — the collective
+      unconscious, the source-waters of dream and instinct. The path begins
+      here and leads upward, but the pool is where everything originates.
+      It corresponds to Malkuth, the material world that contains all
+      unconscious potential.
+    tradition: Collective unconscious (Jung) / Primordial waters
+  - element: Barren, undulating yellow-green landscape
+    significance: >
+      The terrain is neither land nor water but something between — marshy,
+      uncertain ground. Nothing grows prominently; the landscape itself is
+      ambiguous. You cannot get solid footing here. This mirrors the
+      psychological experience of anxiety, where reality feels unstable.
+    tradition: Liminal landscape symbolism
+correspondences:
+  element: Water
+  planet: null
+  zodiac: Pisces
+  hebrew_letter: "Qoph (ק)"
+  tree_of_life: "Path 29: Netzach (Victory) → Malkuth (Kingdom)"
+  numerology: >
+    18 — 1+8=9, connecting to The Hermit (IX). Both involve solitary
+    journeys through darkness with only a small light for guidance. The
+    Hermit carries his own lamp; The Moon provides only reflected,
+    unreliable light. The Hermit seeks wisdom deliberately; The Moon's
+    traveler stumbles through it.
+  colors:
+    - Yellow (moonlight — pale, deceptive illumination)
+    - Blue and gray (shadow, water, uncertainty)
+    - Green (the murky depths, stagnant water, the primal)
+connections:
+  - card: major-17
+    relationship: sequence
+    description: >
+      The Star offered hope after The Tower; The Moon tests that hope. Can
+      you hold faith when the path is dark, the terrain unreliable, and
+      your own perceptions deceive you? The Star's gift of renewal must
+      survive The Moon's trial.
+  - card: major-19
+    relationship: sequence
+    description: >
+      The Sun follows The Moon as dawn follows night. All of The Moon's
+      confusion, fear, and illusion will be resolved in The Sun's
+      clarity. But you cannot skip to dawn — the night must be walked
+      through.
+  - card: major-02
+    relationship: echo
+    description: >
+      The High Priestess sits calmly between the pillars of the unconscious;
+      The Moon is the experience of being lost in the landscape she guards.
+      She knows the territory; you are wandering through it for the first
+      time, without her composure.
+  - card: major-07
+    relationship: shadow
+    description: >
+      The Chariot represents willpower conquering through direction and
+      control. The Moon is the terrain where willpower fails — you cannot
+      force your way through the unconscious. The Chariot's shadow is
+      the realization that some journeys cannot be driven.
+themes:
+  - "The necessary descent — some truths can only be found in darkness, not in light"
+  - "Projection — seeing your own fears in the world around you and mistaking them for reality"
+  - "Evolution of consciousness — the crayfish-to-moon arc as the journey from instinct to awareness"
+  - "Borrowed light — the difference between direct knowledge and reflected, distorted perception"
+questions:
+  - "What fear has been running your decisions without your conscious awareness?"
+  - "Where are you seeing threats that may be projections of your own anxiety?"
+  - "What would it mean to walk the uncertain path without demanding clarity first?"
+  - "What primal, pre-rational feeling is trying to surface in your life right now?"
+  - "When has something that terrified you in the dark turned out to be harmless in daylight?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes the card as "the threshold of life" and emphasizes the
+      intellectual light that is "a reflection and beyond it is the unknown
+      mystery." His language is deliberately obscure — fitting for the card.
+    section: "Part II: The Major Trumps — XVIII. The Moon"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading of the crayfish-to-moon evolutionary arc is the
+      definitive modern interpretation. She treats the card as depicting the
+      entire history of consciousness emerging from the primordial pool.
+    section: "Chapter 18: The Moon"
+  - title: The Archetypes and the Collective Unconscious
+    author: Carl Jung
+    relevance: >
+      Jung's concept of the collective unconscious — the shared psychic
+      substrate of instinct, archetype, and ancestral memory — is precisely
+      what The Moon depicts. His work on shadow projection illuminates the
+      dog/wolf duality.
+    section: "Part I: Archetypes of the Collective Unconscious"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Moon card emphasizes the Pisces attribution and the
+      "Gateway of Resurrection" — the path from Netzach to Malkuth as
+      the most dangerous passage on the Tree of Life. His reading
+      foregrounds the evolutionary symbolism.
+    section: "Atu XVIII: The Moon"

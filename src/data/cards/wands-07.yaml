@@ -1,0 +1,111 @@
+id: wands-07
+name: Seven of Wands
+arcana: minor
+suit: wands
+rank: 7
+image: RWSa-W-07.png
+symbol: 🔥
+upright:
+  keywords:
+    - Perseverance
+    - Defensiveness
+    - Standing your ground
+    - Challenge
+    - Courage under pressure
+  meaning: >
+    A figure stands on high ground, wand raised, fending off six wands thrust
+    up from below. Success has attracted challengers — now you must defend your
+    position. This isn't about starting a fight; it's about refusing to yield
+    what you've earned. The advantage of high ground matters.
+reversed:
+  keywords:
+    - Giving up
+    - Overwhelm
+    - Caving to pressure
+    - Exhaustion
+    - Losing ground
+  meaning: >
+    The defense crumbles. You're exhausted from holding your position, the
+    challengers are too many, or you realize what you're defending isn't worth
+    the fight. Can also indicate stubbornness — defending a position out of
+    pride when strategic retreat would serve better.
+imagery:
+  - element: Figure on elevated ground with one wand against six
+    significance: >
+      The high ground is both literal and metaphorical — an advantageous
+      position earned through prior effort. One against many, but the
+      elevation equalizes the odds. This is the cost of the Six's victory:
+      being at the top makes you a target.
+    tradition: RWS — spatial positioning as power dynamic
+  - element: Mismatched shoes (or one bare foot)
+    significance: >
+      A famous detail — the figure appears to be wearing mismatched footwear,
+      suggesting he was caught off-guard. The defense is improvised, not
+      planned. You don't always get to prepare for challenges; sometimes
+      you fight in whatever you're wearing.
+    tradition: RWS scenic detail — Pamela Colman Smith's visual storytelling
+  - element: Six wands attacking from below
+    significance: >
+      The challengers are faceless — only their wands are visible. This
+      makes the opposition feel impersonal and relentless. It could be
+      competition, criticism, or simply the gravitational pull of others
+      wanting what you have.
+    tradition: RWS — faceless opposition as systemic challenge
+  - element: Green hillside
+    significance: >
+      The ground beneath is fertile and alive — what's being defended has
+      value and vitality. This isn't a barren hill; it's worth holding.
+    tradition: Elemental — green as living value
+correspondences:
+  element: Fire
+  planet: Mars
+  zodiac: Leo
+  hebrew_letter: null
+  tree_of_life: "Netzach (Victory) — endurance, the will to persist"
+  numerology: >
+    7 — challenge, introspection, testing. Sevens across all suits demand
+    that you prove your commitment. In Wands, the test is courage — will
+    you hold your ground when pressed?
+  colors:
+    - Green (the hillside, vitality)
+    - Yellow (courage, will, solar energy)
+    - Brown/earth tones (grounded defense)
+connections:
+  - card: wands-06
+    relationship: sequence
+    description: >
+      The Six's triumph attracts the Seven's challengers. Public success
+      makes you visible — and visibility invites opposition.
+  - card: swords-07
+    relationship: echo
+    description: >
+      Both Sevens involve strategy and cunning, but the Seven of Swords
+      uses stealth while the Seven of Wands uses direct confrontation.
+      Different approaches to adversity.
+  - card: major-07
+    relationship: echo
+    description: >
+      The Chariot's willpower and the Seven of Wands' defensive courage
+      share Mars energy — the refusal to be overcome, the insistence
+      on forward motion despite opposition.
+themes:
+  - "The cost of success — achievement attracts challenge"
+  - "Defensive courage — holding your ground when outnumbered"
+  - "Improvisation under pressure — fighting with what you have"
+questions:
+  - "What position are you defending — and is it truly worth the fight?"
+  - "Where has your success made you a target?"
+  - "Are you standing firm out of conviction or out of stubbornness?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite emphasizes valor and the advantage of position. His description
+      focuses on the figure's courage against multiple opponents.
+    section: "Part III: The Minor Arcana — Seven of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads this as the necessary defense that follows success —
+      the internal question of whether what you've gained is worth holding.
+    section: "Minor Arcana: Wands"

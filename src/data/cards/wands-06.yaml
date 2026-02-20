@@ -1,0 +1,112 @@
+id: wands-06
+name: Six of Wands
+arcana: minor
+suit: wands
+rank: 6
+image: RWSa-W-06.png
+symbol: 🔥
+upright:
+  keywords:
+    - Victory
+    - Recognition
+    - Public acclaim
+    - Triumph
+    - Confidence
+  meaning: >
+    A rider crowned with laurels leads a procession, wand held high with a
+    wreath of victory. This is success made public — not just achieving
+    something, but being seen and acknowledged for it. The crowd validates
+    the effort. Enjoy it, but remember: the parade ends.
+reversed:
+  keywords:
+    - Fall from grace
+    - Hollow victory
+    - Ego inflation
+    - Lack of recognition
+    - Seeking external validation
+  meaning: >
+    The applause fades or never comes. Either your victory is hollow — won
+    for the wrong reasons or at someone else's expense — or genuine
+    achievement goes unrecognized. Can also indicate becoming addicted to
+    acclaim, chasing applause rather than doing meaningful work.
+imagery:
+  - element: Mounted figure wearing a laurel wreath
+    significance: >
+      The rider is elevated above the crowd — literally on horseback, crowned
+      with victory. The laurel wreath is the classical symbol of triumph,
+      connecting this card to Roman and Greek victory traditions. Being
+      mounted suggests momentum and continued forward motion.
+    tradition: Greco-Roman — laurel as symbol of Apollo and victory
+  - element: Wreath on the wand
+    significance: >
+      A second wreath adorns the wand itself — the tool of creative will is
+      also crowned. This isn't just personal success; it's the triumph of the
+      vision, the project, the creative endeavor. The work is honored, not
+      just the worker.
+    tradition: RWS symbolic — decorated wand as honored enterprise
+  - element: Crowd of followers with wands
+    significance: >
+      The procession implies that victory is social — it requires witnesses.
+      The followers carry their own wands, suggesting they're fellow
+      competitors or supporters, not subjects. Recognition from peers
+      carries weight.
+    tradition: RWS — crowd as social validation
+  - element: Red cloak on the rider
+    significance: >
+      Red for passion, courage, and Mars energy. The rider has earned this
+      through action and daring, not through patience or cunning. This is
+      Fire's kind of victory — bold, visible, unapologetic.
+    tradition: Elemental / color symbolism
+correspondences:
+  element: Fire
+  planet: Jupiter
+  zodiac: Leo
+  hebrew_letter: null
+  tree_of_life: "Tiphareth (Beauty) — balanced success, harmony of achievement"
+  numerology: >
+    6 — harmony, balance, beauty. The resolution after the Five's conflict.
+    In Wands, this is the moment when creative struggle yields recognized
+    triumph — effort finds its reward.
+  colors:
+    - Green (laurel, growth, victory)
+    - Red (courage, passion, Mars energy)
+    - Yellow/gold (success, solar confidence)
+connections:
+  - card: wands-05
+    relationship: sequence
+    description: >
+      The Five's chaotic competition resolves into the Six's clear victory.
+      One figure emerges from the fray, recognized and acclaimed.
+  - card: major-07
+    relationship: echo
+    description: >
+      The Chariot also depicts triumph through will — a figure who has
+      mastered opposing forces. The Six of Wands is the social recognition
+      of that kind of mastery.
+  - card: wands-07
+    relationship: sequence
+    description: >
+      After public triumph comes the need to defend your position. The
+      Seven's figure fights from high ground — success invites challenge.
+themes:
+  - "Public success — the difference between achieving and being recognized"
+  - "The social dimension of victory — triumph requires witnesses"
+  - "The impermanence of acclaim — parades end, and then what?"
+questions:
+  - "Whose recognition matters most to you — and why?"
+  - "Are you pursuing achievement or applause?"
+  - "What victory in your life deserves more celebration than you've given it?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes this as the card of triumph and great news. His
+      emphasis on the laurel-crowned rider and public acclaim is central.
+    section: "Part III: The Minor Arcana — Six of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack explores the social nature of this victory — success that
+      is validated by community, and the questions that raises about
+      external validation.
+    section: "Minor Arcana: Wands"

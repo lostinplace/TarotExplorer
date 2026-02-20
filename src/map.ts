@@ -1,7 +1,5 @@
 import L from 'leaflet';
-
-const MAP_WIDTH = 4000;
-const MAP_HEIGHT = 3000;
+import { MapData } from './types';
 
 export function createMap(containerId: string): L.Map {
   const map = L.map(containerId, {
@@ -14,37 +12,22 @@ export function createMap(containerId: string): L.Map {
     zoomControl: false,
   });
 
-  const bounds: L.LatLngBoundsExpression = [[0, 0], [MAP_HEIGHT, MAP_WIDTH]];
-  map.setMaxBounds([[-200, -200], [MAP_HEIGHT + 200, MAP_WIDTH + 200]]);
-  map.fitBounds(bounds);
-
   // Add zoom control top-right
   L.control.zoom({ position: 'bottomright' }).addTo(map);
-
-  // Render terrain overlay
-  renderTerrain(map);
 
   return map;
 }
 
-function renderTerrain(map: L.Map) {
-  // Suit territory regions as colored rectangles
-  const regions = [
-    { bounds: [[0, 2200], [1200, 4000]] as L.LatLngBoundsExpression, color: '#ff8c32', name: 'Wands' },      // top-right
-    { bounds: [[1200, 2200], [3000, 4000]] as L.LatLngBoundsExpression, color: '#50b4dc', name: 'Cups' },     // bottom-right
-    { bounds: [[0, 0], [1200, 1800]] as L.LatLngBoundsExpression, color: '#b4c8dc', name: 'Swords' },         // top-left
-    { bounds: [[1200, 0], [3000, 1800]] as L.LatLngBoundsExpression, color: '#78b450', name: 'Pentacles' },   // bottom-left
-  ];
-
-  regions.forEach(r => {
-    L.rectangle(r.bounds, {
-      color: 'transparent',
-      fillColor: r.color,
-      fillOpacity: 0.04,
-      interactive: false,
-    }).addTo(map);
-  });
-
-  // Fool's Road glow — a polyline through all major arcana positions
-  // (will be drawn in paths.ts with the actual card positions)
+export function configureMapBounds(map: L.Map, mapData: MapData) {
+  const width = mapData.canvas.width;
+  const height = mapData.canvas.height;
+  
+  const bounds: L.LatLngBoundsExpression = [[0, 0], [height, width]];
+  
+  // Set max bounds with a comfortable margin, otherwise Leaflet "snaps back" aggressively. 
+  // We use the active map's intrinsic dimensions instead of hardcoded 4000x3000.
+  map.setMaxBounds([[-1000, -1000], [height + 1000, width + 1000]]);
+  
+  // Optionally fit bounds, but main.ts currently drives the initial view
+  // map.fitBounds(bounds);
 }

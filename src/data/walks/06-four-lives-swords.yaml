@@ -1,0 +1,446 @@
+id: four-lives-swords
+name: "The Life of Air"
+description: >
+  The story of a thought from clarity to collapse. The Swords suit traces
+  the life cycle of the mind through the element of Air — from the Ace's
+  piercing insight through decision, heartbreak, retreat, defeat, passage,
+  deception, imprisonment, nightmare, and the final catastrophic ending
+  that is also a strange dawn. This is the hardest suit, because the mind's
+  greatest power — the ability to see clearly — is also its greatest source
+  of suffering.
+author: null
+tradition: "Elemental / Suit progression"
+
+acts:
+  - id: clarity
+    name: "Clarity"
+    description: >
+      The mind awakens. From the first flash of insight through the
+      difficulty of choosing, the pain of seeing too clearly, and the
+      necessary retreat into stillness — the early Swords are the
+      discovery that truth cuts.
+    steps:
+      - swords-insight
+      - swords-stalemate
+      - swords-piercing
+      - swords-rest
+
+  - id: conflict
+    name: "Conflict"
+    description: >
+      The mind in the world. Defeat, difficult passage, and deception —
+      the middle Swords are what happens when clarity meets the
+      resistance of other wills, circumstances, and the mind's own
+      capacity for self-serving distortion.
+    steps:
+      - swords-defeat
+      - swords-passage
+      - swords-theft
+
+  - id: consequence
+    name: "Consequence"
+    description: >
+      The mind turns on itself. Imprisonment, nightmare, and the
+      final catastrophe — the end of the Swords suit is the discovery
+      that the same faculty that illuminates can also torture, and that
+      the mind's darkest moment is also, paradoxically, its release.
+    steps:
+      - swords-prison
+      - swords-nightmare
+      - swords-dawn
+
+steps:
+  - id: swords-insight
+    card: swords-01
+    title: "The Cut"
+    narrative: >
+      A hand from a cloud grips a sword, point upward. A crown sits at
+      its tip, wreathed in laurel and palm. The sky is grey, the
+      mountains sharp. This blade does not comfort. It clarifies.
+
+
+      The Ace of Swords is the mind at its most powerful: a single
+      thought, perfectly clear, cutting through everything that
+      obscured it. This is the moment of breakthrough insight — the
+      answer that arrives whole, the realization that reorganizes
+      everything around it.
+
+
+      But notice: it's a sword. The clarity is real. And clarity cuts.
+      Every truth the mind discovers will also wound something — an
+      illusion, a comfort, a relationship that depended on not-knowing.
+      The Ace is the gift and the warning in a single image.
+    transition: >
+      The insight lands. And immediately, the mind discovers its first
+      problem: there are two sides to every truth, and choosing between
+      them is not the same as seeing them.
+    reflection: >
+      When has a moment of clarity also been a wound? What did the
+      insight cost you?
+    aside: >
+      The Ace in Kether is Air at its most abstract — thought before
+      any specific thought, the capacity for mental clarity. The crown
+      at the sword's tip connects to Kether itself (the crown Sephirah).
+      The laurel is victory; the palm is peace. The mind's gift is
+      both: the victory of seeing clearly, the peace that follows. But
+      the suit will test whether that peace can be sustained.
+
+  - id: swords-stalemate
+    card: swords-02
+    title: "The Blindfold"
+    narrative: >
+      A blindfolded woman sits at the edge of the sea, holding two
+      swords crossed over her chest. The moon is a crescent behind her.
+      She cannot see. She will not choose. The swords are balanced, but
+      the balance is a trap.
+
+
+      The Two of Swords is the mind's first failure: the inability to
+      decide. Not because the options are unclear — because they're
+      equally clear, equally sharp, and equally costly. The blindfold
+      is not ignorance. It's the deliberate refusal to look, because
+      looking means choosing, and choosing means one of the swords
+      must fall.
+
+
+      This is the stalemate of analysis paralysis — the mind so good at
+      seeing both sides that it cannot pick one.
+    transition: >
+      The blindfold cannot stay on forever. Eventually, either she
+      removes it or something removes it for her. And when sight
+      returns, what it sees first is pain.
+    reflection: >
+      What decision are you avoiding by keeping the blindfold on?
+      What would you see if you opened your eyes?
+    aside: >
+      The Two of Swords is Moon in Libra — the unconscious and emotional
+      in the sign of balance. Twos in Chokmah are the first division —
+      in Swords, the division is the mind splitting reality into
+      either/or. The sea behind her is the unconscious, rising. She
+      can't hold this position forever.
+
+  - id: swords-piercing
+    card: swords-03
+    title: "The Piercing"
+    narrative: >
+      A heart. Three swords. Rain. Nothing else.
+
+
+      The mind, forced to see, sees grief. The Three of Swords is not
+      emotional grief (that belongs to Cups). It is the grief of
+      *understanding* — the moment the mind catches up to what the
+      heart already knew. The breakup you saw coming. The betrayal
+      you understood before you felt it. The diagnosis that explains
+      everything.
+
+
+      The rain is the environment's response: the world weeps because
+      a truth has been spoken that cannot be unspoken. The three swords
+      are precise — this is not vague sadness but specific, targeted
+      pain. The mind did this. The mind named the wound. And naming
+      it made it real.
+    transition: >
+      The heart is pierced. The truth is out. And the mind, having
+      done its terrible work, needs to rest — to stop cutting, stop
+      seeing, stop thinking, just for a moment.
+    reflection: >
+      What truth have you understood intellectually long before you
+      felt it? Was the knowing worse than the feeling, or different?
+    aside: >
+      The Three of Swords is Saturn in Libra — heavy restriction in
+      the sign of relationship. Threes in Binah are understanding
+      through form — and the form of Air's understanding is grief.
+      In the Descent walk, this card appears as the bottom of the
+      emotional descent. Here it's the mind's first real wound.
+
+  - id: swords-rest
+    card: swords-04
+    title: "The Tomb"
+    narrative: >
+      A knight lies on a stone slab in what appears to be a church or
+      tomb. Three swords hang on the wall above him. A fourth lies
+      beneath him. His hands are pressed together in prayer. A stained
+      glass window glows. He is not dead. He is resting — or meditating,
+      or recovering, or refusing to get up.
+
+
+      After the Three's piercing, the Four's rest. The mind retreats
+      into stillness. This is not the Hermit's productive solitude —
+      it's closer to the emotional shutdown of convalescence. The
+      knight has laid down his sword and his armor. He's in a sacred
+      space. He's not fighting anything. He's just... stopped.
+
+
+      The rest is necessary. Whether it's sufficient is another question.
+    transition: >
+      He rests. But the world doesn't stop while the mind recovers.
+      When he rises — and he must — the situation will have changed,
+      and not in his favor.
+    reflection: >
+      When have you needed to stop thinking entirely? Not meditate,
+      not reflect — just stop? What happened when you started again?
+    aside: >
+      The Four of Swords is Jupiter in Libra — expansion (here,
+      expansive rest) in the sign of balance. Fours in Chesed are
+      stability and mercy. The Four of Swords is Chesed's mercy
+      applied to the mind: a reprieve. The tomb imagery suggests
+      that the rest is as deep as death — and that rising from it
+      will feel like resurrection.
+
+  - id: swords-defeat
+    card: swords-05
+    title: "The Hollow Victory"
+    narrative: >
+      A figure picks up three swords from the ground, smirking. Two
+      defeated opponents walk away, dejected. The sky is stormy. The
+      victor has won — but look at what he won. Two people's swords.
+      Two people's dignity. The cost of this victory is written on
+      the retreating figures' backs.
+
+
+      The Five of Swords is the mind weaponized — intelligence used
+      to defeat, outmaneuver, or humiliate. The winner is alone with
+      his trophies. The losers have each other. The question the card
+      poses is brutal: was this worth winning?
+
+
+      In the suit's arc, the Five is where the mind discovers that
+      being right can be worse than being wrong, because being right
+      at someone else's expense leaves you victorious and alone.
+    transition: >
+      The victory sours. The smirk fades. And the figure realizes he
+      needs to move — away from this battlefield, toward something
+      less broken.
+    reflection: >
+      When have you won an argument and lost the relationship? When
+      has being right cost you more than being wrong would have?
+    aside: >
+      The Five of Swords is Venus in Aquarius — love and connection
+      in the sign of detachment and the group. The combination is
+      toxic: attachment pursued through intellectual dominance.
+      Fives in Geburah disrupt what the Four stabilized. After rest,
+      conflict — but this conflict has no honor in it.
+
+  - id: swords-passage
+    card: swords-06
+    title: "The Crossing"
+    narrative: >
+      A ferryman poles a boat across still water. In the boat, a woman
+      and child sit among six upright swords. The shore they've left is
+      behind them. The shore ahead is unclear. The water is calm. The
+      passage is quiet.
+
+
+      After the Five's conflict, the Six offers transit — not triumph,
+      not resolution, but the simple act of moving from one state to
+      another. The swords in the boat are their baggage — the mental
+      burdens they carry with them. They're not free of them. But
+      they're moving.
+
+
+      The Six of Swords is the mind's capacity for functional grief:
+      the ability to say "this is terrible, and I'm going to keep
+      going anyway." Not because it's better on the other shore. Because
+      staying where you are is worse.
+    transition: >
+      The boat crosses. The new shore approaches. But the mind, even in
+      transit, cannot stop scheming. The next card reveals what happens
+      when intelligence is applied to escape rather than confrontation.
+    reflection: >
+      What passage are you in the middle of — no longer where you were,
+      not yet where you're going? What swords are in your boat?
+    aside: >
+      The Six of Swords is Mercury in Aquarius — communication and
+      intellect in the sign of humanitarian detachment. Sixes in
+      Tiphareth are beauty and harmony. The Six of Swords is the
+      quietest, saddest form of harmony: acceptance. The ferryman is
+      Charon, or an echo of him. The crossing is always one-way.
+
+  - id: swords-theft
+    card: swords-07
+    title: "The Heist"
+    narrative: >
+      A figure sneaks away from a camp carrying five swords, leaving
+      two behind. He looks back over his shoulder — not with guilt,
+      exactly, but with the wary alertness of someone who knows he's
+      doing something clever and possibly wrong.
+
+
+      The Seven of Swords is the mind's shadow: cunning, strategy,
+      the intelligence that serves self-interest. After the Five's
+      brute-force victory and the Six's honest passage, the Seven
+      takes a different approach — don't fight, don't flee, just take
+      what you need and hope no one notices.
+
+
+      Is this theft? Strategy? Necessary survival? The card doesn't
+      judge. It shows you what the mind does when it's cornered: it
+      gets clever. Whether that cleverness serves you or betrays you
+      depends on what you're stealing and why.
+    transition: >
+      He got away with it — this time. But cleverness has consequences.
+      The mind that deceives others eventually turns its tricks inward,
+      and the prison that follows is self-constructed.
+    reflection: >
+      Where are you being clever when you should be direct? What are
+      you taking that isn't yours, and what are you telling yourself
+      to justify it?
+    aside: >
+      The Seven of Swords is Moon in Aquarius — the unconscious and
+      instinctual in the sign of intellect and group dynamics. Sevens
+      in Netzach are emotional and instinctive. The Seven of Swords
+      is the mind acting on instinct rather than principle — the
+      lizard brain wearing a strategist's clothes.
+
+  - id: swords-prison
+    card: swords-08
+    title: "The Binding"
+    narrative: >
+      A blindfolded woman stands surrounded by eight swords, loosely
+      bound. The ground is muddy. A castle looms in the background.
+      She seems trapped — but the bindings are loose. The swords don't
+      touch her. The path to the castle is open.
+
+
+      The Eight of Swords is the mind's cruelest trick: the prison
+      you build from your own thoughts. The woman is not physically
+      trapped. She could step out of the circle, remove the blindfold,
+      walk to safety. She doesn't — because her mind has convinced her
+      that the swords are walls, the bindings are chains, and the
+      situation is hopeless.
+
+
+      This is anxiety architecture. The mind constructs a cage from
+      beliefs and calls it reality. The escape is not through the
+      swords but through seeing that the swords are thoughts, and
+      thoughts can be stepped around.
+    transition: >
+      She stands in her self-made prison. And in the dark behind the
+      blindfold, the thoughts she's been avoiding find her. The next
+      card is what the mind does at 3 AM when there are no distractions
+      left.
+    reflection: >
+      What prison have you built from your own thinking? What would
+      you see if you removed the blindfold? Are you afraid of the
+      swords, or afraid of finding out they can't actually hurt you?
+    aside: >
+      The Eight of Swords is Jupiter in Gemini — expansion of thought
+      in the sign of duality. The mind expands into its own maze.
+      Eights in Hod are intellect doubled — the mind thinking about
+      its own thinking, which is the mechanism of anxiety itself.
+      The loose bindings are the key to the card: the prison is real
+      in experience but not in structure. Cognitive behavioral therapy
+      is essentially the practice of the Eight of Swords: identifying
+      the swords as thoughts and choosing to step past them.
+
+  - id: swords-nightmare
+    card: swords-09
+    title: "The Dark Night"
+    narrative: >
+      A figure sits up in bed, head in hands. Nine swords hang on the
+      wall behind them in the darkness. A quilt decorated with roses
+      and zodiac signs covers the lower body. It is night. The figure
+      is alone. The swords are not attacking — they're just there,
+      mounted on the wall, impossible to ignore.
+
+
+      The Nine of Swords is the mind at night — anxiety, insomnia,
+      the thoughts that circle at 3 AM with perfect, terrible clarity.
+      Every worry, every regret, every fear hanging on the wall like
+      mounted weapons. They don't fall. They don't strike. They just
+      hang there, and you can't stop looking at them.
+
+
+      This is the suit's dark night of the soul. Not the Tower's
+      external catastrophe or the Moon's disorienting fog — the
+      private, internal horror of a mind that won't stop thinking.
+    transition: >
+      The night passes. It always does. And what the morning reveals
+      is not what the nighttime mind expected — it's both worse and
+      better. Worse because the ending is total. Better because
+      endings are also beginnings.
+    reflection: >
+      What thoughts keep you up at night? Not your real problems —
+      the mental loops, the catastrophizing, the swords on the wall
+      that never actually fall. What would change if you could
+      distinguish between the thought and the thing?
+    aside: >
+      The Nine of Swords is Mars in Gemini — aggressive mental energy
+      in the sign of the restless mind. Nines in Yesod are the
+      unconscious — the Nine of Swords is the unconscious mind
+      producing its anxiety in the dark. The quilt's roses and
+      zodiac symbols suggest that even in the nightmare, beauty and
+      cosmic order exist. The figure can't see them because they're
+      looking at the wall. The cure for the Nine of Swords is
+      always the same: look down instead of up.
+
+  - id: swords-dawn
+    card: swords-10
+    title: "The Dawn"
+    narrative: >
+      A figure lies face down. Ten swords are driven into their back.
+      The sky is black above but golden at the horizon — dawn is
+      breaking. Water lies still in the background. The figure is not
+      moving.
+
+
+      The worst card in the deck. The mind's ultimate failure: the
+      thought pattern that kills — not literally, but functionally.
+      The figure is pinned by every sword the suit has offered:
+      insight, indecision, heartbreak, rest-as-avoidance, hollow
+      victory, dishonesty, self-imprisonment, and nightmare. All ten
+      at once, driven home.
+
+
+      But — the dawn. That golden horizon. The Ten of Swords is not
+      just an ending. It's the *most dramatic possible ending*, which
+      means it's also the point beyond which things cannot get worse.
+      The figure is down. The swords are in. And the sky is turning
+      gold.
+
+
+      There's something almost merciful in the overkill. Ten swords
+      in one body? That's not a murder. That's the universe saying:
+      *it's over. You can stop now.* The mental suffering that built
+      from Ace to Nine has reached its absolute limit. What comes
+      after a limit is something new.
+    transition: null
+    reflection: >
+      When have you hit absolute bottom — the moment where things
+      couldn't get worse — and discovered that the bottom was solid
+      ground? What did the dawn look like from there?
+    aside: >
+      The Ten of Swords is Sun in Gemini — the light of consciousness
+      in the sign of the divided mind. The Sun at the horizon IS the
+      card's hidden message: even at the worst moment, dawn is present.
+      Tens in Malkuth are full manifestation. The full manifestation
+      of Air is this: the mind, having thought every thought, lies
+      still. And in that stillness — the stillness the Four of Swords
+      tried to find deliberately — something genuinely new can begin.
+      The suit started with a crown on a sword tip. It ends face-down.
+      The next Ace is already forming in the clouds.
+
+connections:
+  - walk: four-lives-wands
+    relationship: parallel
+    description: >
+      Fire and Air: will versus thought. Wands burn out under the
+      weight of success. Swords collapse under the weight of their
+      own clarity. Both end in exhaustion, but the Wands' exhaustion
+      is physical (carrying ten staves) while the Swords' is mental
+      (ten blades in the back).
+  - walk: four-lives-cups
+    relationship: parallel
+    description: >
+      Water and Air: feeling versus thinking. Cups navigates the
+      heart's journey from overflow to wholeness. Swords navigates
+      the mind's journey from clarity to collapse. The Five of Cups
+      and the Three of Swords are the same grief seen from different
+      faculties.
+  - walk: descent-and-return
+    relationship: parallel
+    description: >
+      The Descent uses the Three of Swords as "the heart pierced" —
+      the moment grief becomes mental. The Life of Air shows that
+      moment in context: it's step three of ten, not the bottom but
+      the first wound.

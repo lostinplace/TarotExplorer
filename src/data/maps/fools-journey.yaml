@@ -1,0 +1,204 @@
+id: fools-journey
+name: "The Fool's Journey"
+description: >
+  The 22 Major Arcana as a narrative arc of psychological and spiritual
+  development — from the Fool's innocent leap into the unknown through worldly
+  experience, inward crisis, and cosmic integration. Minor Arcana orbit the
+  Major card they most resonate with thematically. Read left to right, top to
+  bottom: the story of becoming.
+
+canvas:
+  width: 7000
+  height: 4500
+
+regions:
+  - id: act-1
+    name: "Act I: The Worldly (0–7)"
+    description: >
+      The Fool encounters the fundamental forces of the manifest world —
+      will (Magician), intuition (Priestess), abundance (Empress), structure
+      (Emperor), tradition (Hierophant), love (Lovers), and the drive to
+      conquer (Chariot). These are the tools and authorities of external life.
+    center: [1750, 1000]
+    radius: 900
+
+  - id: act-2
+    name: "Act II: The Inward Turn (8–14)"
+    description: >
+      The Fool turns inward. Strength demands courage over force. The Hermit
+      withdraws. The Wheel shows that fate has its own logic. Justice weighs
+      the soul. The Hanged Man surrenders control. Death strips away the old.
+      Temperance integrates what remains. This is the dark night.
+    center: [3500, 2250]
+    radius: 900
+
+  - id: act-3
+    name: "Act III: The Cosmic (15–21)"
+    description: >
+      The Fool confronts the transpersonal. The Devil shows bondage to
+      illusion. The Tower destroys false structures. The Star restores hope.
+      The Moon walks through fear. The Sun illuminates truth. Judgement calls
+      the self to account. The World completes the cycle — wholeness,
+      integration, the dance.
+    center: [5250, 3500]
+    radius: 900
+
+paths:
+  # Major Arcana narrative sequence
+  - { from: major-00, to: major-01, label: null, style: solid }
+  - { from: major-01, to: major-02, label: null, style: solid }
+  - { from: major-02, to: major-03, label: null, style: solid }
+  - { from: major-03, to: major-04, label: null, style: solid }
+  - { from: major-04, to: major-05, label: null, style: solid }
+  - { from: major-05, to: major-06, label: null, style: solid }
+  - { from: major-06, to: major-07, label: null, style: solid }
+  - { from: major-07, to: major-08, label: null, style: solid }
+  - { from: major-08, to: major-09, label: null, style: solid }
+  - { from: major-09, to: major-10, label: null, style: solid }
+  - { from: major-10, to: major-11, label: null, style: solid }
+  - { from: major-11, to: major-12, label: null, style: solid }
+  - { from: major-12, to: major-13, label: null, style: solid }
+  - { from: major-13, to: major-14, label: null, style: solid }
+  - { from: major-14, to: major-15, label: null, style: solid }
+  - { from: major-15, to: major-16, label: null, style: solid }
+  - { from: major-16, to: major-17, label: null, style: solid }
+  - { from: major-17, to: major-18, label: null, style: solid }
+  - { from: major-18, to: major-19, label: null, style: solid }
+  - { from: major-19, to: major-20, label: null, style: solid }
+  - { from: major-20, to: major-21, label: null, style: solid }
+  # Key thematic leaps
+  - { from: major-07, to: major-08, label: "The Turning Point", style: dashed }
+  - { from: major-13, to: major-14, label: "Death → Rebirth", style: dashed }
+  - { from: major-16, to: major-17, label: "Destruction → Hope", style: dashed }
+
+cards:
+  # === MAJOR ARCANA — winding path across canvas ===
+  # Act I flows right across the top
+  major-00: [400, 800]        # The Fool — beginning
+  major-01: [800, 700]        # The Magician
+  major-02: [1200, 650]       # The High Priestess
+  major-03: [1600, 700]       # The Empress
+  major-04: [2000, 800]       # The Emperor
+  major-05: [2400, 900]       # The Hierophant
+  major-06: [2700, 1050]      # The Lovers
+  major-07: [2900, 1250]      # The Chariot — end of Act I
+
+  # Act II curves down through the middle
+  major-08: [3050, 1500]      # Strength — the turn inward
+  major-09: [3150, 1750]      # The Hermit
+  major-10: [3200, 2000]      # Wheel of Fortune
+  major-11: [3250, 2250]      # Justice
+  major-12: [3350, 2500]      # The Hanged Man
+  major-13: [3500, 2700]      # Death
+  major-14: [3700, 2850]      # Temperance — end of Act II
+
+  # Act III flows right across the bottom
+  major-15: [3950, 3000]      # The Devil
+  major-16: [4250, 3150]      # The Tower
+  major-17: [4550, 3250]      # The Star
+  major-18: [4850, 3350]      # The Moon
+  major-19: [5150, 3400]      # The Sun
+  major-20: [5500, 3450]      # Judgement
+  major-21: [5900, 3500]      # The World — completion
+
+  # === MINOR ARCANA — orbiting thematically resonant Majors ===
+
+  # Near The Magician (major-01) — acts of will, skill, beginnings
+  wands-01: [700, 500]        # Ace of Wands — pure creative spark
+  swords-01: [900, 500]       # Ace of Swords — clarity of mind
+  cups-01: [700, 900]         # Ace of Cups — emotional opening
+  pentacles-01: [900, 900]    # Ace of Pentacles — material seed
+
+  # Near The Empress (major-03) — abundance, growth, nurturing
+  cups-03: [1500, 500]        # Three of Cups — celebration
+  pentacles-03: [1700, 500]   # Three of Pentacles — skilled creation
+  cups-09: [1500, 900]        # Nine of Cups — fulfillment
+  pentacles-09: [1700, 900]   # Nine of Pentacles — self-sufficiency
+
+  # Near The Emperor (major-04) — structure, authority, control
+  wands-04: [1900, 600]       # Four of Wands — established foundation
+  pentacles-04: [2100, 600]   # Four of Pentacles — guarding resources
+  swords-04: [1900, 1000]     # Four of Swords — ordered rest
+  wands-03: [2100, 1000]      # Three of Wands — strategic vision
+
+  # Near The Hierophant (major-05) — tradition, teaching, groups
+  pentacles-08: [2300, 700]   # Eight of Pentacles — apprenticeship
+  cups-06: [2500, 700]        # Six of Cups — tradition, nostalgia
+  pentacles-06: [2300, 1100]  # Six of Pentacles — giving/receiving
+  wands-06: [2500, 1100]      # Six of Wands — recognition
+
+  # Near The Lovers (major-06) — choice, union, duality
+  cups-02: [2600, 850]        # Two of Cups — partnership
+  swords-02: [2800, 850]      # Two of Swords — difficult choice
+  wands-02: [2600, 1250]      # Two of Wands — planning a path
+  pentacles-02: [2800, 1250]  # Two of Pentacles — balancing
+
+  # Near The Chariot (major-07) — willpower, conquest, momentum
+  wands-07: [2800, 1050]      # Seven of Wands — defending position
+  swords-07: [3000, 1050]     # Seven of Swords — strategy/cunning
+  wands-08: [3100, 1250]      # Eight of Wands — swift action
+  cups-07: [3100, 1450]       # Seven of Cups — illusions of victory
+
+  # Near Strength (major-08) — inner power, patience
+  wands-09: [2950, 1300]      # Nine of Wands — resilience
+  swords-08: [3150, 1300]     # Eight of Swords — self-imposed limits
+  pentacles-07: [2950, 1700]  # Seven of Pentacles — patient cultivation
+  cups-08: [3150, 1700]       # Eight of Cups — walking away
+
+  # Near The Hermit (major-09) — solitude, wisdom, withdrawal
+  swords-09: [3050, 1950]     # Nine of Swords — anxiety in isolation
+  cups-04: [3250, 1550]       # Four of Cups — contemplative withdrawal
+  pentacles-10: [3050, 1550]  # Ten of Pentacles — legacy/inheritance
+  swords-03: [3250, 1950]     # Three of Swords — heartbreak clarity
+
+  # Near Wheel of Fortune (major-10) — fate, cycles, change
+  wands-10: [3100, 2200]      # Ten of Wands — burden of fortune
+  pentacles-05: [3300, 2200]  # Five of Pentacles — downturn
+  cups-10: [3100, 1800]       # Ten of Cups — peak of emotional cycle
+  swords-10: [3300, 1800]     # Ten of Swords — rock bottom
+
+  # Near Justice (major-11) — balance, consequence, truth
+  swords-06: [3150, 2450]     # Six of Swords — moving toward clarity
+  pentacles-11: [3350, 2450]  # Page of Pentacles — studious weighing
+  swords-11: [3150, 2050]     # Page of Swords — seeking truth
+  wands-11: [3350, 2050]      # Page of Wands — bold inquiry
+
+  # Near The Hanged Man (major-12) — surrender, new perspective
+  cups-12: [3250, 2700]       # Knight of Cups — following the heart
+  swords-12: [3450, 2300]     # Knight of Swords — rushing past
+  cups-05: [3250, 2300]       # Five of Cups — grief, reframing loss
+
+  # Near Death (major-13) — transformation, endings, rebirth
+  swords-05: [3400, 2900]     # Five of Swords — aftermath
+  wands-05: [3600, 2500]      # Five of Wands — conflict of transformation
+  cups-13: [3400, 2500]       # Queen of Cups — emotional depth
+
+  # Near Temperance (major-14) — integration, patience, alchemy
+  wands-14: [3600, 3050]      # King of Wands — mastered fire
+  cups-14: [3800, 2650]       # King of Cups — mastered water
+  pentacles-14: [3600, 2650]  # King of Pentacles — mastered earth
+  swords-14: [3800, 3050]     # King of Swords — mastered air
+
+  # Near The Devil (major-15) — bondage, shadow, materialism
+  pentacles-12: [3850, 2800]  # Knight of Pentacles — dogged persistence
+  wands-12: [4050, 2800]      # Knight of Wands — reckless desire
+  swords-13: [3850, 3200]     # Queen of Swords — cutting through illusion
+  pentacles-13: [4050, 3200]  # Queen of Pentacles — material comfort
+
+  # Near The Tower (major-16) — destruction, revelation, upheaval
+  # swords-10: [4150, 2950]     # (already placed — skip duplicate)
+  wands-13: [4350, 2950]      # Queen of Wands — fierce energy
+
+  # Near The Star (major-17) — hope, renewal, inspiration
+  cups-11: [4450, 3050]       # Page of Cups — innocent wonder
+  # wands-09: [4650, 3050]      # (already placed — use alternate)
+
+  # Near The Moon (major-18) — illusion, fear, the unconscious
+  # swords-09: [4750, 3150]     # (already placed — skip)
+
+  # Near The Sun (major-19) — joy, clarity, vitality
+  # cups-06: [5050, 3200]       # (already placed — skip)
+
+  # Near The World (major-21) — completion, wholeness
+  # pentacles-10: [5800, 3300]  # (already placed — skip)
+  # cups-10: [6000, 3300]       # (already placed — skip)

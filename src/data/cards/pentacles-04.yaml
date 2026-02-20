@@ -1,0 +1,105 @@
+id: pentacles-04
+name: Four of Pentacles
+arcana: minor
+suit: pentacles
+rank: 4
+image: RWSa-P-04.png
+symbol: 🪙
+upright:
+  keywords:
+    - Security
+    - Control
+    - Conservatism
+    - Hoarding
+    - Boundaries
+  meaning: >
+    A crowned figure sits rigidly, clutching four pentacles — one balanced on
+    his head, one pressed to his chest, two pinned under his feet. He has
+    achieved stability but at the cost of freedom. Every limb is occupied
+    with holding on. The card asks: is this security or imprisonment?
+reversed:
+  keywords:
+    - Generosity
+    - Release
+    - Financial insecurity
+    - Reckless spending
+    - Letting go
+  meaning: >
+    Reversed, the grip loosens — either through conscious generosity or
+    forced loss. At best, learning that true security comes from flow, not
+    hoarding. At worst, reckless spending or losing what you clung to
+    precisely because you held it too tightly.
+imagery:
+  - element: Figure with pentacle balanced on crown of head
+    significance: >
+      The coin on his head suggests that material concerns dominate his
+      thinking — wealth has become his identity. He wears it like a crown,
+      but it weighs him down. His worldview is defined by what he owns.
+    tradition: Symbolic posture / body-mind correspondence
+  - element: Pentacle clutched to chest
+    significance: >
+      He holds wealth against his heart — protecting it emotionally,
+      identifying with it personally. Losing money would feel like losing
+      himself. The embrace is possessive, not loving.
+    tradition: Body symbolism
+  - element: Two pentacles under his feet
+    significance: >
+      Standing on his wealth gives him a foundation but also roots him
+      in place. He cannot walk, cannot move, cannot dance like the figure
+      in the Two. Stability has become stagnation.
+    tradition: Elemental symbolism — Earth at its most fixed
+  - element: City visible in the background, figure sitting apart
+    significance: >
+      The city represents community, commerce, social life — everything
+      the figure has withdrawn from. His wealth has isolated him. He sits
+      outside the walls, alone with his coins.
+    tradition: Social symbolism
+correspondences:
+  element: Earth
+  planet: Sun
+  zodiac: Capricorn
+  hebrew_letter: null
+  tree_of_life: "Chesed (Mercy) — abundance structured into rigidity in Earth"
+  numerology: >
+    4 — stability, structure, enclosure. Four walls, four corners, a box.
+    In Pentacles, four becomes the fortress that protects but also confines.
+    The most stable number, and the most resistant to change.
+  colors:
+    - Black (rigidity, isolation, the closed self)
+    - Gold (the pentacles — wealth as both blessing and burden)
+    - Grey (the stone seat, the city — cold permanence)
+connections:
+  - card: pentacles-02
+    relationship: polarity
+    description: >
+      The Two dances with change; the Four resists it absolutely. Both manage
+      material resources, but the Two flows while the Four locks down.
+  - card: pentacles-06
+    relationship: polarity
+    description: >
+      The Four hoards; the Six gives. They represent opposing responses to
+      the question of what to do with wealth — clutch it or distribute it.
+  - card: major-04
+    relationship: echo
+    description: >
+      The Emperor also establishes order and control through the number four.
+      But the Emperor builds a kingdom; the Four of Pentacles builds a cage.
+      Same structure, different scale and intention.
+themes:
+  - "The prison of possession — when what you own begins to own you"
+  - "Security versus freedom — the cost of holding on"
+  - "Scarcity mindset — fear masquerading as prudence"
+  - "Healthy boundaries versus unhealthy walls"
+questions:
+  - "What are you holding so tightly that you can't use your hands for anything else?"
+  - "Is your need for financial security protecting you or isolating you?"
+  - "What would you do differently if you trusted that more would come?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite's description is notably brief and dry — the image speaks for itself. Note the posture he specifies."
+    section: "Part II: Minor Arcana — Four of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack's reading emphasizes the figure's isolation from the city and the psychological dimension of material attachment."
+    section: "Pentacles: Four"

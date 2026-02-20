@@ -1,0 +1,118 @@
+﻿id: cups-03
+name: Three of Cups
+arcana: minor
+suit: cups
+rank: 3
+image: RWSa-C-03.png
+symbol: 🍷
+upright:
+  keywords:
+    - Celebration
+    - Friendship
+    - Community
+    - Joy
+    - Abundance
+  meaning: >
+    Three women raise their cups in a toast, surrounded by the fruits of the
+    harvest. This is joy shared — not private satisfaction but communal
+    celebration. Friendships, creative collaborations, reunions, and any
+    moment where happiness multiplies by being given away.
+reversed:
+  keywords:
+    - Overindulgence
+    - Exclusion
+    - Gossip
+    - Isolation from community
+    - Superficial socializing
+  meaning: >
+    The celebration turns hollow or excessive. Drinking to forget rather than
+    to celebrate. Social connection that's performative rather than genuine,
+    or feeling excluded from a group. Can indicate the aftermath of too much
+    revelry — the hangover, literal or emotional.
+imagery:
+  - element: Three women dancing in a circle, raising cups
+    significance: >
+      The triple goddess or the three Graces (Aglaia, Euphrosyne, Thalia) —
+      beauty, mirth, and abundance dancing together. The circular formation
+      suggests equality; no one leads. Joy here is communal and reciprocal.
+    tradition: Greek — the Three Graces / Triple Goddess
+  - element: Harvest fruits and vegetables at their feet
+    significance: >
+      Pumpkins, grapes, and gourds — the bounty of autumn. Celebration that
+      is earned through shared labor. The harvest is the occasion; the
+      connection between the women is the real abundance.
+    tradition: Agricultural / seasonal cycle
+  - element: Garlands in their hair and flowing robes
+    significance: >
+      Festive adornment — these women have dressed for the occasion. The
+      different colored robes (red, white, gold/orange) suggest distinct
+      personalities united in shared feeling.
+    tradition: Classical festival imagery
+  - element: Open, bright landscape
+    significance: >
+      Unlike many Cups cards with water or clouds, this scene is sunny and
+      grounded. Joy here is not dreamy or introverted — it's embodied,
+      physical, happening in the daylight world.
+    tradition: Pastoral
+correspondences:
+  element: Water
+  planet: Mercury
+  zodiac: Cancer
+  hebrew_letter: null
+  tree_of_life: "Binah (3 — Understanding)"
+  numerology: >
+    3 — synthesis, creativity, the first fruit of combination. Where 2 is
+    the pair, 3 is what they create together. The number of expression,
+    growth, and the social unit beyond the couple.
+  colors:
+    - Red (vitality, passion)
+    - White (purity, joy)
+    - Gold (abundance, harvest)
+connections:
+  - card: cups-02
+    relationship: sequence
+    description: >
+      The Two is the couple; the Three is the community. Love expands
+      beyond the dyad into friendship, family, and collective joy.
+  - card: pentacles-03
+    relationship: echo
+    description: >
+      The Three of Pentacles is collaboration in work; the Three of Cups
+      is collaboration in celebration. Both honor what's created when
+      people bring different gifts to a shared purpose.
+  - card: cups-05
+    relationship: polarity
+    description: >
+      The Five grieves alone; the Three celebrates together. They are
+      mirror images of how we relate to others in emotional extremes.
+  - card: major-21
+    relationship: echo
+    description: >
+      The World also depicts a figure dancing in celebration — the
+      completion of a great cycle. The Three of Cups is a smaller,
+      more human version of that cosmic joy.
+themes:
+  - Joy as a communal act — happiness amplified through sharing
+  - Friendship as a form of love distinct from romance
+  - The harvest — celebration that follows effort and collaboration
+  - The feminine creative — women's circles, sisterhood, collective power
+questions:
+  - Who are the people you celebrate with — your inner circle of joy?
+  - When did you last experience genuine communal happiness, not just socializing?
+  - What have you harvested recently that deserves celebration?
+  - How do you distinguish between real connection and performative togetherness?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack connects the Three to the Graces and emphasizes the
+      emotional abundance that comes from genuine friendship rather
+      than romantic love.
+    section: "Cups: Three"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes "the conclusion of any matter in plenty, perfection,
+      and merriment." Note the emphasis on conclusion — this is joy at
+      the end of something, not the beginning.
+    section: "Part III: The Minor Arcana — Three of Cups"

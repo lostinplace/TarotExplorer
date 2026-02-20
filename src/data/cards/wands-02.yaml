@@ -1,0 +1,111 @@
+id: wands-02
+name: Two of Wands
+arcana: minor
+suit: wands
+rank: 2
+image: RWSa-W-02.png
+symbol: 🔥
+upright:
+  keywords:
+    - Planning
+    - Future vision
+    - Discovery
+    - Personal power
+    - Bold decisions
+  meaning: >
+    A figure stands on a castle wall holding a small globe, gazing out at the
+    vast landscape beyond. The initial spark has been caught — now comes the
+    moment of decision. This is the space between inspiration and action, where
+    vision meets strategy. The world is literally in your hands.
+reversed:
+  keywords:
+    - Fear of the unknown
+    - Lack of planning
+    - Playing it safe
+    - Indecision
+    - Small thinking
+  meaning: >
+    The globe feels too heavy, or the horizon too vast. You may be clinging to
+    safety, afraid to leave what you've already built. Can also indicate poor
+    planning — grand vision without the strategic thinking to support it, or
+    partnership friction over direction.
+imagery:
+  - element: Figure holding a small globe
+    significance: >
+      The world held in one hand — dominion over possibility. This is not
+      passive daydreaming; it's the confident assessment of someone who knows
+      they have the resources to act. The globe represents the scope of
+      ambition: not local, but expansive.
+    tradition: RWS symbolic — mastery and worldly ambition
+  - element: Two wands — one held, one mounted on the wall
+    significance: >
+      The held wand represents active will; the mounted wand represents
+      established power or resources already in place. Together they suggest
+      a choice point — use what you have, or reach for more.
+    tradition: Numerological — duality, choice, partnership
+  - element: Castle battlements
+    significance: >
+      The figure has already achieved something — a position of security and
+      elevation. But he's looking outward, not inward. The castle is a
+      launching point, not a destination. The question is whether comfort
+      will become a trap.
+    tradition: RWS scenic convention — elevation as achieved perspective
+  - element: Red roses and lilies on the wall
+    significance: >
+      Roses (passion, desire) and lilies (purity, higher purpose) — the dual
+      motivations behind ambition. The same flowers appear in The Magician's
+      garden, linking this card to conscious creative will.
+    tradition: Hermetic — rose and lily as passion and purity
+correspondences:
+  element: Fire
+  planet: Mars
+  zodiac: Aries
+  hebrew_letter: null
+  tree_of_life: "Chokmah (Wisdom) — the first emanation of Fire's force"
+  numerology: >
+    2 — duality, polarity, the first division. In Wands, this is the moment
+    where the single spark of the Ace splits into vision and plan, self and
+    world, here and there.
+  colors:
+    - Red (Mars, passion, will)
+    - Orange (ambition, warmth, fire)
+    - Grey stone (structure, achieved position)
+connections:
+  - card: wands-01
+    relationship: sequence
+    description: >
+      The Ace is the spark; the Two is the first conscious act of directing
+      that spark. You've caught the inspiration — now what do you do with it?
+  - card: wands-03
+    relationship: sequence
+    description: >
+      The Three of Wands shows the figure who acted on the Two's vision —
+      now watching ships sail toward the horizon. Planning has become
+      commitment and expansion.
+  - card: major-01
+    relationship: echo
+    description: >
+      The Magician's roses and lilies reappear here. Both cards involve
+      conscious direction of will toward manifestation, though the Two of
+      Wands is more specifically about strategic choice.
+themes:
+  - "The courage of the first step — vision that demands action"
+  - "Dominion and choice — holding the world and deciding what to do with it"
+  - "Comfort versus growth — the castle as both achievement and potential cage"
+questions:
+  - "What vision are you holding but not yet acting on?"
+  - "Where is safety keeping you from your next step?"
+  - "If the world were literally in your hands, where would you point it?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite emphasizes the figure's dominion and the globe as representing
+      worldly power. Note his phrase about the card's connection to boldness.
+    section: "Part III: The Minor Arcana — Two of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads this as the moment of commitment after inspiration —
+      the dominion theme and the tension between safety and adventure.
+    section: "Minor Arcana: Wands"

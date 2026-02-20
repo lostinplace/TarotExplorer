@@ -1,0 +1,136 @@
+id: major-09
+name: The Hermit
+arcana: major
+suit: null
+rank: 9
+image: RWSa-T-09.png
+symbol: 🏔️
+upright:
+  keywords:
+    - Soul-searching
+    - Solitude
+    - Inner guidance
+    - Contemplation
+    - Wisdom through withdrawal
+  meaning: >
+    The Hermit withdraws to find truth within. His lantern illuminates the path
+    inward — this is the wisdom that comes only from solitude and deep
+    reflection. He stands at the peak, having climbed alone, and his light
+    serves two purposes: to see his own way and to guide those still ascending.
+reversed:
+  keywords:
+    - Isolation
+    - Loneliness
+    - Withdrawal
+    - Fear of connection
+    - Lost direction
+  meaning: >
+    Reversed, healthy solitude becomes unhealthy isolation. Fear of connection,
+    getting lost in your own head, or refusing guidance when you need it. Can
+    also mean a reluctance to share your wisdom — hoarding insight instead of
+    lighting the way for others.
+imagery:
+  - element: Robed elder figure standing on a mountain peak
+    significance: >
+      The Hermit has climbed to the highest point — this is wisdom earned
+      through experience and effort, not granted by authority. He stands alone,
+      but by choice. The grey robe suggests withdrawal from worldly concerns,
+      asceticism, and the invisibility of one who has left public life.
+    tradition: Monastic / Ascetic traditions
+  - element: Lantern held aloft containing a six-pointed star
+    significance: >
+      The lantern contains the Seal of Solomon — the hexagram, union of above
+      and below, fire and water. This is not ordinary light but integrated
+      wisdom. He holds it high: it illuminates the path but only a small
+      circle at a time. You can't see the whole mountain by lantern-light;
+      you see the next step.
+    tradition: Kabbalistic / Hermetic (Seal of Solomon)
+  - element: Staff in the left hand
+    significance: >
+      The patriarch's staff — support for the journey and a tool for testing
+      the ground ahead. In the left (receptive) hand while the lantern is in
+      the right (active): he receives physical support but actively projects
+      spiritual light. The staff also connects him to Moses and other
+      wilderness prophets.
+    tradition: Biblical / Pilgrim iconography
+  - element: Snow-covered mountain peak
+    significance: >
+      The pinnacle of spiritual attainment — cold, austere, above the
+      treeline where nothing grows. The truth The Hermit finds is not
+      comfortable. Height here means perspective: from the peak you can see
+      the whole path you've walked, but you're far from the warmth of the
+      valley.
+    tradition: Mountain mysticism / Sinai / Olympus
+correspondences:
+  element: Earth
+  planet: Mercury
+  zodiac: Virgo
+  hebrew_letter: "Yod (י)"
+  tree_of_life: "Path 20: Chesed (Mercy) → Tiphareth (Beauty)"
+  numerology: >
+    9 — the number of completion before return. Nine months of gestation,
+    the last single digit. The Hermit's solitude is the final stage of the
+    first cycle — gathering everything learned before the Wheel turns.
+  colors:
+    - Grey (withdrawal, asceticism, between worlds)
+    - Yellow (the lantern's light, wisdom, illumination)
+    - White (snow, purity, spiritual height)
+connections:
+  - card: major-00
+    relationship: polarity
+    description: >
+      The Fool and The Hermit are the journey's bookends within the first
+      line of the Major Arcana. The Fool leaps into the unknown with
+      innocence; The Hermit has climbed the mountain and found what
+      innocence couldn't show him. Both walk alone.
+  - card: major-10
+    relationship: sequence
+    description: >
+      The Hermit's solitary wisdom precedes the Wheel of Fortune's sudden
+      change. Inner preparation before external upheaval — the one who has
+      done the inner work can ride the Wheel rather than be thrown by it.
+  - card: major-05
+    relationship: polarity
+    description: >
+      The Hierophant teaches within institutions; The Hermit teaches through
+      example and withdrawal. Public doctrine versus private illumination.
+      Both are teachers; one addresses a congregation, the other waits on
+      a mountaintop.
+  - card: major-18
+    relationship: shadow
+    description: >
+      The Moon is The Hermit's shadow — where The Hermit carries a lantern
+      through darkness by choice, The Moon shows darkness without a guide.
+      Solitude with wisdom versus solitude with illusion.
+themes:
+  - "The examined life — Socrates' assertion that the unexamined life is not worth living"
+  - "Solitude as practice — the difference between being alone and being lonely"
+  - "The lantern principle — you can only illuminate the next step, not the whole path"
+  - "Mentor as absence — the teacher who helps by withdrawing, forcing the student to find their own light"
+questions:
+  - "When did you last spend real time alone with your own thoughts — no input, no distraction?"
+  - "What truth can you only find by stepping away from the people and systems that define your daily life?"
+  - "Are you in solitude or isolation — do you know the difference in your own experience?"
+  - "Whose lantern guided you, and for whom are you carrying the light now?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite identifies The Hermit with prudence and the light of occult
+      knowledge. His description is restrained — the card's meaning is
+      more in the image than his words.
+    section: "Part II: The Major Trumps — IX. The Hermit"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading connects The Hermit to the shaman's withdrawal from
+      society — the necessary isolation before returning with vision. She
+      emphasizes the Yod (divine spark) inside the lantern.
+    section: "Chapter 9: The Hermit"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Hermit emphasizes the Yod as the spermatozoon — the smallest
+      seed of light that contains all potential. His treatment connects Virgo
+      to the harvest and the wheat sheaf.
+    section: "Atu IX: The Hermit"

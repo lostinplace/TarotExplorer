@@ -1,0 +1,112 @@
+id: swords-04
+name: Four of Swords
+arcana: minor
+suit: swords
+rank: 4
+image: RWSa-S-04.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Rest
+    - Retreat
+    - Recovery
+    - Contemplation
+    - Solitude
+  meaning: >
+    A knight lies in effigy upon a tomb, hands in prayer, three swords on the
+    wall above and one beneath him. After the Three's heartbreak comes enforced
+    rest — not death, but the stillness required for recovery. This is the
+    mind's need to withdraw, process, and heal before re-engaging.
+reversed:
+  keywords:
+    - Restlessness
+    - Burnout
+    - Forced activity
+    - Refusing to rest
+    - Stagnation
+  meaning: >
+    Reversed, the rest is either refused or has gone on too long. You push
+    through exhaustion when you should retreat, or you've retreated so far
+    that isolation has become avoidance. The mind that won't stop spinning,
+    or the mind that has checked out entirely.
+imagery:
+  - element: Recumbent knight on a stone tomb
+    significance: >
+      Not dead — resting. The figure is a knight's effigy, suggesting a
+      warrior who has temporarily laid down arms. The stone tomb evokes a
+      church or sacred space; this is sanctuary, not burial. Healing happens
+      in stillness.
+    tradition: Medieval tomb effigies / Church sanctuary tradition
+  - element: Three swords mounted on the wall
+    significance: >
+      The three swords from the previous card are hung up — the pain is
+      acknowledged but set aside. They remain present (you can't un-know
+      what hurt you) but are no longer actively piercing.
+    tradition: Sequential narrative across the RWS pip cards
+  - element: One sword beneath the figure
+    significance: >
+      A single sword lies beneath the knight, suggesting a truth held close
+      even in rest — awareness maintained even in withdrawal. You rest but
+      you don't forget.
+    tradition: Hermetic — the reserved blade
+  - element: Stained glass window showing a figure offering blessing
+    significance: >
+      A devotional scene suggesting grace, healing, or spiritual comfort
+      received during retreat. The window lets colored light in — even in
+      withdrawal, something luminous enters.
+    tradition: Christian sanctuary / devotional art
+correspondences:
+  element: Air
+  planet: Jupiter
+  zodiac: Libra
+  hebrew_letter: null
+  tree_of_life: Chesed (Mercy) — stability, benevolence, rest after severity
+  numerology: >
+    4 — stability, structure, the square. In Swords, four creates the
+    container that holds the mind still — the room, the tomb, the enforced
+    pause. Chesed's mercy after Binah's sorrow.
+  colors:
+    - Grey (stone — endurance, withdrawal)
+    - Gold (the stained glass — grace entering)
+    - Yellow (the figure's garment — the spirit resting within matter)
+connections:
+  - card: swords-03
+    relationship: sequence
+    description: >
+      The Three pierces the heart; the Four retreats to heal. Pain demands
+      rest. This is the necessary aftermath — you cannot move through grief
+      without pause.
+  - card: major-04
+    relationship: echo
+    description: >
+      The Emperor structures and stabilizes; the Four of Swords stabilizes
+      through withdrawal. Both are fours — creating order — but the Emperor
+      acts outward while the Four of Swords acts inward.
+  - card: major-12
+    relationship: echo
+    description: >
+      The Hanged Man also finds wisdom in suspension and stillness. Both cards
+      suggest that sometimes the most powerful thing you can do is stop.
+themes:
+  - "Strategic withdrawal — retreat as wisdom, not weakness"
+  - "The mind's need for sanctuary"
+  - "Recovery as an active process disguised as passivity"
+  - "The pause between crisis and resolution"
+questions:
+  - What would happen if you gave yourself permission to stop?
+  - Are you resting or hiding?
+  - What healing can only happen in solitude?
+  - When did you last truly let your mind be still?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack distinguishes between the Four as genuine recuperation versus
+      escapist withdrawal — a critical nuance for readings.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite emphasizes "vigilance, retreat, solitude" — the idea that rest
+      here is watchful, not unconscious.
+    section: "Part III: The Minor Arcana — Suit of Swords"

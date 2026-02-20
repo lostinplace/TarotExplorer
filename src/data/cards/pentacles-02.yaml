@@ -1,0 +1,111 @@
+id: pentacles-02
+name: Two of Pentacles
+arcana: minor
+suit: pentacles
+rank: 2
+image: RWSa-P-02.png
+symbol: 🪙
+upright:
+  keywords:
+    - Balance
+    - Adaptability
+    - Juggling priorities
+    - Flexibility
+    - Playfulness
+  meaning: >
+    A young man dances while juggling two pentacles connected by an infinity
+    lemniscate, ships riding rolling waves behind him. Life demands that you
+    hold multiple things at once — finances, responsibilities, roles. The card
+    doesn't promise equilibrium; it celebrates the dance of staying in motion.
+    Balance here is dynamic, not static.
+reversed:
+  keywords:
+    - Overwhelm
+    - Imbalance
+    - Disorganization
+    - Financial stress
+    - Dropping the ball
+  meaning: >
+    Reversed, the juggling act collapses. Overcommitted and stretched too thin,
+    or refusing to prioritize because everything feels equally urgent. The
+    ships behind may be going under. Sometimes you have to set one thing down
+    to hold another properly.
+imagery:
+  - element: Figure dancing while juggling two pentacles
+    significance: >
+      The dance is the key — this isn't grim determination but joyful
+      adaptation. The figure's posture is playful, one foot lifted. He treats
+      instability as a game rather than a crisis. The message: you can't
+      balance by standing still.
+    tradition: Performance / folk traditions
+  - element: Infinity lemniscate connecting the two pentacles
+    significance: >
+      The same figure-eight appears above The Magician's head and on the
+      Strength card. Here it binds the two coins in perpetual exchange — what
+      flows out returns, what rises falls. The infinite loop suggests that
+      balance is not a destination but an ongoing process.
+    tradition: Hermetic / mathematical symbolism
+  - element: Two ships on rolling waves in background
+    significance: >
+      The seas of fortune are never calm. The ships represent ventures,
+      investments, or commitments navigating uncertain conditions. They echo
+      the juggler's situation on a larger scale — commerce, trade, and life
+      itself ride the waves.
+    tradition: Maritime / mercantile symbolism
+  - element: Tall pointed hat on the figure
+    significance: >
+      Resembles a jester's or performer's cap, reinforcing the theatrical
+      quality of the balancing act. The juggler is part entertainer, part
+      acrobat — the skill is in making difficulty look effortless.
+    tradition: Medieval performance traditions
+correspondences:
+  element: Earth
+  planet: Jupiter
+  zodiac: Capricorn
+  hebrew_letter: null
+  tree_of_life: "Chokmah (Wisdom) — dynamic force applied to Earth"
+  numerology: >
+    2 — duality, polarity, choice. The first division of unity creates
+    tension — two things that must be held simultaneously. In Pentacles,
+    this duality is concrete: two jobs, two expenses, two priorities.
+  colors:
+    - Red (vitality, active energy)
+    - Green (Earth element, growth)
+    - Blue-grey (the uncertain sea)
+connections:
+  - card: major-01
+    relationship: echo
+    description: >
+      The Magician also works with the lemniscate and channels multiple
+      forces simultaneously. The Two of Pentacles is the mundane echo —
+      the same principle of dynamic balance applied to daily life rather
+      than cosmic forces.
+  - card: pentacles-04
+    relationship: polarity
+    description: >
+      The Two dances with change; the Four grips against it. Both address
+      the question of how to handle material resources, but from opposite
+      strategies — flexibility versus control.
+  - card: swords-02
+    relationship: echo
+    description: >
+      Both Twos involve holding two things in tension. The Two of Swords
+      does it through stillness and avoidance; the Two of Pentacles does
+      it through motion and adaptation.
+themes:
+  - "Dynamic balance — equilibrium as movement, not stillness"
+  - "The juggler's wisdom — treating instability as play rather than crisis"
+  - "Multitasking as a spiritual practice — presence amid complexity"
+questions:
+  - "What are you trying to juggle right now, and is the dance still fun?"
+  - "Where do you need more flexibility in how you manage your resources?"
+  - "Are you balancing by choice, or because you refuse to set something down?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite notes the 'gaiety' of the figure — the card's optimism is intentional, not accidental."
+    section: "Part II: Minor Arcana — Two of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack emphasizes the infinity symbol as the card's true subject — not the coins but the flow between them."
+    section: "Pentacles: Two"

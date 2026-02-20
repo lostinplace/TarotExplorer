@@ -9,14 +9,16 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@modyfi/vite-plugin-yaml": "^1.1.1",
     "@tailwindcss/postcss": "^4.0.0",
     "postcss": "^8.5.0",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.7.0",
-    "vite": "^6.1.0"
+    "vite": "^6.1.0",
+    "yaml": "^2.8.2"
   },
   "dependencies": {
-    "leaflet": "^1.9.4",
-    "@types/leaflet": "^1.9.14"
+    "@types/leaflet": "^1.9.14",
+    "leaflet": "^1.9.4"
   }
 }

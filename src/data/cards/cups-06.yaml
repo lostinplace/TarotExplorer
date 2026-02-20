@@ -1,0 +1,122 @@
+﻿id: cups-06
+name: Six of Cups
+arcana: minor
+suit: cups
+rank: 6
+image: RWSa-C-06.png
+symbol: 🍷
+upright:
+  keywords:
+    - Nostalgia
+    - Innocence
+    - Childhood
+    - Generosity
+    - Simple pleasures
+  meaning: >
+    A child offers a cup filled with flowers to a smaller child in what
+    appears to be a courtyard of an old estate. This is the warmth of memory
+    — kindness given freely, the sweetness of the past, the innocence you
+    carry forward from childhood. Reunions, gifts with no strings, and the
+    comfort of familiar places.
+reversed:
+  keywords:
+    - Living in the past
+    - Naivety
+    - Stagnation through nostalgia
+    - Childhood wounds
+    - Rose-colored glasses
+  meaning: >
+    Nostalgia becomes a trap. You're idealizing the past at the expense of
+    the present, or childhood patterns are running your adult life without
+    your awareness. Can indicate unresolved childhood issues surfacing, or
+    the refusal to grow up. The sweetness has turned saccharine.
+imagery:
+  - element: Older child offering a cup of white flowers to a younger child
+    significance: >
+      Generosity without calculation — a child's gift, given simply because
+      giving feels good. The flowers suggest innocence and beauty offered
+      freely. The size difference implies mentorship or protection, the
+      older self caring for the younger.
+    tradition: Pastoral / innocence symbolism
+  - element: Six cups arranged in the courtyard, each containing flowers
+    significance: >
+      Six fulfilled emotional experiences, each blooming. The number six
+      represents harmony and balance — after the disruption of the Five,
+      equilibrium returns through the healing power of memory and kindness.
+    tradition: Numerological — six as restoration
+  - element: Old stone buildings and courtyard setting
+    significance: >
+      An ancestral home, the place you grew up, the architecture of memory.
+      The buildings are solid and old — the past is stable and enduring,
+      even as you've moved on from it. There's a guard or older figure
+      walking away in the background.
+    tradition: Architectural — home as emotional anchor
+  - element: A guard or adult figure retreating in the background
+    significance: >
+      The adult world recedes, leaving the children to their exchange.
+      Responsibility, vigilance, and the harder aspects of maturity step
+      back to let innocence have its moment. Some read this as the querent
+      themselves, walking away from present concerns into memory.
+    tradition: Compositional / narrative symbolism
+correspondences:
+  element: Water
+  planet: Sun
+  zodiac: Scorpio
+  hebrew_letter: null
+  tree_of_life: "Tiphareth (6 — Beauty)"
+  numerology: >
+    6 — harmony, beauty, balance restored. After the disruption of 5, the
+    6 finds equilibrium through integration. In Cups, this harmony comes
+    through revisiting what was good — letting the past nourish the present.
+  colors:
+    - Yellow (warmth, sunlight, childhood brightness)
+    - White (innocence, purity of intention)
+    - Green (growth, the garden of memory)
+connections:
+  - card: cups-05
+    relationship: sequence
+    description: >
+      After the Five's grief, the Six finds comfort in remembering what was
+      good. The mourner turns to memory for healing — nostalgia as balm.
+  - card: cups-07
+    relationship: sequence
+    description: >
+      The Six's sweet memories can tip into the Seven's fantasies. Nostalgia
+      unchecked becomes illusion — remembering what never was.
+  - card: major-19
+    relationship: echo
+    description: >
+      The Sun card also features children and innocence in bright light.
+      The Six of Cups is a smaller, more personal echo — not cosmic joy
+      but the quiet warmth of a remembered afternoon.
+  - card: pentacles-06
+    relationship: echo
+    description: >
+      Both Sixes involve giving and receiving. The Six of Pentacles gives
+      material aid; the Six of Cups gives emotional warmth. Both ask:
+      what does it mean to give freely?
+themes:
+  - Nostalgia as medicine — the healing power of happy memories
+  - Innocence — the child's way of seeing as a gift, not a weakness
+  - The past in the present — how early experiences shape who we are now
+  - Simple generosity — giving without expectation or calculation
+questions:
+  - What childhood memory still nourishes you when you return to it?
+  - Are you visiting the past for comfort or hiding there to avoid the present?
+  - What would your childhood self think of the person you've become?
+  - Who in your life offers you kindness with no strings attached?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads the Six as the card of childhood and the past, but
+      warns against reading it as purely sentimental — the past can heal
+      or imprison depending on how you hold it.
+    section: "Cups: Six"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description includes "a card of the past and of memories"
+      and "things that have vanished." Note the melancholy under the
+      sweetness in his reading.
+    section: "Part III: The Minor Arcana — Six of Cups"

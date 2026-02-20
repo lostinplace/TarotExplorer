@@ -1,0 +1,118 @@
+﻿id: cups-09
+name: Nine of Cups
+arcana: minor
+suit: cups
+rank: 9
+image: RWSa-C-09.png
+symbol: 🍷
+upright:
+  keywords:
+    - Wishes fulfilled
+    - Satisfaction
+    - Contentment
+    - Pleasure
+    - Emotional abundance
+  meaning: >
+    A well-fed figure sits before a curved display of nine cups, arms crossed
+    in satisfaction. The "wish card" — what you wanted has arrived, and you
+    can enjoy it. Physical comfort, emotional fulfillment, and the simple
+    pleasure of having enough. Enjoy it without guilt.
+reversed:
+  keywords:
+    - Smugness
+    - Materialism
+    - Shallow satisfaction
+    - Unfulfilled wishes
+    - Overindulgence
+  meaning: >
+    The satisfaction curdles into smugness or reveals itself as hollow.
+    Getting what you wished for and finding it doesn't fill the deeper
+    need. Can indicate overindulgence, hedonism without meaning, or the
+    uncomfortable realization that material comfort isn't the same as
+    happiness.
+imagery:
+  - element: Stout figure seated on a wooden bench, arms crossed, smiling
+    significance: >
+      Self-satisfaction embodied. The crossed arms echo the Four of Cups
+      but here the posture is confident, not defensive. This person is
+      pleased with themselves and wants you to know it. There's a
+      performative quality — the satisfaction is being displayed.
+    tradition: Genre painting — the contented merchant
+  - element: Nine cups arranged in an arc on a draped shelf behind the figure
+    significance: >
+      A trophy display — emotional achievements lined up for admiration.
+      The arc suggests a crown or halo of fulfilled desires. Nine is one
+      short of ten (completion), hinting that this satisfaction, while
+      real, may not be the final word.
+    tradition: Numerological — nine as near-completion
+  - element: Blue draped cloth covering the shelf
+    significance: >
+      The display is dressed up, presented. There's something theatrical
+      about this arrangement — satisfaction as performance. The blue
+      connects to water and emotion, but here it's fabric, not flowing
+      water. Emotion has been captured, arranged, controlled.
+    tradition: Theatrical / display symbolism
+correspondences:
+  element: Water
+  planet: Jupiter
+  zodiac: Pisces
+  hebrew_letter: null
+  tree_of_life: "Yesod (9 — Foundation)"
+  numerology: >
+    9 — attainment, fulfillment, the penultimate number. Nines represent
+    the highest expression of their suit before completion. In Cups, this
+    is emotional fulfillment at its peak — the wish granted, the desire
+    satisfied.
+  colors:
+    - Gold (wealth, satisfaction, abundance)
+    - Blue (emotional fulfillment)
+    - White (the figure's clothing — comfort, ease)
+connections:
+  - card: cups-08
+    relationship: sequence
+    description: >
+      The Eight walked away seeking something real; the Nine found it.
+      The difficult journey leads to genuine satisfaction — not the
+      hollow comfort that was abandoned, but something earned.
+  - card: cups-10
+    relationship: sequence
+    description: >
+      The Nine is personal satisfaction; the Ten extends it to family
+      and community. Individual contentment becomes shared joy.
+  - card: pentacles-09
+    relationship: echo
+    description: >
+      Both Nines depict solitary enjoyment of abundance. The Nine of
+      Pentacles enjoys material independence; the Nine of Cups enjoys
+      emotional fulfillment. Both ask: is solo satisfaction enough?
+  - card: major-10
+    relationship: echo
+    description: >
+      The Wheel of Fortune reminds that all states are temporary. The
+      Nine of Cups is a high point — Jupiter's bounty — but the wheel
+      keeps turning.
+themes:
+  - The wish fulfilled — getting what you asked for, and what that really means
+  - Earned pleasure — satisfaction that follows seeking and sacrifice
+  - The display of happiness — the gap between feeling content and performing contentment
+  - Enough — the rare and undervalued experience of having what you need
+questions:
+  - What did you once wish for that you now have — and have you stopped to enjoy it?
+  - Is your current satisfaction genuine, or are you performing contentment?
+  - What's the difference between having enough and having everything?
+  - If this wish came true, what would you wish for next?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack notes the slightly smug quality of the figure and asks
+      whether the satisfaction is deep or shallow. She connects the
+      card to Jupiter's expansive bounty in Pisces.
+    section: "Cups: Nine"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite calls this "concord, contentment, physical well-being" and
+      notes the card's association with material success alongside
+      emotional satisfaction.
+    section: "Part III: The Minor Arcana — Nine of Cups"

@@ -1,0 +1,113 @@
+id: wands-09
+name: Nine of Wands
+arcana: minor
+suit: wands
+rank: 9
+image: RWSa-W-09.png
+symbol: 🔥
+upright:
+  keywords:
+    - Resilience
+    - Persistence
+    - Boundaries
+    - Last stand
+    - Endurance
+  meaning: >
+    A battered figure leans on a wand, bandaged but still standing, with eight
+    wands behind him like a fence. He's been through it — and he's still here.
+    This is resilience earned through experience, the grit to push through one
+    more round. You're closer to the finish than you think.
+reversed:
+  keywords:
+    - Paranoia
+    - Exhaustion
+    - Stubbornness
+    - Defensive walls
+    - Refusal to trust
+  meaning: >
+    Resilience curdles into paranoia. Every shadow looks like a threat, every
+    offer of help feels like a trap. The boundaries that protected you have
+    become walls that imprison you. Alternatively: the collapse finally comes —
+    you've pushed past endurance into breakdown.
+imagery:
+  - element: Bandaged figure leaning on a wand
+    significance: >
+      The bandage on his head tells you he's been hurt before — this isn't his
+      first battle. But he's standing, not fallen. The lean suggests weariness,
+      not defeat. He's watchful, guarded, experienced. Every wound is a lesson
+      that kept him alive.
+    tradition: RWS — physical state as narrative history
+  - element: Eight wands standing behind him like a fence
+    significance: >
+      The eight wands form a barrier — his accumulated experience, his
+      defenses, his boundaries. They could represent past challenges overcome
+      (one for each) or the walls he's built from what he's survived. Both
+      readings are true.
+    tradition: RWS symbolic — wands as boundary and history
+  - element: Watchful, suspicious posture
+    significance: >
+      He looks over his shoulder, scanning for the next threat. This vigilance
+      is hard-won — he's been surprised before. The posture asks: is this
+      wisdom or hypervigilance? At what point does healthy caution become
+      chronic distrust?
+    tradition: RWS — body language as psychological portrait
+  - element: Ninth wand held upright
+    significance: >
+      He hasn't put down his weapon. The ninth wand — the one he's holding —
+      represents his remaining will to continue. It's both walking stick and
+      weapon, support and defense. He's ready for whatever comes next.
+    tradition: Numerological — nine as near-completion
+correspondences:
+  element: Fire
+  planet: Moon
+  zodiac: Sagittarius
+  hebrew_letter: null
+  tree_of_life: "Yesod (Foundation) — the deep structure that endures"
+  numerology: >
+    9 — near-completion, the penultimate number. Everything has been tested;
+    only the final step remains. In Wands, this is Fire's endurance — the
+    flame that has burned through every obstacle and still flickers.
+  colors:
+    - Yellow/tan (weariness, earth tones of endurance)
+    - Green (the bandage, healing in progress)
+    - Brown (the wands, hard-won structure)
+connections:
+  - card: wands-10
+    relationship: sequence
+    description: >
+      The Nine's weary persistence leads to the Ten's burden — all the
+      wands finally gathered, but at the cost of carrying everything alone.
+  - card: major-09
+    relationship: echo
+    description: >
+      The Hermit also stands alone with hard-won wisdom. Both Nines
+      involve solitary endurance, though the Hermit chooses withdrawal
+      while the Nine of Wands is forced into it.
+  - card: swords-09
+    relationship: echo
+    description: >
+      Both Nines depict suffering — the Nine of Swords is mental anguish
+      in the night, the Nine of Wands is physical exhaustion from sustained
+      battle. Different wounds, same nearness to the end.
+themes:
+  - "Resilience as identity — you are what you've survived"
+  - "The cost of endurance — scars as both armor and burden"
+  - "Boundaries versus walls — when protection becomes isolation"
+questions:
+  - "What are you still fighting for — and is the fight almost over?"
+  - "Where have your protective boundaries become prisons?"
+  - "What would it take for you to put the wand down and rest?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes this as strength in opposition, with an emphasis on
+      the figure's preparedness and expectation of further challenge.
+    section: "Part III: The Minor Arcana — Nine of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading of the Nine as defensive resilience — the figure
+      who has built walls from experience — is particularly insightful on
+      the line between wisdom and paranoia.
+    section: "Minor Arcana: Wands"

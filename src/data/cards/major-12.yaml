@@ -1,0 +1,135 @@
+id: major-12
+name: The Hanged Man
+arcana: major
+suit: null
+rank: 12
+image: RWSa-T-12.png
+symbol: 🙃
+upright:
+  keywords:
+    - Surrender
+    - New perspective
+    - Letting go
+    - Sacrifice
+    - Suspension
+  meaning: >
+    The Hanged Man sees the world upside down — and finds enlightenment in the
+    inversion. Surrender control, release attachments, and gain a radically new
+    perspective. This is not defeat but voluntary suspension — the wisdom of
+    waiting, of letting gravity do the work that effort cannot.
+reversed:
+  keywords:
+    - Stalling
+    - Resistance
+    - Indecision
+    - Martyrdom
+    - Unnecessary sacrifice
+  meaning: >
+    Reversed, The Hanged Man suggests needless sacrifice, refusing to let go,
+    or stalling when action is needed. Stop playing the martyr. There's a
+    difference between patient suspension and just being stuck — reversed,
+    you may be calling paralysis wisdom.
+imagery:
+  - element: Man hanging upside down by one foot from a T-shaped tree
+    significance: >
+      The Tau cross (T-shape) is a symbol of sacrifice and initiation. He hangs
+      by his right foot, left leg crossed behind the right forming a figure-4 —
+      the same shape as The Emperor's crossed legs. He chose this position. The
+      living wood of the tree (it sprouts leaves) means this sacrifice is
+      connected to growth, not death.
+    tradition: Norse (Odin on Yggdrasil) / Christian (St. Peter's inverted crucifixion)
+  - element: Serene facial expression with golden halo
+    significance: >
+      He is not in pain — his face is calm, even blissful. The golden halo
+      around his head indicates illumination achieved through surrender. The
+      light comes from below (from his perspective, above). Wisdom enters
+      when you stop striving for it.
+    tradition: Christian hagiography / Mystical illumination
+  - element: Blue tunic and red leggings
+    significance: >
+      The color inversion from The Magician — blue (water, emotion, receptivity)
+      is now on top, red (will, action, desire) is on the bottom. The active
+      principle is subordinated to the receptive. Willpower hangs below;
+      understanding rises above.
+    tradition: Elemental color symbolism / Alchemical inversion
+  - element: Arms behind the back, forming a triangle
+    significance: >
+      His hidden arms form a downward-pointing triangle — the alchemical symbol
+      for water. His entire body forms the sigil of suspended water: emotion
+      and intuition in a state of perfect stillness. He is the inverse of
+      The Magician's upward-pointing gesture.
+    tradition: Alchemical / Geometric symbolism
+correspondences:
+  element: Water
+  planet: Neptune
+  zodiac: null
+  hebrew_letter: "Mem (מ)"
+  tree_of_life: "Path 23: Geburah (Severity) → Hod (Splendor)"
+  numerology: >
+    12 — the number of cosmic order (12 months, 12 zodiac signs, 12 apostles)
+    experienced from below. 1+2=3, returning to The Empress's creative energy,
+    but inverted — creation through surrender rather than abundance.
+  colors:
+    - Blue (water, surrender, the unconscious)
+    - Red (will and desire, subordinated)
+    - Yellow (illumination, the halo of insight)
+    - Green (living wood, growth through sacrifice)
+connections:
+  - card: major-00
+    relationship: echo
+    description: >
+      Both figures exist outside normal orientation — The Fool at the cliff's
+      edge, The Hanged Man inverted on the tree. The Fool doesn't know he's
+      suspended; The Hanged Man chooses it deliberately. Innocence before and
+      wisdom after experience.
+  - card: major-13
+    relationship: sequence
+    description: >
+      Surrender (12) precedes transformation (13). The Hanged Man releases;
+      Death completes the release. You cannot transform what you're still
+      clinging to — The Hanged Man opens the hands that Death empties.
+  - card: major-01
+    relationship: polarity
+    description: >
+      The Magician and The Hanged Man are perfect inversions — one channels
+      power downward through will, the other receives illumination upward
+      through surrender. Active and passive, as above/so below literally
+      flipped.
+  - card: major-16
+    relationship: shadow
+    description: >
+      The Tower is forced surrender — what The Hanged Man does voluntarily,
+      The Tower does violently. Choose to let go, or the lightning will choose
+      for you.
+themes:
+  - "Kenosis — the mystical emptying of the self to make room for the divine"
+  - "Paradigm shift — the moment when everything you thought was true inverts"
+  - "The productivity of waiting — cultures that value stillness over constant action"
+  - "Sacrifice as investment — giving up something now for something greater later"
+questions:
+  - "What would look different if you stopped trying to fix it and just... hung there?"
+  - "What perspective can you only get by inverting your usual way of seeing?"
+  - "Where are you sacrificing needlessly versus where might genuine surrender serve you?"
+  - "What are you holding onto that is holding you back?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite emphasizes the card's connection to divine wisdom gained through
+      trial. He explicitly notes the figure's expression of "deep entrancement,
+      not suffering."
+    section: "Part II: The Major Trumps — XII. The Hanged Man"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading is foundational — she connects the card to Odin's
+      nine-day hanging on Yggdrasil and the paradox of gaining through giving
+      up. Her treatment of the color inversion from The Magician is essential.
+    section: "Chapter 12: The Hanged Man"
+  - title: The Poetic Edda
+    author: Anonymous (trans. Carolyne Larrington)
+    relevance: >
+      Hávamál 138-139 describes Odin hanging nine nights on Yggdrasil,
+      sacrificing himself to himself to gain the runes. The primary mythic
+      source for the card's deepest meaning.
+    section: "Hávamál (Sayings of the High One), stanzas 138-139"

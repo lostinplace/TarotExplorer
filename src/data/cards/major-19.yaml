@@ -1,0 +1,159 @@
+id: major-19
+name: The Sun
+arcana: major
+suit: null
+rank: 19
+image: RWSa-T-19.png
+symbol: ☀️
+upright:
+  keywords:
+    - Joy
+    - Success
+    - Vitality
+    - Celebration
+    - Clarity
+    - Innocence reclaimed
+  meaning: >
+    The Sun blazes with unambiguous joy. After The Moon's confusion and fear,
+    everything is illuminated — there are no shadows, no hidden meanings, no
+    deception. A naked child rides freely, arms open, celebrating existence
+    itself. This is not naive innocence but innocence reclaimed after
+    experience — the child who has passed through darkness and emerged into
+    light without cynicism. The Sun says yes to life. It is the most
+    unequivocally positive card in the deck, promising clarity, vitality,
+    success, and the simple happiness of being alive and awake.
+reversed:
+  keywords:
+    - Temporary setback
+    - Diminished joy
+    - Overconfidence
+    - Delayed success
+    - Inner child wounded
+  meaning: >
+    Reversed, The Sun is clouded but not extinguished. Joy is muted —
+    perhaps by self-doubt, burnout, or taking success for granted. You may
+    be unable to enjoy what you have, or an inflated ego may be distorting
+    genuine confidence into arrogance. Can also indicate difficulty
+    connecting with your inner child — spontaneity suppressed by
+    responsibility or past wounds.
+imagery:
+  - element: Radiant sun with a human face
+    significance: >
+      The sun is conscious, benevolent, and personal — it has a face that
+      beams down with warmth. Twenty-one straight and wavy rays alternate,
+      representing the fusion of masculine (straight) and feminine (wavy)
+      energies, and the twenty-one other Major Arcana illuminated by this
+      card's light. The Sun sees everything and hides nothing.
+    tradition: Solar deity iconography / Hermetic solar symbolism
+  - element: Naked child on a white horse
+    significance: >
+      The child is naked like The Star's figure — nothing concealed,
+      nothing to hide. But where The Star kneels in quiet vulnerability,
+      the child rides actively, arms spread in joyful openness. The white
+      horse represents purified animal nature — instinct now in harmony
+      with consciousness, not the wild forces of The Moon's wolf and dog.
+      The child rides without saddle or reins: trust, not control.
+    tradition: Christ child / Solar hero mythology / Innocence restored
+  - element: Four sunflowers in the garden behind a wall
+    significance: >
+      The sunflowers are the four suits (elements), all turning toward the
+      sun — all aspects of life oriented toward this central illumination.
+      They grow in a cultivated garden behind a stone wall, suggesting
+      that this joy exists within a structured, boundaried space. The
+      garden is The Empress's garden, now fully in bloom.
+    tradition: Solar symbolism / Four elements / Garden of Eden restored
+  - element: Red banner or cloth held by the child
+    significance: >
+      The red banner streams behind the child like a flag of triumph — the
+      life force (red = vitality, blood, Mars energy) carried forward in
+      celebration. It connects to The Fool's bundle and The Death card's
+      black banner: the same energy of forward movement, now fully alive
+      and joyful.
+    tradition: Heraldic triumph / Vitality symbolism
+  - element: Gray stone wall
+    significance: >
+      The wall separates the garden from the open foreground where the
+      child rides. It suggests that this paradise is contained and
+      protected — not the boundless wilderness of earlier cards but a
+      cultivated, achieved space. The child has moved beyond the wall
+      into open ground, free and unafraid.
+    tradition: Hortus conclusus (enclosed garden) / Paradise imagery
+correspondences:
+  element: Fire
+  planet: Sun
+  zodiac: null
+  hebrew_letter: "Resh (ר)"
+  tree_of_life: "Path 30: Hod (Splendor) → Yesod (Foundation)"
+  numerology: >
+    19 — 1+9=10=1+0=1, returning to The Magician. The Sun is The
+    Magician's power fully realized and joyfully expressed. Where The
+    Magician channels power with conscious will, The Sun radiates it
+    effortlessly. The beginning contains the culmination.
+  colors:
+    - Yellow and gold (sunlight, joy, divine illumination, consciousness)
+    - White (purity, the purified horse, innocence)
+    - Red (vitality, life force, celebration)
+    - Green (growth, the garden, nature flourishing)
+connections:
+  - card: major-18
+    relationship: sequence
+    description: >
+      The Moon's darkness gives way to The Sun's light. Every fear,
+      illusion, and confusion of the night is resolved by dawn. The
+      journey through The Moon was necessary — the clarity of The Sun
+      is earned, not given.
+  - card: major-00
+    relationship: echo
+    description: >
+      The Fool and the Sun-child share the same joyful openness and
+      trust. But The Fool steps off the cliff unknowing; the Sun-child
+      rides through the garden knowing. Innocence before experience
+      echoes innocence after experience.
+  - card: major-01
+    relationship: echo
+    description: >
+      The numerological reduction (19=1) connects Sun to Magician.
+      Both are channels of solar/creative energy. The Magician focuses
+      it through will; The Sun radiates it through being. One works;
+      the other celebrates.
+  - card: major-06
+    relationship: polarity
+    description: >
+      The Lovers involves a choice in the light of the angel's sun;
+      The Sun has moved beyond choice into wholeness. The child is
+      singular, integrated — the duality of The Lovers resolved.
+themes:
+  - "Earned innocence — the difference between naivety (before experience) and wisdom-innocence (after it)"
+  - "Radical clarity — the relief of seeing things exactly as they are, without distortion"
+  - "The inner child — reconnecting with spontaneous joy, play, and trust"
+  - "Solar consciousness — awareness as warmth, illumination without judgment"
+questions:
+  - "Where in your life is genuine joy available that you're too busy or guarded to feel?"
+  - "What would your inner child do today if given complete freedom?"
+  - "How has passing through difficulty made your current happiness more meaningful?"
+  - "What are you overcomplicating that is actually simple and good?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes the card as representing "the transit from the manifest
+      to the higher spirit" and emphasizes the child as the "new
+      consciousness." His reading is surprisingly metaphysical for such a
+      joyful card.
+    section: "Part II: The Major Trumps — XIX. The Sun"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's treatment emphasizes the Sun as the culmination of the
+      Star-Moon-Sun triad and the child as consciousness reborn after
+      the unconscious journey. Her reading of the sunflowers as the four
+      elements is widely adopted.
+    section: "Chapter 19: The Sun"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Sun card features twin children representing the union
+      of opposites, contrasting with Waite's single child. Comparing
+      the two illuminates different approaches to solar wholeness —
+      integration of duality vs. transcendence of it.
+    section: "Atu XIX: The Sun"

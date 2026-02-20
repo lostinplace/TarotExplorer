@@ -1,0 +1,110 @@
+id: pentacles-03
+name: Three of Pentacles
+arcana: minor
+suit: pentacles
+rank: 3
+image: RWSa-P-03.png
+symbol: 🪙
+upright:
+  keywords:
+    - Teamwork
+    - Craftsmanship
+    - Collaboration
+    - Skill
+    - Mastery through practice
+  meaning: >
+    A stonemason works on the arches of a cathedral while a monk and an
+    architect consult plans nearby. This is skilled labor meeting vision —
+    the craftsman, the planner, and the patron each contributing what
+    the others cannot. Excellence requires both individual skill and
+    collaborative structure.
+reversed:
+  keywords:
+    - Lack of teamwork
+    - Disorganization
+    - Mediocrity
+    - Conflicting visions
+    - Ego in collaboration
+  meaning: >
+    Reversed, collaboration breaks down. The craftsman ignores the plans,
+    the architect dismisses the builder's expertise, or the patron
+    micromanages. Poor teamwork, sloppy execution, or a project where
+    nobody respects what others bring to the table.
+imagery:
+  - element: Stonemason working on cathedral arches
+    significance: >
+      The craftsman is elevated on a bench, actively carving. His skill is
+      physical, tangible, earned through repetition. The cathedral setting
+      elevates mundane labor to sacred work — craft as devotion. He builds
+      something that will outlast him.
+    tradition: Medieval guild traditions / sacred architecture
+  - element: Monk and architect consulting plans
+    significance: >
+      Three roles in creative work: the one who does (mason), the one who
+      designs (architect), and the one who commissions or blesses (monk).
+      Each is necessary. The plans they hold represent shared vision —
+      collaboration requires a common blueprint.
+    tradition: Guild and ecclesiastical traditions
+  - element: Three pentacles carved into the cathedral arch
+    significance: >
+      The pentacles are built into the architecture itself — wealth and
+      value literally embedded in the structure. These aren't coins to
+      spend but symbols of lasting worth created through skilled labor.
+    tradition: Architectural symbolism
+  - element: Gothic cathedral interior
+    significance: >
+      Cathedrals took generations to build and required every kind of
+      craftsman. They are the ultimate symbol of collaborative mastery —
+      no single person could create one. The setting says: what you're
+      building is bigger than any individual.
+    tradition: Medieval Christian / sacred geometry
+correspondences:
+  element: Earth
+  planet: Mars
+  zodiac: Capricorn
+  hebrew_letter: null
+  tree_of_life: "Binah (Understanding) — structured form applied to Earth"
+  numerology: >
+    3 — synthesis, creation, the first stable structure. Two points make
+    a line; three make a plane. In Pentacles, three represents the first
+    tangible result of combined effort.
+  colors:
+    - Grey (stone, durability, the material being shaped)
+    - Gold (the pentacles, value created through work)
+    - Red and black (the figures' robes — authority and devotion)
+connections:
+  - card: pentacles-08
+    relationship: sequence
+    description: >
+      The Three shows collaborative mastery; the Eight shows solitary mastery.
+      The Three builds cathedrals; the Eight perfects individual coins. Both
+      celebrate craft, but through different modes — collective versus personal.
+  - card: major-03
+    relationship: echo
+    description: >
+      The Empress is creation through abundance and nature; the Three of
+      Pentacles is creation through skill and collaboration. Both are threes,
+      both bring something into being — one organic, one architectural.
+  - card: wands-03
+    relationship: echo
+    description: >
+      Both Threes involve planning and building. The Three of Wands looks
+      outward at expanding ventures; the Three of Pentacles looks inward
+      at the quality of the work itself.
+themes:
+  - "Sacred craft — the dignity of skilled labor done with intention"
+  - "Collaboration as architecture — each role supporting the others"
+  - "Building to last — creating value that endures beyond the moment"
+questions:
+  - "In your current projects, are all three roles present — vision, skill, and support?"
+  - "Where are you trying to build a cathedral alone?"
+  - "What craft are you developing, and who could help you refine it?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite calls this the card of the 'artist' and 'workman' — note his emphasis on skill rather than inspiration."
+    section: "Part II: Minor Arcana — Three of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack connects the Three to the medieval guild system and the idea that mastery is communal, not solitary."
+    section: "Pentacles: Three"

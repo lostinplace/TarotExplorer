@@ -1,0 +1,105 @@
+id: wands-05
+name: Five of Wands
+arcana: minor
+suit: wands
+rank: 5
+image: RWSa-W-05.png
+symbol: 🔥
+upright:
+  keywords:
+    - Conflict
+    - Competition
+    - Creative tension
+    - Struggle
+    - Rivalry
+  meaning: >
+    Five figures brandish wands in a chaotic skirmish — but look closer: no one
+    is being hit. This is competition, not war. The clash of ideas, the jostle
+    for position, the creative friction that happens when multiple wills collide.
+    Uncomfortable but generative.
+reversed:
+  keywords:
+    - Avoidance of conflict
+    - Inner struggle
+    - Compromise
+    - Suppressed competition
+    - Resolution
+  meaning: >
+    The conflict moves inward or is avoided entirely. You may be dodging a
+    necessary confrontation, swallowing frustration to keep the peace, or
+    fighting yourself instead of engaging with others. Can also indicate
+    the resolution of a dispute — the wands finally lowered.
+imagery:
+  - element: Five figures with raised wands, no clear formation
+    significance: >
+      The chaos is the point. No one leads, no one follows, everyone pushes
+      their own agenda. This is creative disorder — the brainstorm before
+      the breakthrough, the argument that precedes alignment. Note that no
+      one appears genuinely injured.
+    tradition: RWS — conflict as developmental stage
+  - element: Different colored clothing on each figure
+    significance: >
+      Each figure is dressed differently, suggesting diverse perspectives,
+      backgrounds, or approaches. The conflict arises from difference, not
+      malice. These aren't enemies — they're individuals who haven't yet
+      found common ground.
+    tradition: RWS scenic detail — costume as identity
+  - element: Barren, flat ground
+    significance: >
+      No landscape features, no buildings, no trees — just open ground.
+      The stripped-down setting focuses attention entirely on the human
+      dynamics. There's no shelter, no hierarchy, no structure to impose
+      order. The figures must sort it out themselves.
+    tradition: RWS scenic convention — minimal landscape as raw state
+correspondences:
+  element: Fire
+  planet: Saturn
+  zodiac: Leo
+  hebrew_letter: null
+  tree_of_life: "Geburah (Severity) — conflict as necessary pruning and testing"
+  numerology: >
+    5 — disruption, instability, the breaking of the Four's structure.
+    Fives across all suits introduce challenge. In Wands, this is the
+    productive friction of competing creative energies.
+  colors:
+    - Multiple bright colors (diversity, chaos, individuality)
+    - Yellow-green (the open ground, unresolved energy)
+connections:
+  - card: wands-04
+    relationship: sequence
+    description: >
+      The Four's celebration gives way to the Five's conflict — after
+      harmony comes the inevitable clash of differing visions. Growth
+      requires disruption.
+  - card: swords-05
+    relationship: echo
+    description: >
+      Both Fives involve conflict, but the Five of Swords is cruel and
+      produces losers. The Five of Wands is rowdy but constructive — no
+      one walks away defeated.
+  - card: wands-06
+    relationship: sequence
+    description: >
+      The Six of Wands resolves the Five's conflict — one figure emerges
+      victorious, recognized by the crowd. Competition finds its winner.
+themes:
+  - "Creative friction — conflict as the engine of growth"
+  - "Competition without malice — the difference between rivalry and enmity"
+  - "The chaos before order — breakthrough requires disruption"
+questions:
+  - "Where in your life is conflict actually productive, even if uncomfortable?"
+  - "Are you avoiding a confrontation that needs to happen?"
+  - "What would change if you treated competition as a game rather than a threat?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes this as a card of strenuous competition and the
+      struggle of life. Note his ambiguity about whether it's real combat.
+    section: "Part III: The Minor Arcana — Five of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack emphasizes the playful quality of the conflict — these
+      are not enemies but competitors, and the struggle serves growth.
+    section: "Minor Arcana: Wands"

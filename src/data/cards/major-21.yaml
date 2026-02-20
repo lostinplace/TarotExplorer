@@ -1,0 +1,179 @@
+id: major-21
+name: The World
+arcana: major
+suit: null
+rank: 21
+image: RWSa-T-21.png
+symbol: 🌍
+upright:
+  keywords:
+    - Completion
+    - Integration
+    - Achievement
+    - Wholeness
+    - Fulfillment
+    - Dancing with life
+  meaning: >
+    The World is the final card of the Major Arcana — the destination the
+    Fool has been walking toward since stepping off the cliff. A figure
+    dances within a laurel wreath, holding two wands, surrounded by the
+    four fixed signs of the zodiac. Everything is integrated: masculine and
+    feminine, conscious and unconscious, above and below. This is not
+    static perfection but dynamic wholeness — she dances, meaning
+    completion is not an endpoint but a state of joyful, balanced movement.
+    The World says: you have arrived. The cycle is complete. And because
+    it is complete, it can begin again.
+reversed:
+  keywords:
+    - Incompletion
+    - Shortcuts
+    - Delayed fulfillment
+    - Lack of closure
+    - Stalled near the finish
+  meaning: >
+    Reversed, The World indicates that something remains unfinished. You
+    may be so close to completion that you can taste it, yet some final
+    piece eludes you. Perhaps you took shortcuts and the integration is
+    incomplete. Perhaps you're clinging to the journey and resisting
+    arrival. The wreath hasn't closed; the dance is halted. Identify what
+    remains undone and honor the last steps — they matter as much as the
+    first.
+imagery:
+  - element: Dancing figure wrapped in a purple sash
+    significance: >
+      The central figure is often read as androgynous — a fusion of
+      masculine and feminine, echoing The Fool's journey through all
+      polarities. The dance is the key: this is not a static achievement
+      but dynamic, ongoing wholeness. The purple sash simultaneously
+      reveals and conceals, echoing The High Priestess's veil now worn
+      as adornment rather than barrier. Two wands are held — the power
+      that was singular in The Magician is now dual, balanced.
+    tradition: Anima mundi (World Soul) / Shiva Nataraja (cosmic dancer)
+  - element: Laurel wreath forming an oval (vesica piscis)
+    significance: >
+      The wreath is shaped as a vesica piscis — the intersection of two
+      circles, a symbol of the union of heaven and earth, spirit and
+      matter. Bound at top and bottom by red ribbons (infinity
+      lemniscates), it forms a sacred enclosure. The laurel signifies
+      victory and completion — the Roman triumph, the poet's crown.
+    tradition: Sacred geometry / Roman triumph / Victory symbolism
+  - element: Four figures in the corners — lion, bull, eagle, angel
+    significance: >
+      The four fixed signs of the zodiac: Leo (fire), Taurus (earth),
+      Scorpio (water, as eagle), and Aquarius (air, as angel). They also
+      correspond to the four evangelists, the four elements, and the four
+      suits of the tarot. Their presence at the corners means all
+      elemental forces are balanced and present. They appear on The Wheel
+      of Fortune (X) reading books; here they witness the completion of
+      what The Wheel set in motion.
+    tradition: Ezekiel's vision (1:10) / Revelation 4:7 / Fixed cross of the zodiac
+  - element: Red ribbons binding the wreath (lemniscate shapes)
+    significance: >
+      The red ribbons at top and bottom of the wreath form figures of
+      eight — the lemniscate of infinity seen above The Magician's head
+      and on Strength's brow. Infinity bookends the journey: it began
+      with infinite potential (The Magician) and ends with infinite
+      completion, which is also infinite beginning.
+    tradition: Hermetic infinity / Ouroboros
+  - element: Blue sky background
+    significance: >
+      The background is clear, open sky — no landscape, no structures,
+      no obstacles. The World exists in pure space, beyond the specifics
+      of any terrain. This is consciousness freed from the particular,
+      resting in the universal.
+    tradition: Celestial/heavenly realm symbolism
+correspondences:
+  element: Earth
+  planet: Saturn
+  zodiac: null
+  hebrew_letter: "Tav (ת)"
+  tree_of_life: "Path 32: Yesod (Foundation) → Malkuth (Kingdom)"
+  numerology: >
+    21 — 2+1=3, connecting to The Empress (III). Both are about fruition
+    and fullness. The Empress creates life from abundance; The World is
+    the completed creation, life fully realized. Three is the number of
+    synthesis — thesis, antithesis, and the unity that contains both.
+  colors:
+    - Purple (royalty, spirit, the fusion of red and blue)
+    - Green (the wreath — nature, growth, the living world)
+    - Blue (sky, consciousness, the celestial realm)
+    - Gold and yellow (the four creatures' halos, divine light)
+connections:
+  - card: major-20
+    relationship: sequence
+    description: >
+      Judgement's call has been answered; The World is where you arrive
+      when you rise from the coffin fully transformed. Judgement reckons;
+      The World celebrates. The last two steps: accept your truth, then
+      dance with it.
+  - card: major-00
+    relationship: polarity
+    description: >
+      The Fool begins the journey; The World completes it. But 21 leads
+      back to 0 — the wreath is a circle, not a wall. The World dancer
+      becomes The Fool again, stepping off with everything and nothing,
+      beginning a new spiral. Completion is not an ending.
+  - card: major-10
+    relationship: echo
+    description: >
+      The Wheel of Fortune and The World share the four fixed-sign
+      creatures. On The Wheel, they observe fate's turning from outside;
+      in The World, their presence signifies that fate has been integrated
+      into conscious wholeness. You are no longer subject to the wheel —
+      you are the dance at its center.
+  - card: major-01
+    relationship: echo
+    description: >
+      The Magician holds one wand and channels power from above to below.
+      The World dancer holds two wands, balanced, channeling nothing
+      because she IS the channel. The Magician's "as above, so below"
+      is no longer a technique but a lived reality.
+  - card: major-03
+    relationship: echo
+    description: >
+      The Empress and The World share the numerological root (21=3) and
+      the theme of abundance. The Empress is fertile potential; The World
+      is fulfilled actuality. The garden seeded in III blooms fully in XXI.
+themes:
+  - "Completion as dynamic — wholeness is not a destination but a dance, always moving"
+  - "The eternal return — every ending contains a beginning, every arrival a departure"
+  - "Integration of opposites — the androgyne, the vesica piscis, the four elements unified"
+  - "Sacred enclosure — the wreath as both boundary and protection, completion as containment"
+questions:
+  - "What cycle in your life is reaching its natural completion?"
+  - "Where are you resisting arrival because the journey has become your identity?"
+  - "What would it look like to hold all the contradictions of your life in a single dance?"
+  - "What begins when this chapter ends?"
+  - "Have you truly integrated the lessons, or just collected the experiences?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes the figure as "the perfection and end of the Cosmos,
+      the secret which is within it" and emphasizes the dance as cosmic
+      motion. He connects the four creatures to Ezekiel's vision explicitly.
+    section: "Part II: The Major Trumps — XXI. The World"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading of The World as a "dancer rather than a statue"
+      is foundational for understanding completion as process rather than
+      product. Her treatment of the card as the Fool's destination and
+      new beginning is widely influential.
+    section: "Chapter 21: The World"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley titles this "The Universe" and emphasizes the Saturn/Tav
+      attribution — Saturn as the limiting principle that gives form to
+      the infinite. His reading foregrounds the Kabbalistic completion
+      of the Tree of Life's lowest path.
+    section: "Atu XXI: The Universe"
+  - title: Mystical Qabalah
+    author: Dion Fortune
+    relevance: >
+      Fortune's treatment of Path 32 (Tav, Saturn) as the final path
+      connecting Yesod to Malkuth illuminates why The World is both the
+      highest achievement and the most grounded — spirit fully incarnate
+      in matter.
+    section: "Chapter on the Paths"

@@ -1,0 +1,108 @@
+id: wands-10
+name: Ten of Wands
+arcana: minor
+suit: wands
+rank: 10
+image: RWSa-W-10.png
+symbol: 🔥
+upright:
+  keywords:
+    - Burden
+    - Responsibility
+    - Overcommitment
+    - Hard work
+    - Carrying too much
+  meaning: >
+    A figure struggles forward, bent under ten heavy wands, barely able to see
+    the path ahead. Every wand represents something he chose to pick up — a
+    project, a responsibility, a commitment. Each made sense at the time. Together
+    they're crushing. This is the shadow side of ambition: success that becomes
+    its own prison.
+reversed:
+  keywords:
+    - Release
+    - Delegation
+    - Burnout
+    - Collapse
+    - Letting go
+  meaning: >
+    The wands finally drop — either through conscious delegation or complete
+    collapse. Something has to give. At its best, this is the wisdom to put
+    things down and ask for help. At its worst, it's the breakdown that forces
+    the issue when you won't choose it voluntarily.
+imagery:
+  - element: Figure bent under ten wands, face hidden
+    significance: >
+      The figure can't see where he's going — the wands block his vision.
+      This is the key image: overcommitment blinds you. You lose sight of
+      why you started because you're consumed by the weight of what you've
+      accumulated. The posture is pure strain.
+    tradition: RWS — body language as psychological state
+  - element: Town or settlement visible in the distance
+    significance: >
+      The destination is visible but not yet reached. Relief exists, but
+      you have to keep going under this burden to get there. The proximity
+      of the goal is both encouraging and torturous — so close, yet every
+      step is agony.
+    tradition: RWS scenic convention — destination as resolution
+  - element: All ten wands gathered in one person's arms
+    significance: >
+      He's carrying all of them alone. Nobody forced him to pick up all
+      ten — this is self-imposed burden. The card asks: which of these
+      could you put down? Which could someone else carry? The suffering
+      is real, but the solitude is optional.
+    tradition: Numerological — ten as completion and excess
+correspondences:
+  element: Fire
+  planet: Saturn
+  zodiac: Sagittarius
+  hebrew_letter: null
+  tree_of_life: "Malkuth (Kingdom) — Fire fully manifested in the material world"
+  numerology: >
+    10 — completion, culmination, the end of the cycle. Everything the
+    suit has built arrives here. In Wands, the creative fire that began
+    as a spark has become a bonfire of obligations.
+  colors:
+    - Brown/earth tones (heaviness, burden)
+    - Green (the distant town, hope of relief)
+    - Yellow (fading creative energy)
+connections:
+  - card: wands-01
+    relationship: polarity
+    description: >
+      The Ace offers one wand as pure potential; the Ten carries all ten
+      as crushing reality. The full arc of Fire — from spark to exhaustion.
+  - card: wands-03
+    relationship: shadow
+    description: >
+      The Three's optimistic expansion — ships on the horizon — becomes the
+      Ten's burden when every venture comes back loaded and you must carry
+      all the returns yourself.
+  - card: major-10
+    relationship: echo
+    description: >
+      The Wheel of Fortune and the Ten of Wands both mark the completion
+      of a cycle. But where the Wheel turns impersonally, the Ten of
+      Wands is the personal weight of everything you've accumulated.
+themes:
+  - "The shadow of ambition — success that becomes its own burden"
+  - "Self-imposed suffering — the inability to delegate or let go"
+  - "The last mile — when the destination is visible but the weight is unbearable"
+questions:
+  - "Which of your responsibilities could you put down right now?"
+  - "Who could you ask for help — and what stops you from asking?"
+  - "When did carrying everything yourself become a point of pride?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes this as oppression and the weight of fortune. His
+      emphasis on burden as consequence of achievement is instructive.
+    section: "Part III: The Minor Arcana — Ten of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading of the Ten as the dark side of the creative will —
+      the figure who can't stop accumulating responsibilities — is sharp
+      and psychologically honest.
+    section: "Minor Arcana: Wands"

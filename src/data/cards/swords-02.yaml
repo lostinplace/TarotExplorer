@@ -1,0 +1,112 @@
+id: swords-02
+name: Two of Swords
+arcana: minor
+suit: swords
+rank: 2
+image: RWSa-S-02.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Indecision
+    - Stalemate
+    - Avoidance
+    - Blocked emotions
+    - Willful blindness
+  meaning: >
+    A blindfolded figure sits before a body of water, two swords crossed
+    defensively over the heart. This is not peace — it is the tense stillness
+    of refusing to choose. The blindfold is voluntary: you already know the
+    truth but won't look at it because looking means deciding, and deciding
+    means losing something.
+reversed:
+  keywords:
+    - Information overload
+    - Forced choice
+    - Emotional release
+    - Overthinking
+    - Seeing what you avoided
+  meaning: >
+    The blindfold slips. What was carefully held in balance comes crashing down
+    — you're forced to confront what you've been avoiding. This can be
+    overwhelming but ultimately freeing. Sometimes the reversed Two indicates
+    lies exposed or a decision made under duress.
+imagery:
+  - element: Blindfolded woman on a stone bench
+    significance: >
+      The blindfold is self-imposed — this is not Justice's impartial balance
+      but a deliberate refusal to see. The stone bench suggests rigidity; she
+      has made immobility her fortress. She is alone with her avoidance.
+    tradition: Classical — Lady Justice inverted
+  - element: Two swords crossed over the chest
+    significance: >
+      The swords form an X over the heart — the intellect blocking access to
+      feeling. The arms are crossed defensively. This is the mind protecting
+      itself from emotional truth by refusing to process it.
+    tradition: Elemental — Air suppressing Water
+  - element: Crescent moon in the upper right
+    significance: >
+      The waxing crescent suggests something growing — intuition, hidden
+      knowledge, or the truth that will eventually force itself into view.
+      The moon sees what the blindfolded figure won't.
+    tradition: Astrological — Moon in Libra (card's decan)
+  - element: Rocky islands jutting from calm water
+    significance: >
+      The water (emotion, unconscious) appears calm on the surface, but hidden
+      obstacles lurk beneath. The peace is deceptive — you just can't see the
+      rocks with the blindfold on.
+    tradition: Elemental symbolism
+correspondences:
+  element: Air
+  planet: Moon
+  zodiac: Libra
+  hebrew_letter: null
+  tree_of_life: Chokmah (Wisdom) — the first division, duality emerging from unity
+  numerology: >
+    2 — polarity, choice, division. The first number that implies an "other."
+    In Swords, two creates the dilemma: if there's one truth, there's also
+    its opposite.
+  colors:
+    - Grey (ambiguity, the refusal to commit)
+    - Blue (water, suppressed emotion)
+    - White (the gown — false innocence, the pretense of neutrality)
+connections:
+  - card: major-02
+    relationship: echo
+    description: >
+      The High Priestess also sits between two pillars with hidden knowledge.
+      But where the Priestess chooses receptive mystery, the Two of Swords
+      chooses avoidance. Same posture, opposite wisdom.
+  - card: major-11
+    relationship: polarity
+    description: >
+      Justice is blindfolded to be impartial; the Two of Swords is blindfolded
+      to avoid choosing. Justice weighs; the Two refuses to weigh.
+  - card: swords-01
+    relationship: sequence
+    description: >
+      The Ace's clear singular truth immediately splits into two in the Two —
+      the first complication of pure intellect is that it reveals opposing
+      truths.
+themes:
+  - "The cost of avoidance — not choosing is itself a choice"
+  - "Emotional armoring — using intellect to block feeling"
+  - "The false peace of stalemate"
+  - "Willful blindness as self-protection"
+questions:
+  - What decision are you pretending doesn't exist?
+  - What would you have to feel if you took the blindfold off?
+  - Where in your life have you mistaken paralysis for patience?
+  - What are you defending yourself from knowing?
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite emphasizes "conformity" and "courage" — hinting that the balance
+      shown is not stable equilibrium but fearful rigidity.
+    section: "Part III: The Minor Arcana — Suit of Swords"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading focuses on the emotional blockage aspect — the swords
+      crossed over the heart as a defense mechanism against feeling.
+    section: "Minor Arcana: Swords"

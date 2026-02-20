@@ -1,0 +1,208 @@
+id: numerology
+name: Numerological Grid
+description: >
+  Cards organized by number, revealing the patterns that repeat across suits and
+  arcana. Each row is a number (Ace through Ten); each column is a suit. Major
+  Arcana appear in a separate column, grouped by their numerological reduction.
+  Read across to see how the same energy manifests in different elements. Read
+  down to see how each element develops from seed (Ace) to completion (Ten).
+
+canvas:
+  width: 5500
+  height: 5000
+
+regions:
+  - id: ones
+    name: "Ones — The Seed"
+    description: "Pure potential. The root force of each element before it takes form. Beginning, unity, the point."
+    center: [2750, 350]
+    radius: 200
+
+  - id: twos
+    name: "Twos — Duality"
+    description: "The first division. Choice, balance, polarity. The seed recognizes an other."
+    center: [2750, 750]
+    radius: 200
+
+  - id: threes
+    name: "Threes — Synthesis"
+    description: "Creation from the union of two. Growth, expression, the first fruit. The triangle."
+    center: [2750, 1150]
+    radius: 200
+
+  - id: fours
+    name: "Fours — Structure"
+    description: "Stability, foundation, order. The square. What was created now becomes established."
+    center: [2750, 1550]
+    radius: 200
+
+  - id: fives
+    name: "Fives — Disruption"
+    description: "Conflict, change, instability. The number that breaks the square. Growth requires destruction."
+    center: [2750, 1950]
+    radius: 200
+
+  - id: sixes
+    name: "Sixes — Harmony"
+    description: "Resolution, balance restored, beauty. The hexagram. Integration after disruption."
+    center: [2750, 2350]
+    radius: 200
+
+  - id: sevens
+    name: "Sevens — Reflection"
+    description: "Assessment, inner work, spiritual seeking. The mystical number. Pausing to evaluate."
+    center: [2750, 2750]
+    radius: 200
+
+  - id: eights
+    name: "Eights — Mastery"
+    description: "Movement, power, skill applied. The octave — a return to the beginning at a higher level."
+    center: [2750, 3150]
+    radius: 200
+
+  - id: nines
+    name: "Nines — Culmination"
+    description: "Near-completion, peak experience, the last lesson. The highest single digit — fullness before closure."
+    center: [2750, 3550]
+    radius: 200
+
+  - id: tens
+    name: "Tens — Completion"
+    description: "The cycle complete. Ending and renewal. Tens contain both the fullness of the number and the seed of the next cycle (1+0=1)."
+    center: [2750, 3950]
+    radius: 200
+
+  - id: court
+    name: "Court Cards — The Personalities"
+    description: "Pages (student), Knights (seeker), Queens (inner mastery), Kings (outer mastery). Four ranks × four elements = sixteen archetypal personalities."
+    center: [2750, 4550]
+    radius: 300
+
+paths:
+  # Vertical suit progressions
+  - { from: ones, to: tens, label: "Wands Journey", style: faint }
+  - { from: ones, to: tens, label: "Cups Journey", style: faint }
+  - { from: ones, to: tens, label: "Swords Journey", style: faint }
+  - { from: ones, to: tens, label: "Pentacles Journey", style: faint }
+
+cards:
+  # Columns: Wands | Cups | [Majors] | Swords | Pentacles
+  # X positions: 800  | 1600 | 2750    | 3900   | 4700
+  # Major column shows cards that reduce to that row's number
+
+  # === ROW 1: ONES (Aces + Majors reducing to 1) ===
+  wands-01: [800, 350]
+  cups-01: [1600, 350]
+  swords-01: [3900, 350]
+  pentacles-01: [4700, 350]
+  # Majors: 1=Magician, 10=Wheel(1+0=1), 19=Sun(1+9=10→1)
+  major-01: [2550, 250]
+  major-10: [2750, 250]
+  major-19: [2950, 250]
+
+  # === ROW 2: TWOS (+ Majors reducing to 2) ===
+  wands-02: [800, 750]
+  cups-02: [1600, 750]
+  swords-02: [3900, 750]
+  pentacles-02: [4700, 750]
+  # Majors: 2=Priestess, 11=Justice(1+1=2), 20=Judgement(2+0=2)
+  major-02: [2550, 650]
+  major-11: [2750, 650]
+  major-20: [2950, 650]
+
+  # === ROW 3: THREES ===
+  wands-03: [800, 1150]
+  cups-03: [1600, 1150]
+  swords-03: [3900, 1150]
+  pentacles-03: [4700, 1150]
+  # Majors: 3=Empress, 12=Hanged Man(1+2=3), 21=World(2+1=3)
+  major-03: [2550, 1050]
+  major-12: [2750, 1050]
+  major-21: [2950, 1050]
+
+  # === ROW 4: FOURS ===
+  wands-04: [800, 1550]
+  cups-04: [1600, 1550]
+  swords-04: [3900, 1550]
+  pentacles-04: [4700, 1550]
+  # Majors: 4=Emperor, 13=Death(1+3=4)
+  major-04: [2650, 1450]
+  major-13: [2850, 1450]
+
+  # === ROW 5: FIVES ===
+  wands-05: [800, 1950]
+  cups-05: [1600, 1950]
+  swords-05: [3900, 1950]
+  pentacles-05: [4700, 1950]
+  # Majors: 5=Hierophant, 14=Temperance(1+4=5)
+  major-05: [2650, 1850]
+  major-14: [2850, 1850]
+
+  # === ROW 6: SIXES ===
+  wands-06: [800, 2350]
+  cups-06: [1600, 2350]
+  swords-06: [3900, 2350]
+  pentacles-06: [4700, 2350]
+  # Majors: 6=Lovers, 15=Devil(1+5=6)
+  major-06: [2650, 2250]
+  major-15: [2850, 2250]
+
+  # === ROW 7: SEVENS ===
+  wands-07: [800, 2750]
+  cups-07: [1600, 2750]
+  swords-07: [3900, 2750]
+  pentacles-07: [4700, 2750]
+  # Majors: 7=Chariot, 16=Tower(1+6=7)
+  major-07: [2650, 2650]
+  major-16: [2850, 2650]
+
+  # === ROW 8: EIGHTS ===
+  wands-08: [800, 3150]
+  cups-08: [1600, 3150]
+  swords-08: [3900, 3150]
+  pentacles-08: [4700, 3150]
+  # Majors: 8=Strength, 17=Star(1+7=8)
+  major-08: [2650, 3050]
+  major-17: [2850, 3050]
+
+  # === ROW 9: NINES ===
+  wands-09: [800, 3550]
+  cups-09: [1600, 3550]
+  swords-09: [3900, 3550]
+  pentacles-09: [4700, 3550]
+  # Majors: 9=Hermit, 18=Moon(1+8=9)
+  major-09: [2650, 3450]
+  major-18: [2850, 3450]
+
+  # === ROW 10: TENS ===
+  wands-10: [800, 3950]
+  cups-10: [1600, 3950]
+  swords-10: [3900, 3950]
+  pentacles-10: [4700, 3950]
+  # Majors: 0/10=Fool, Wheel already in row 1
+  major-00: [2750, 3850]
+
+  # === COURT CARDS — bottom section, grouped by rank ===
+  # Pages (row 1 of court)
+  wands-11: [800, 4350]
+  cups-11: [1600, 4350]
+  swords-11: [3900, 4350]
+  pentacles-11: [4700, 4350]
+
+  # Knights (row 2)
+  wands-12: [800, 4550]
+  cups-12: [1600, 4550]
+  swords-12: [3900, 4550]
+  pentacles-12: [4700, 4550]
+
+  # Queens (row 3)
+  wands-13: [800, 4750]
+  cups-13: [1600, 4750]
+  swords-13: [3900, 4750]
+  pentacles-13: [4700, 4750]
+
+  # Kings (row 4)
+  wands-14: [800, 4950]
+  cups-14: [1600, 4950]
+  swords-14: [3900, 4950]
+  pentacles-14: [4700, 4950]

@@ -1,0 +1,134 @@
+id: pentacles-10
+name: Ten of Pentacles
+arcana: minor
+suit: pentacles
+rank: 10
+image: RWSa-P-10.png
+symbol: 🪙
+upright:
+  keywords:
+    - Legacy
+    - Inheritance
+    - Family wealth
+    - Establishment
+    - Lasting prosperity
+  meaning: >
+    Three generations gather at the gates of a grand estate — an elder
+    patriarch with dogs at his feet, a couple in the middle ground, a child
+    reaching toward one of the dogs. Ten pentacles are arranged in the
+    pattern of the Kabbalistic Tree of Life. This is wealth that endures
+    beyond a single lifetime: legacy, tradition, the material foundation
+    that allows the next generation to build higher.
+reversed:
+  keywords:
+    - Family disputes
+    - Financial failure
+    - Broken legacy
+    - Inherited burdens
+    - Instability
+  meaning: >
+    Reversed, the legacy fractures. Family disputes over inheritance,
+    wealth that divides rather than unites, or discovering that what was
+    passed down is debt rather than abundance. The family estate becomes
+    a family curse. Sometimes you need to break from tradition to build
+    something genuinely yours.
+imagery:
+  - element: Ten pentacles arranged in the Tree of Life pattern
+    significance: >
+      The Kabbalistic Tree of Life — ten Sephiroth mapped onto ten coins.
+      This is the most overtly esoteric arrangement in the minor arcana.
+      Material wealth here mirrors divine structure: abundance organized
+      by cosmic principle. The implication is that lasting wealth
+      participates in a sacred order.
+    tradition: Kabbalistic — the ten Sephiroth
+  - element: Elderly patriarch seated with two dogs
+    significance: >
+      The elder is the source of the legacy — seated, established, at rest.
+      The dogs represent loyalty and domestic comfort. He has built
+      something, and now he watches it continue. His richly embroidered
+      robe suggests wealth accumulated over a lifetime.
+    tradition: Patriarchal / dynastic symbolism
+  - element: Couple in the middle ground under an archway
+    significance: >
+      The next generation — inheritors of the elder's work, parents of the
+      child. They stand under the arch of the estate, benefiting from its
+      structure. The arch frames them, suggesting both protection and
+      containment within tradition.
+    tradition: Family / architectural symbolism
+  - element: Child reaching toward a dog
+    significance: >
+      The youngest generation, innocent of the wealth's complexity. The
+      child's gesture toward the dog is simple, joyful — she doesn't
+      understand inheritance yet. She will grow up inside this structure,
+      shaped by it for better or worse.
+    tradition: Generational symbolism
+  - element: Grand estate with stone archway and walls
+    significance: >
+      The physical structure of lasting wealth — not coins but stone,
+      architecture, property. The estate is the pentacles made permanent.
+      It shelters but also defines; family wealth creates both freedom
+      and obligation.
+    tradition: Feudal / property symbolism
+correspondences:
+  element: Earth
+  planet: Mercury
+  zodiac: Virgo
+  hebrew_letter: null
+  tree_of_life: "Malkuth (Kingdom) — the fullest manifestation of Earth"
+  numerology: >
+    10 — completion, the end of a cycle, fullness that contains a new
+    beginning. Ten contains all single digits — it is totality. In
+    Pentacles, ten is wealth so complete it becomes legacy.
+  colors:
+    - Gold (wealth, the pentacles, material fulfillment)
+    - Rich reds and blues (embroidered robes — dynastic richness)
+    - Grey stone (permanence, architecture, lasting structure)
+connections:
+  - card: pentacles-01
+    relationship: sequence
+    description: >
+      The Ace is the seed; the Ten is the forest. The single opportunity
+      offered by the divine hand has been cultivated across generations
+      into an estate, a family, a legacy. The full arc of material
+      manifestation.
+  - card: pentacles-04
+    relationship: echo
+    description: >
+      The Four clutches wealth alone; the Ten shares it across generations.
+      Both address material security, but the Four's fearful grip becomes
+      the Ten's open architecture. Hoarding versus building.
+  - card: major-21
+    relationship: echo
+    description: >
+      The World and the Ten of Pentacles both represent completion — the
+      World in all dimensions, the Ten specifically in the material realm.
+      The Tree of Life pattern in the Ten echoes the World's wholeness.
+  - card: cups-10
+    relationship: echo
+    description: >
+      Both Tens depict family happiness and fulfillment. The Ten of Cups
+      is emotional wholeness (the rainbow); the Ten of Pentacles is
+      material wholeness (the estate). Together they represent the
+      complete human inheritance.
+themes:
+  - "Legacy — building something that outlasts you"
+  - "The weight of inheritance — wealth as both gift and obligation"
+  - "Sacred structure — material abundance organized by spiritual principle"
+  - "Generational wealth — what gets passed down and what gets left behind"
+questions:
+  - "What are you building that will outlast your lifetime?"
+  - "What have you inherited — materially and psychologically — and what do you owe it?"
+  - "Does your current path create a foundation for those who come after you?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite focuses on 'gain' and 'riches' but the Tree of Life arrangement — which he surely intended — points to something much deeper."
+    section: "Part II: Minor Arcana — Ten of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack identifies the Tree of Life pattern and explores how it elevates a domestic scene into a cosmic statement about material reality."
+    section: "Pentacles: Ten"
+  - title: "A Garden of Pomegranates"
+    author: "Israel Regardie"
+    relevance: "Understanding the ten Sephiroth is essential for reading the Ten of Pentacles — Regardie's introduction to the Tree of Life provides the framework."
+    section: "Chapters on the Sephiroth"

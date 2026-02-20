@@ -1,0 +1,139 @@
+id: major-11
+name: Justice
+arcana: major
+suit: null
+rank: 11
+image: RWSa-T-11.png
+symbol: ⚖️
+upright:
+  keywords:
+    - Fairness
+    - Truth
+    - Cause and effect
+    - Law
+    - Accountability
+  meaning: >
+    Justice holds the scales and the sword — truth will out, and consequences
+    follow actions. This card demands honesty, accountability, and fair dealing.
+    It's not about punishment; it's about the impartial logic of cause and
+    effect. What you have put into motion will return to you in kind.
+reversed:
+  keywords:
+    - Unfairness
+    - Dishonesty
+    - Lack of accountability
+    - Bias
+    - Self-deception
+  meaning: >
+    Reversed, Justice warns of corruption, dishonesty, or avoiding
+    responsibility. The scales are tipped — something is unfair and needs
+    addressing. Can also point inward: where are you lying to yourself? What
+    consequences are you refusing to acknowledge?
+imagery:
+  - element: Seated figure holding scales in left hand
+    significance: >
+      The scales are held in the receptive hand — Justice receives evidence
+      before acting. They are perfectly level, suggesting that the weighing
+      is still happening, or that true balance has been achieved. The scales
+      measure not just actions but intentions, not just outcomes but the
+      truth behind them.
+    tradition: Egyptian (Ma'at's feather) / Greco-Roman (Themis/Justitia)
+  - element: Double-edged sword in right hand, raised vertically
+    significance: >
+      The sword of discernment — it cuts both ways, showing that truth
+      applies equally to all parties. Raised straight up, not tilted: justice
+      is not yet decided but ready to act. The sword is the active complement
+      to the passive scales. First weigh, then cut.
+    tradition: Cardinal virtue tradition / Judicial iconography
+  - element: Red robe and green mantle
+    significance: >
+      Red for action and passion restrained by duty; the green mantle
+      visible beneath suggests growth and the living world that justice
+      serves. Justice is not cold abstraction — it operates in the realm
+      of living consequences.
+    tradition: Virtue allegory / Color symbolism
+  - element: Veil between two grey pillars
+    significance: >
+      Like The High Priestess, Justice sits between two pillars with a veil
+      behind. But where the Priestess guards the unconscious, Justice guards
+      the moral order. The veil suggests that ultimate justice is partially
+      hidden — we see its operation but not always its full logic.
+    tradition: Kabbalistic (pillars of severity and mercy) / Judicial
+  - element: Crown with a square jewel
+    significance: >
+      The square represents earthly order, the four elements in balance,
+      material reality structured by law. The crown is authority — but
+      earned through adherence to principle, not personal power. Justice's
+      authority comes from the system, not the individual.
+    tradition: Royal / Geometric symbolism
+correspondences:
+  element: Air
+  planet: Venus
+  zodiac: Libra
+  hebrew_letter: "Lamed (ל)"
+  tree_of_life: "Path 22: Geburah (Severity) → Tiphareth (Beauty)"
+  numerology: >
+    11 — the first master number, a doubled one. Duality in balance, two
+    pillars, two pans of the scales. Eleven is also the number that exceeds
+    the complete cycle of ten — justice that transcends ordinary reckoning.
+  colors:
+    - Red (action, consequence, the blood of accountability)
+    - Green (growth, the living world justice protects)
+    - Grey (impartiality, the stone of law)
+connections:
+  - card: major-08
+    relationship: polarity
+    description: >
+      Strength operates through mercy and patience; Justice operates through
+      severity and precision. The two great powers of the middle pillar —
+      one bends, the other cuts. Both are necessary; neither is sufficient alone.
+  - card: major-20
+    relationship: echo
+    description: >
+      Judgement is Justice at a cosmic scale — the final accounting, the
+      trumpet call that transcends human law. Justice weighs in this life;
+      Judgement weighs across all lives.
+  - card: major-04
+    relationship: echo
+    description: >
+      The Emperor establishes law through personal authority; Justice
+      administers it through impersonal principle. The lawgiver and the judge —
+      one creates the rules, the other applies them.
+  - card: major-12
+    relationship: sequence
+    description: >
+      After Justice comes The Hanged Man — the suspension of normal judgment.
+      Having confronted the truth (11), you must surrender your perspective
+      entirely (12) to see what truth looks like inverted.
+themes:
+  - "Karma — the moral causation that operates regardless of belief"
+  - "Radical honesty — the cost of truth and the higher cost of avoiding it"
+  - "The difference between justice and vengeance — one restores balance, the other perpetuates imbalance"
+  - "Moral complexity — what happens when fairness to one party means harm to another"
+questions:
+  - "What truth are you avoiding because the consequences feel too heavy?"
+  - "Where in your life are you expecting different results without changing your actions?"
+  - "If you were judged by your actions rather than your intentions, how would the verdict read?"
+  - "What would genuine accountability — not punishment, but honest reckoning — look like right now?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite moved Justice from position VIII to XI to align with Golden Dawn
+      Libra attributions. His commentary emphasizes justice of the cosmic
+      rather than legal kind.
+    section: "Part II: The Major Trumps — XI. Justice"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading frames Justice as the card of absolute truth — not
+      negotiable, not relative. Her treatment of the card's position as the
+      exact center of the Major Arcana (11 of 22) is structurally insightful.
+    section: "Chapter 11: Justice"
+  - title: The Nicomachean Ethics
+    author: Aristotle
+    relevance: >
+      Aristotle's distinction between distributive and corrective justice
+      provides philosophical depth for understanding what the card's "balance"
+      actually means in practice.
+    section: "Book V: Justice"

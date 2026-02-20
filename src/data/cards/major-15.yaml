@@ -1,0 +1,141 @@
+id: major-15
+name: The Devil
+arcana: major
+suit: null
+rank: 15
+image: RWSa-T-15.png
+symbol: 😈
+upright:
+  keywords:
+    - Bondage
+    - Materialism
+    - Shadow self
+    - Addiction
+    - Compulsion
+  meaning: >
+    The Devil reveals the chains we forge ourselves — addiction, materialism,
+    toxic attachments. Look closely: the chains are loose. You can leave
+    whenever you choose. This card doesn't represent evil so much as
+    unconsciousness — the forces that control you when you refuse to look at
+    them. Name the devil and it loses its power.
+reversed:
+  keywords:
+    - Release
+    - Breaking free
+    - Reclaiming power
+    - Detachment
+    - Confronting shadow
+  meaning: >
+    Reversed, The Devil signals liberation from bondage. Breaking addictions,
+    leaving toxic situations, reclaiming your sovereignty. The chains come off.
+    But freedom is disorienting — after you leave the cave, the sunlight
+    blinds you before it illuminates.
+imagery:
+  - element: Baphomet figure with bat wings on a pedestal
+    significance: >
+      Half-human, half-goat, with bat wings (the opposite of the angel's
+      feathered wings in The Lovers). Baphomet is not Satan but a composite
+      figure representing the union of opposites perverted — knowledge without
+      wisdom, power without compassion. The bat wings suggest nocturnal
+      consciousness: seeing in the dark but never in the light.
+    tradition: Knights Templar trials / Éliphas Lévi's "Dogme et Rituel"
+  - element: Inverted pentagram on Baphomet's forehead
+    significance: >
+      The five-pointed star inverted — spirit subordinated to matter. In the
+      upright pentagram (The Magician's implied symbol), spirit rules the four
+      elements. Inverted, the elements rule spirit. This is the essential
+      meaning of The Devil: matter enslaving consciousness.
+    tradition: Hermetic / Ceremonial magic
+  - element: Two naked human figures with chains and horns
+    significance: >
+      The same couple from The Lovers — but now with chains, horns, and tails.
+      They've grown features of the Devil: they're becoming what controls them.
+      Critically, the chains around their necks are loose enough to lift off.
+      Bondage is a choice they've forgotten they're making.
+    tradition: Edenic Fall reversed / Psychological bondage
+  - element: Raised right hand with open palm, left hand holding inverted torch
+    significance: >
+      A dark mirror of The Magician's "as above, so below" gesture. The right
+      hand is open but the gesture is a parody of blessing. The inverted torch
+      burns downward — the light of consciousness directed toward the material
+      and the base. Illumination turned toward addiction rather than
+      understanding.
+    tradition: Hermetic inversion / Black mass symbolism
+  - element: Black background — no landscape
+    significance: >
+      There is no landscape, no sky, no horizon. The Devil's realm is
+      featureless darkness — no context, no perspective, no way to see
+      beyond the immediate situation. This is how bondage works: by
+      eliminating the awareness that alternatives exist.
+    tradition: Psychological / Cave allegory (Plato)
+correspondences:
+  element: Earth
+  planet: Saturn
+  zodiac: Capricorn
+  hebrew_letter: "Ayin (ע)"
+  tree_of_life: "Path 26: Tiphareth (Beauty) → Hod (Splendor)"
+  numerology: >
+    15 — 1+5=6, returning to The Lovers. The Devil is The Lovers' shadow
+    form: love become obsession, choice become compulsion, union become
+    bondage. The same energy, directed downward instead of upward.
+  colors:
+    - Black (darkness, unconsciousness, the material trap)
+    - Brown/grey (earth, heaviness, Capricorn)
+    - Orange (the torch flames, corrupted illumination)
+connections:
+  - card: major-06
+    relationship: polarity
+    description: >
+      The Devil mirrors The Lovers exactly — same composition, inverted meaning.
+      Angel becomes Baphomet, naked innocence becomes chained compulsion,
+      choice becomes bondage. The same card in a dark mirror.
+  - card: major-01
+    relationship: shadow
+    description: >
+      The Magician's focused will becomes The Devil's focused obsession. Both
+      make the "as above, so below" gesture; one creates, the other enslaves.
+      The same power, unconsciously wielded.
+  - card: major-16
+    relationship: sequence
+    description: >
+      The Devil's prison is demolished by The Tower. After acknowledging the
+      chains (15), the structures built around them are destroyed (16).
+      Recognition of bondage precedes violent liberation.
+  - card: major-08
+    relationship: polarity
+    description: >
+      Strength gently masters the beast; The Devil lets the beast master you.
+      The same lion/animal nature — one tamed through compassion, the other
+      ruling through compulsion.
+themes:
+  - "Addiction and compulsion — the neuroscience and psychology of wanting versus choosing"
+  - "Plato's Cave — mistaking shadows for reality because you've forgotten the sun exists"
+  - "The shadow — Jung's concept of the parts of ourselves we deny and project"
+  - "Freedom as awareness — you can't leave a prison you don't know you're in"
+questions:
+  - "What habit or attachment do you defend that you know is controlling you?"
+  - "Where are you mistaking comfort for freedom?"
+  - "What would you have to face about yourself if you removed your chains?"
+  - "Who benefits from your bondage — and is that 'who' actually you?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description is carefully orthodox — he calls it "the card of
+      fatality." But his visual design (loose chains, bat wings as parody)
+      tells a more nuanced story than his text admits.
+    section: "Part II: The Major Trumps — XV. The Devil"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's treatment of The Devil as the card of ignorance rather than
+      evil is the modern consensus reading. Her structural analysis of the
+      Lovers/Devil mirror is essential.
+    section: "Chapter 15: The Devil"
+  - title: "Dogme et Rituel de la Haute Magie"
+    author: Éliphas Lévi
+    relevance: >
+      Lévi's original Baphomet illustration (1856) is the direct source for
+      the RWS Devil. Understanding what Lévi meant by the figure — the
+      "Sabbatic Goat" as a symbol of equilibrium — reframes the card entirely.
+    section: "Chapter XV: The Sabbath of the Sorcerers"

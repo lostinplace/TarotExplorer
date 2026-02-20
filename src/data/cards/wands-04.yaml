@@ -1,0 +1,110 @@
+id: wands-04
+name: Four of Wands
+arcana: minor
+suit: wands
+rank: 4
+image: RWSa-W-04.png
+symbol: 🔥
+upright:
+  keywords:
+    - Celebration
+    - Harmony
+    - Homecoming
+    - Community
+    - Milestone
+  meaning: >
+    Four wands form a decorated canopy draped with garlands as figures celebrate
+    below. This is a moment of arrival — a milestone reached, a home established,
+    a community gathered in joy. Not the end of the journey, but a pause to
+    honor what's been built so far.
+reversed:
+  keywords:
+    - Instability at home
+    - Disrupted celebration
+    - Feeling unwelcome
+    - Transition
+    - Lack of roots
+  meaning: >
+    The celebration is hollow or strained. Domestic tension, feeling like an
+    outsider in your own community, or a milestone that doesn't feel earned.
+    Can indicate upheaval in the home — renovations, moves, or relationships
+    that have lost their sense of welcome.
+imagery:
+  - element: Four wands with a garland canopy
+    significance: >
+      The chuppah or wedding canopy — a sacred space defined by four pillars.
+      The garlands of flowers and fruit suggest abundance and fertility. The
+      structure is temporary and open, not a fortress — this is celebration,
+      not defense.
+    tradition: Jewish wedding tradition / festival architecture
+  - element: Two dancing figures with bouquets
+    significance: >
+      Joy expressed through the body — not contemplation but active celebration.
+      The raised bouquets echo the garlands above, suggesting that the people
+      and the structure mirror each other. Community in harmony.
+    tradition: RWS — figures as emotional expression
+  - element: Castle or estate in the background
+    significance: >
+      A substantial structure behind the celebration — home, security, the
+      established foundation that makes celebration possible. You celebrate
+      because you've built something worth celebrating.
+    tradition: RWS scenic convention — buildings as achievement
+  - element: Bridge leading to the castle
+    significance: >
+      A path connecting the celebration to the home — suggesting this joy
+      is connected to a real place, a real belonging. The bridge implies
+      transition and welcome.
+    tradition: RWS scenic detail
+correspondences:
+  element: Fire
+  planet: Venus
+  zodiac: Aries
+  hebrew_letter: null
+  tree_of_life: "Chesed (Mercy) — benevolent structure, abundance given form"
+  numerology: >
+    4 — stability, structure, foundation. The first solid form. In Wands,
+    Fire's restless energy finds a container — not a cage, but a hearth.
+    Celebration requires a stable place to gather.
+  colors:
+    - Yellow (joy, warmth, celebration)
+    - Green (garlands, growth, fertility)
+    - Red (passion, Fire energy)
+connections:
+  - card: wands-03
+    relationship: sequence
+    description: >
+      The Three sent ships to the horizon; the Four celebrates their arrival.
+      Expansion yields a homecoming — the fruits of foresight made tangible.
+  - card: cups-10
+    relationship: echo
+    description: >
+      Both cards depict communal joy and domestic harmony. The Four of Wands
+      is the milestone; the Ten of Cups is the fulfillment. Same warmth,
+      different scale.
+  - card: pentacles-04
+    relationship: polarity
+    description: >
+      The Four of Pentacles hoards and protects; the Four of Wands shares
+      and celebrates. Both are about what you do with stability — cling to
+      it or dance on it.
+themes:
+  - "Celebration as sacred act — pausing to honor what you've built"
+  - "Home as something created, not just found"
+  - "Community joy — success that's shared rather than solitary"
+questions:
+  - "What milestone have you reached that deserves celebration?"
+  - "Where do you feel most at home — and what makes it feel that way?"
+  - "When did you last pause to enjoy what you've accomplished before pushing forward?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes this as the card of haven and domestic harvest.
+      Note his emphasis on the countryside and peaceful celebrations.
+    section: "Part III: The Minor Arcana — Four of Wands"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads the Four as Fire tamed into celebration — the
+      canopy as a sacred space that channels creative energy into joy.
+    section: "Minor Arcana: Wands"

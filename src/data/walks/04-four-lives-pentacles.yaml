@@ -1,0 +1,450 @@
+id: four-lives-pentacles
+name: "The Life of Earth"
+description: >
+  The story of a craft from seed to legacy. The Pentacles suit traces the
+  life cycle of material reality through the element of Earth — work, money,
+  body, craft, the slow accumulation of skill and substance. From the Ace's
+  golden seed through apprenticeship, poverty, generosity, patience, mastery,
+  abundance, and finally the great question: what endures after you're gone?
+  This is the slowest suit and the most patient. Earth does not hurry.
+author: null
+tradition: "Elemental / Suit progression"
+
+acts:
+  - id: foundation
+    name: "Foundation"
+    description: >
+      The seed is planted. The first material acts — investment, skilled
+      work, conservation — the careful early stage where Earth teaches
+      that the material world rewards patience, not passion.
+    steps:
+      - pentacles-seed
+      - pentacles-juggle
+      - pentacles-craft
+      - pentacles-grip
+
+  - id: testing
+    name: "Testing"
+    description: >
+      The material world tests what was built. Poverty, generosity, and
+      the long patience of cultivation — the middle passage where Earth
+      reveals that material security is never permanent, that giving is
+      as important as having, and that growth cannot be rushed.
+    steps:
+      - pentacles-cold
+      - pentacles-scales
+      - pentacles-patience
+
+  - id: harvest
+    name: "Harvest"
+    description: >
+      The craft matures. From disciplined practice through solitary
+      abundance to the full manifestation of material achievement — and
+      the question that haunts every Ten: what was it all for?
+    steps:
+      - pentacles-practice
+      - pentacles-garden
+      - pentacles-legacy
+
+steps:
+  - id: pentacles-seed
+    card: pentacles-01
+    title: "The Seed"
+    narrative: >
+      A hand emerges from a cloud, holding a single golden pentacle
+      over a garden. An archway of roses leads to green mountains
+      beyond. The garden is manicured, lush, alive. The pentacle
+      hovers — not planted yet, just offered.
+
+
+      The Ace of Pentacles is material potential: not money, not
+      success, but the *seed* of material reality. A business idea.
+      A body's capacity. A piece of land. The raw substance from
+      which something real can be built — if you're willing to put
+      it in the ground and wait.
+
+
+      The garden says: the soil is ready. The archway says: the path
+      is open. The pentacle says: here is the starting capital. What
+      you do with it unfolds over nine more cards.
+    transition: >
+      The seed is offered. Now the question: how do you carry it?
+      The material world demands balance — you can't hold everything
+      at once, and the first lesson is learning to juggle.
+    reflection: >
+      What material seed has been offered to you — an opportunity, a
+      resource, a body, a skill? Have you planted it, or are you
+      still holding it in the air?
+    aside: >
+      The Ace in Kether is Earth at its most abstract — materiality
+      before any specific material thing. The garden and archway
+      suggest Eden — the material world as gift, as starting
+      condition, as the ground you didn't earn but were given. The
+      pentacle's five-pointed star is the human body: head, two arms,
+      two legs. Earth in tarot is always also the body.
+
+  - id: pentacles-juggle
+    card: pentacles-02
+    title: "The Juggle"
+    narrative: >
+      A young man dances while juggling two pentacles linked by an
+      infinity symbol. Behind him, two ships ride rough seas. The
+      figure is not struggling — he's dancing. But the seas are rough,
+      and the juggle is continuous.
+
+
+      The Two of Pentacles is the material world's first lesson:
+      balance is not a state, it's an activity. You don't achieve
+      balance and maintain it. You *juggle* — constantly shifting
+      weight, constantly adjusting, constantly in motion. The
+      infinity symbol says this will never end. The ships say the
+      environment is unpredictable. The dance says: do it with grace
+      or do it with anxiety, but do it either way.
+
+
+      This is the card of everyone who has ever managed a budget,
+      worked two jobs, or tried to balance ambition with the rest
+      of life.
+    transition: >
+      The juggle continues. But the figure needs more than balance —
+      he needs skill. Raw material potential must become craft.
+    reflection: >
+      What are you juggling? Is it a dance or a scramble? What would
+      change if you treated the juggle as a practice rather than a
+      problem?
+    aside: >
+      The Two of Pentacles is Jupiter in Capricorn — abundance and
+      expansion in the sign of structure and limitation. The tension
+      is productive: how do you grow within constraints? Twos in
+      Chokmah are the first division. In Pentacles, the division is
+      practical: time and money, work and life, this need and that one.
+
+  - id: pentacles-craft
+    card: pentacles-03
+    title: "The Apprentice"
+    narrative: >
+      Three figures stand in a cathedral: a monk or architect consults
+      plans while two craftsmen work with tools. Three pentacles are
+      carved into an arch above them. The work is collaborative,
+      skilled, and devoted to something larger than any individual.
+
+
+      The Three of Pentacles is the material world's noblest card:
+      craft in service. The apprentice learns not just technique but
+      the discipline of submitting individual ego to the demands of
+      the work. The cathedral isn't built for the craftsmen — it's
+      built for the community, for God, for the future. The pentacles
+      carved in stone will outlast every hand that shaped them.
+
+
+      This is the card of mastery in its early, humble form:
+      learning by doing, under guidance, in the service of something
+      that matters.
+    transition: >
+      The craft develops. The apprentice grows. And with growing
+      skill comes a new temptation: the desire to hold onto what
+      you've built, to grip it tightly, to protect your gains from
+      the world that gave them.
+    reflection: >
+      What craft are you learning? Who is your architect — the
+      person or principle that guides the work? What are you building
+      that will outlast you?
+    aside: >
+      The Three of Pentacles is Mars in Capricorn — disciplined
+      energy in the sign of mastery. Threes in Binah give form.
+      In Pentacles, form is literal: stone, architecture, the
+      physical structure that houses meaning. The cathedral setting
+      is not accidental — craft in the material world, at its best,
+      is sacred work.
+
+  - id: pentacles-grip
+    card: pentacles-04
+    title: "The Miser"
+    narrative: >
+      A figure sits on a stone block in a grey cityscape, clutching
+      a pentacle to his chest. Two more are under his feet. A fourth
+      sits on his crown. He holds everything. He shares nothing. The
+      city around him is lifeless.
+
+
+      After the Three's generous craft, the Four's hoarding. The
+      material world's shadow arrives: the fear of loss so powerful
+      that it transforms possession into prison. The Four of Pentacles
+      has everything and enjoys nothing. His grip is security turned
+      pathological — the belief that if he lets go of even one coin,
+      everything collapses.
+
+
+      This is the card of anyone who has ever confused having with
+      being safe. The pentacle on his crown blocks his thinking. The
+      pentacles under his feet prevent him from moving. The one on his
+      chest covers his heart.
+    transition: >
+      He grips. And the material world, which does not reward
+      hoarding, delivers its lesson: what you refuse to circulate,
+      you lose anyway. The Five strips what the Four clung to.
+    reflection: >
+      What are you holding too tightly? What would happen if you
+      loosened your grip — not let go entirely, but just loosened it?
+      What are you actually afraid of?
+    aside: >
+      The Four of Pentacles is Sun in Capricorn — identity and ego
+      in the sign of material structure. Fours in Chesed are stability,
+      but here stability has become rigidity. The figure's posture
+      is a closed circuit: nothing enters, nothing leaves. Compare
+      this to the Four of Wands' open celebration — same number,
+      opposite relationship to what was built.
+
+  - id: pentacles-cold
+    card: pentacles-05
+    title: "The Cold"
+    narrative: >
+      Two ragged figures walk through snow past a lit stained-glass
+      window. They are outside. The church is warm, bright, available.
+      They don't enter. They are injured, poor, barefoot in winter.
+      Five pentacles glow in the window above them.
+
+
+      The Five of Pentacles is material suffering — poverty, illness,
+      exclusion, the experience of being on the outside of abundance
+      looking in. The warm window is right there. Help exists. But
+      the figures either can't see it, won't ask for it, or believe
+      they don't deserve it.
+
+
+      This is the hardest card in the suit because the suffering is
+      so specific and so common. Everyone has walked past that window.
+      Everyone has felt the cold. The card's cruelty is in the proximity
+      of warmth — it's *right there*, and still out of reach.
+    transition: >
+      The cold bites. But the material world is not only scarcity —
+      it is also generosity. The very next card opens the door that
+      the Five walked past.
+    reflection: >
+      When have you walked past help that was available? Was it pride,
+      shame, or genuine inability to reach it? What window are you
+      walking past right now?
+    aside: >
+      The Five of Pentacles is Mercury in Taurus — the mind in the
+      sign of material security, here in deficit. Fives in Geburah
+      disrupt. In Pentacles, disruption is material: poverty, illness,
+      loss of the body's security. The stained-glass window showing
+      five pentacles is the suit's own symbol — wealth and material
+      grace — visible but inaccessible. The church door exists but
+      is out of frame. The card doesn't show whether they eventually
+      enter. That's your choice.
+
+  - id: pentacles-scales
+    card: pentacles-06
+    title: "The Scales"
+    narrative: >
+      A wealthy merchant holds scales, weighing out coins to two
+      kneeling figures. Six pentacles are balanced above the scene.
+      One figure receives. One figure asks. The merchant gives — but
+      the scales say: I'm measuring.
+
+
+      After the Five's poverty, the Six's generosity — but not
+      unconditional generosity. The Six of Pentacles is the complex
+      card of giving and receiving, power and dependence. The merchant
+      has what the kneeling figures need. He gives. But the
+      relationship is not equal, and the scales make that visible.
+
+
+      Who are you in this card? The giver, the receiver, or the one
+      watching the scales? The material world is structured by these
+      exchanges, and they're never simple. Even generosity has a
+      power dynamic. Even receiving has a cost.
+    transition: >
+      The coins are weighed. The exchange is made. But the material
+      world's deepest lesson is not about exchange — it's about time.
+      The next card asks: can you wait?
+    reflection: >
+      When have you been the giver with the scales? When have you
+      been the one kneeling? Did the power dynamic change the gift?
+    aside: >
+      The Six of Pentacles is Moon in Taurus — the emotional and
+      unconscious in the sign of material value. Sixes in Tiphareth
+      are harmony and beauty. The Six of Pentacles is the material
+      world's attempt at justice — not the abstract justice of Swords,
+      but the practical justice of redistribution. The scales echo
+      Justice (Major XI) but here they weigh coins, not souls.
+
+  - id: pentacles-patience
+    card: pentacles-07
+    title: "The Vigil"
+    narrative: >
+      A young farmer leans on his hoe, gazing at seven pentacles
+      growing on a bush. The bush is green. The pentacles are forming.
+      They're not ready. He waits.
+
+
+      The Seven of Pentacles is patience as spiritual practice. The
+      seed was planted (Ace). The craft was learned (Three). The
+      material was gathered and distributed (Four, Five, Six). And
+      now — the hardest part — you wait. The pentacles are growing.
+      They cannot be rushed. The farmer has done everything he can.
+      The rest belongs to the earth and to time.
+
+
+      This is the card that asks: can you tolerate the gap between
+      planting and harvest? Can you stand in front of what you've
+      built and let it become what it will become, even if it takes
+      longer than you planned?
+    transition: >
+      The pentacles ripen. The wait ends. And what follows is not
+      the harvest — not yet — but the discipline that turns raw
+      growth into mastered craft.
+    reflection: >
+      What are you waiting on right now? Can you tell the difference
+      between patient tending and anxious watching?
+    aside: >
+      The Seven of Pentacles is Saturn in Taurus — limitation and
+      time in the sign of growth and material value. Sevens in
+      Netzach are emotional — the Seven of Pentacles' emotion is
+      the particular anxiety of the farmer: it's growing, but is
+      it growing right? Saturn says: it takes as long as it takes.
+
+  - id: pentacles-practice
+    card: pentacles-08
+    title: "The Practice"
+    narrative: >
+      A craftsman sits at a bench, chisel in hand, carving a pentacle.
+      Six finished pentacles hang on a post beside him. One is mounted
+      above, completed and displayed. He is focused, absorbed, and
+      alone. The city is in the distance. He is not there. He is here,
+      at his bench, doing the work.
+
+
+      The Eight of Pentacles is deliberate practice — the daily,
+      repetitive, unglamorous work that turns talent into mastery.
+      No celebration (that was the Four of Wands). No audience (that
+      was the Six of Wands). Just the craftsman and the craft,
+      producing one pentacle after another, each one slightly better
+      than the last.
+
+
+      This is the card of the ten-thousand-hour rule, of the monk
+      sweeping the same floor, of the musician who practices scales
+      when no one is listening. The material world rewards this above
+      all: showing up, doing the work, and doing it again.
+    transition: >
+      The practice pays. Skill deepens into abundance. And the
+      craftsman, having mastered his art, discovers something he
+      didn't expect: prosperity can be enjoyed in solitude.
+    reflection: >
+      What are you practicing? Not what you wish you were doing —
+      what are you actually showing up for, daily, without applause?
+      Is the practice itself satisfying, or only the results?
+    aside: >
+      The Eight of Pentacles is Sun in Virgo — identity and creative
+      force in the sign of service, analysis, and craft. Eights in
+      Hod are intellect — the Eight of Pentacles is the mind applied
+      to material mastery, learning through repetition. The distance
+      from the city says: mastery requires withdrawal from distraction.
+      Compare to the Hermit (Major IX) — same solitude, different
+      purpose. The Hermit seeks wisdom. The Eight of Pentacles
+      seeks skill.
+
+  - id: pentacles-garden
+    card: pentacles-09
+    title: "The Garden"
+    narrative: >
+      A woman stands alone in a lush vineyard, a hooded falcon on her
+      wrist. Nine pentacles grow on the vines around her. She is
+      wealthy, self-sufficient, and at ease. A snail moves at her feet.
+      The garden is entirely hers.
+
+
+      The Nine of Pentacles is material abundance enjoyed in solitude.
+      Not the shared celebration of the Four of Wands or the domestic
+      wholeness of the Ten of Cups — the quiet, private satisfaction
+      of having built something beautiful through your own sustained
+      effort. The falcon is trained instinct — wildness made useful.
+      The snail is the pace of Earth: slow, steady, carrying its home.
+
+
+      This is the card of the person who doesn't need to impress
+      anyone. The garden speaks for itself.
+    transition: >
+      She stands in her garden. It is enough. But the suit has one
+      more card, and it asks the question that material success
+      always arrives at: what happens after you?
+    reflection: >
+      What have you built that you can enjoy in solitude? What does
+      self-sufficiency feel like — is it freedom, or is it loneliness
+      wearing a comfortable dress?
+    aside: >
+      The Nine of Pentacles is Venus in Virgo — beauty and pleasure
+      in the sign of service and craft. Nines in Yesod are
+      near-completion. The Nine of Pentacles is the material world's
+      "wish card" (paralleling the Nine of Cups). The falcon suggests
+      nobility and the mastery of natural forces. The garden is
+      cultivated nature — Earth perfected by human care.
+
+  - id: pentacles-legacy
+    card: pentacles-10
+    title: "The Legacy"
+    narrative: >
+      An old man sits beneath an archway carved with ten pentacles. A
+      couple stands before him — perhaps his children, perhaps his
+      heirs. Dogs rest at his feet. A great estate stretches behind
+      them. The scene is multigenerational: the wealth has been built,
+      and now it passes.
+
+
+      The Ten of Pentacles is the full manifestation of Earth:
+      material achievement not just as personal success but as
+      legacy — the house that outlasts you, the wealth that serves
+      the next generation, the garden that keeps growing after the
+      gardener is gone.
+
+
+      But look at the old man. He sits apart from the family, almost
+      in shadow. The couple doesn't look at him. The dogs notice him
+      more than the humans do. The Ten's gift comes with the Ten's
+      price: you built it, you pass it on, and the world moves
+      forward without consulting you about what to do with your work.
+
+
+      The suit began with a seed in a garden. It ends with an estate
+      and an old man wondering if the heirs understand what the garden
+      cost.
+    transition: null
+    reflection: >
+      What are you building that will outlast you? Will the people
+      who inherit it understand what it took? Does that matter?
+    aside: >
+      The Ten of Pentacles is Mercury in Virgo — communication and
+      craft in the sign of service. Tens in Malkuth are full
+      manifestation. In Pentacles, Malkuth is literal — the material
+      world at its most fully realized. The archway's ten pentacles
+      are arranged in the pattern of the Tree of Life — the entire
+      Kabbalistic structure encoded in stone, suggesting that the
+      material world, fully manifested, contains the divine pattern.
+      The old man is the suit's Hermit, but his lantern is an estate.
+
+connections:
+  - walk: four-lives-wands
+    relationship: parallel
+    description: >
+      Fire and Earth: passion versus patience. Wands burn through
+      their arc from spark to burden. Pentacles build through
+      theirs from seed to legacy. Wands asks what it costs to
+      create. Pentacles asks what it costs to endure.
+  - walk: four-lives-cups
+    relationship: parallel
+    description: >
+      Water and Earth: feeling versus building. Cups traces the
+      heart's cycle; Pentacles traces the hands'. The Nine of Cups
+      (emotional contentment) and the Nine of Pentacles (material
+      abundance) are the same satisfaction expressed through
+      different elements.
+  - walk: four-lives-swords
+    relationship: parallel
+    description: >
+      Air and Earth: thought versus craft. Swords collapse under
+      the weight of clarity. Pentacles endure through the weight
+      of patience. The Eight of Swords (mental prison) and the
+      Eight of Pentacles (disciplined practice) are opposite
+      relationships to the same number — confinement versus focus.

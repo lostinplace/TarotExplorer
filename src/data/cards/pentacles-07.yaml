@@ -1,0 +1,112 @@
+id: pentacles-07
+name: Seven of Pentacles
+arcana: minor
+suit: pentacles
+rank: 7
+image: RWSa-P-07.png
+symbol: 🪙
+upright:
+  keywords:
+    - Patience
+    - Long-term investment
+    - Assessment
+    - Waiting for results
+    - Perseverance
+  meaning: >
+    A farmer leans on his hoe, gazing at seven pentacles growing on a leafy
+    vine. The planting is done, the tending is done — now comes the hardest
+    part: waiting. This card appears when you've invested significant effort
+    and must trust the process. Are the results worth what you've put in?
+    The farmer isn't sure yet. Neither are you.
+reversed:
+  keywords:
+    - Impatience
+    - Poor returns
+    - Wasted effort
+    - Quitting too soon
+    - Bad investment
+  meaning: >
+    Reversed, the harvest disappoints or you lose patience before it arrives.
+    Investments that don't pay off, effort that feels wasted, or the
+    temptation to rip everything up and start over when the crop just needs
+    more time. Sometimes the reversal is correct — not everything planted
+    deserves to be harvested.
+imagery:
+  - element: Farmer leaning on a hoe
+    significance: >
+      The hoe is grounded — the work tool at rest. His posture is
+      contemplative, not idle. This is active waiting, assessment, taking
+      stock. He has done everything he can and now must let time do its
+      part. The lean suggests weariness — long-term investment is tiring.
+    tradition: Agricultural symbolism
+  - element: Seven pentacles growing on a vine
+    significance: >
+      The coins grow like fruit — wealth here is organic, alive, still
+      developing. Six cluster together while one sits lower, perhaps not
+      yet ripe. The growth is real but uneven. Not every investment
+      matures at the same rate.
+    tradition: Agricultural / alchemical (growth as transformation)
+  - element: Green leafy vine bearing the pentacles
+    significance: >
+      The vine connects earth to fruit — labor to result. But vines
+      grow on their own schedule. You can plant, water, and tend, but
+      you cannot make them hurry. The card's central lesson is encoded
+      in the plant itself.
+    tradition: Biblical (vineyard parables) / agricultural
+  - element: Tilled earth at the farmer's feet
+    significance: >
+      The ground has been worked — evidence of past effort. This isn't
+      wild growth but cultivated harvest. The farmer's investment is
+      visible in the soil itself.
+    tradition: Elemental — Earth worked by human hands
+correspondences:
+  element: Earth
+  planet: Saturn
+  zodiac: Taurus
+  hebrew_letter: null
+  tree_of_life: "Netzach (Victory) — endurance and persistence in Earth"
+  numerology: >
+    7 — reflection, assessment, the pause before completion. Seven is
+    the contemplative number, the Sabbath. In Pentacles, seven is the
+    farmer surveying his field — work paused for evaluation.
+  colors:
+    - Green (growth, the vine, living investment)
+    - Gold (the pentacles — value still ripening)
+    - Brown (earth, soil, the ground of effort)
+connections:
+  - card: pentacles-08
+    relationship: sequence
+    description: >
+      The Seven waits; the Eight works. After assessment comes renewed
+      dedication. If the Seven decides the investment is worthwhile,
+      the Eight provides the diligent effort to see it through.
+  - card: major-09
+    relationship: echo
+    description: >
+      The Hermit also pauses to reflect and assess the journey so far.
+      The Seven of Pentacles is the Hermit's energy applied to material
+      investments — stepping back to see clearly.
+  - card: wands-07
+    relationship: echo
+    description: >
+      Both Sevens involve standing one's ground. The Seven of Wands
+      defends a position actively; the Seven of Pentacles holds a
+      position through patience. Different kinds of perseverance.
+themes:
+  - "The patience of the farmer — trusting processes you can't accelerate"
+  - "Assessment without action — the wisdom of the pause"
+  - "Sunk cost and future value — knowing when to wait and when to walk away"
+questions:
+  - "What have you invested in that's still growing — and do you trust the process?"
+  - "Are you waiting patiently or just avoiding a decision?"
+  - "If the harvest is smaller than expected, will the effort still have been worth it?"
+  - "What would you do differently if you planted this field again?"
+references:
+  - title: "The Pictorial Key to the Tarot"
+    author: "Arthur Edward Waite"
+    relevance: "Waite describes the figure as contemplating his treasure with 'some satisfaction' — but the image suggests more ambivalence than he admits."
+    section: "Part II: Minor Arcana — Seven of Pentacles"
+  - title: "Seventy-Eight Degrees of Wisdom"
+    author: "Rachel Pollack"
+    relevance: "Pollack connects the Seven to the universal experience of wondering whether your life's work is bearing fruit."
+    section: "Pentacles: Seven"

@@ -1,0 +1,113 @@
+id: swords-06
+name: Six of Swords
+arcana: minor
+suit: swords
+rank: 6
+image: RWSa-S-06.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Transition
+    - Moving on
+    - Leaving difficulty behind
+    - Quiet passage
+    - Mental shift
+  meaning: >
+    A cloaked figure and child are ferried across water, six swords standing
+    upright in the bow. This is the quiet departure — no drama, no fanfare,
+    just the slow movement away from turbulent waters toward calmer ones. You're
+    not healed yet, but you're moving in the right direction.
+reversed:
+  keywords:
+    - Stuck in the past
+    - Resistance to change
+    - Unfinished business
+    - Return to troubled waters
+    - Delayed departure
+  meaning: >
+    Reversed, the boat turns back or never leaves the shore. You know you need
+    to move on but can't — or you've tried to leave a bad situation only to
+    find yourself drawn back. The baggage (those six swords) is too heavy, or
+    the familiar pain feels safer than unknown waters.
+imagery:
+  - element: Cloaked figure and small child in a boat
+    significance: >
+      A parent protecting a child during transition — vulnerability in motion.
+      The cloak hides the face, suggesting grief or the desire to leave
+      identity behind. The child represents what is worth saving from the
+      wreckage.
+    tradition: RWS narrative — exile and passage motifs
+  - element: Six swords standing in the bow of the boat
+    significance: >
+      The swords travel with them — you carry your thoughts, your pain, your
+      knowledge to the new shore. Moving on doesn't mean forgetting. The
+      swords are planted upright, suggesting these truths have been
+      acknowledged and ordered.
+    tradition: Symbolic — baggage and lessons carried forward
+  - element: Turbulent water on the right, calm water on the left
+    significance: >
+      Smith painted the water rough on one side and smooth on the other —
+      the journey literally moves from difficulty toward peace. The transition
+      is visible in the water itself.
+    tradition: RWS visual narrative
+  - element: The ferryman guiding the boat
+    significance: >
+      A guide who assists the passage — a therapist, a friend, someone who
+      helps you cross. You don't have to make this journey alone. Echoes of
+      Charon, but toward life rather than death.
+    tradition: Greek mythology — Charon / river crossing
+correspondences:
+  element: Air
+  planet: Mercury
+  zodiac: Aquarius
+  hebrew_letter: null
+  tree_of_life: Tiphareth (Beauty) — the harmonizing center, balance restored
+  numerology: >
+    6 — harmony, balance, the hexagram. After the Five's destruction, six
+    finds equilibrium through movement. Not static peace but dynamic
+    rebalancing — you heal by traveling.
+  colors:
+    - Grey-blue (water — emotion in transit)
+    - Muted earth tones (the cloak — mourning, humility)
+connections:
+  - card: swords-05
+    relationship: sequence
+    description: >
+      After the Five's bitter conflict, the Six departs. This is what comes
+      after the fight — not resolution, but removal. Sometimes the wisest
+      response to a toxic situation is to leave it.
+  - card: cups-06
+    relationship: echo
+    description: >
+      The Six of Cups looks back to the past with nostalgia; the Six of Swords
+      leaves the past behind with resignation. Both sixes deal with memory —
+      one sweetly, one with sorrow.
+  - card: major-18
+    relationship: echo
+    description: >
+      The Moon shows a long path through darkness; the Six of Swords shows
+      passage across dark water. Both depict the journey through difficulty
+      where you can't see the destination yet.
+themes:
+  - "Transition as a form of healing — movement itself as medicine"
+  - "The courage to leave without knowing where you're going"
+  - "Carrying your wounds forward rather than leaving them behind"
+  - "Quiet departures — not every ending is dramatic"
+questions:
+  - What shore are you leaving, and can you name what you're carrying with you?
+  - Who has helped ferry you through a difficult transition?
+  - Are you moving toward something or just away from something?
+  - What would you need to leave behind to make the crossing lighter?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack emphasizes the "science" aspect Waite assigns this card —
+      the Six as rational problem-solving applied to emotional difficulty.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's keywords include "journey by water, route, envoy" — practical
+      and grounded for such an emotional image.
+    section: "Part III: The Minor Arcana — Suit of Swords"

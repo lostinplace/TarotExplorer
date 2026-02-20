@@ -1,0 +1,161 @@
+id: major-02
+name: The High Priestess
+arcana: major
+suit: null
+rank: 2
+image: RWSa-T-02.png
+symbol: 🌙
+upright:
+  keywords:
+    - Intuition
+    - Hidden knowledge
+    - The unconscious
+    - Stillness
+    - Mystery
+    - Receptivity
+  meaning: >
+    The High Priestess guards the threshold between the known and the unknown.
+    She does not act — she receives. Wisdom here comes not from seeking but from
+    stillness, not from analysis but from listening to what lies beneath the
+    surface of consciousness.
+reversed:
+  keywords:
+    - Blocked intuition
+    - Secrets and deception
+    - Superficial knowledge
+    - Disconnection from inner self
+    - Information withheld
+  meaning: >
+    Reversed, the veil thickens. You may be ignoring your intuition, relying too
+    heavily on rational analysis, or someone is deliberately withholding
+    information. Can also indicate esoteric knowledge pursued for ego rather
+    than understanding — knowing the words without feeling the meaning.
+imagery:
+  - element: Two pillars — black (B) and white (J)
+    significance: >
+      Boaz (בועז, 'in strength') and Jachin (יכין, 'he establishes') — the
+      pillars of Solomon's Temple. They represent duality: severity and mercy,
+      dark and light, the manifest and unmanifest. The Priestess sits between
+      them, not choosing either — she IS the threshold.
+    tradition: Kabbalistic / Freemasonic — 1 Kings 7:21
+  - element: Veil with pomegranates between the pillars
+    significance: >
+      The veil separates the conscious from the unconscious mind. The
+      pomegranates reference Persephone's descent to the underworld — the
+      knowledge that comes from crossing into darkness. The pattern suggests the
+      Tree of Life. You cannot see what's behind the veil; you must go through
+      her to reach it.
+    tradition: Greek mystery traditions / Kabbalistic
+  - element: Scroll labeled TORA, partially hidden
+    significance: >
+      The Torah (divine law) or TARO (an anagram) — esoteric knowledge that is
+      never fully revealed. She holds it but does not display it openly. The
+      partial concealment is the point: some knowledge can only be apprehended,
+      not transmitted.
+    tradition: Western esoteric / Hermetic
+  - element: Crescent moon at her feet
+    significance: >
+      The moon governs cycles, tides, the unconscious. At her feet, it suggests
+      she has mastery over the lunar/intuitive realm — it serves her rather than
+      controlling her. Also connects to her role as a lunar counterpart to The
+      Magician's solar energy.
+    tradition: Astrological / Goddess traditions
+  - element: Blue robe flowing like water
+    significance: >
+      Water is the element of emotion, intuition, and the unconscious. Her robes
+      merge with what appears to be flowing water at the bottom of the card —
+      she is continuous with the unconscious, not separate from it.
+    tradition: Elemental symbolism
+  - element: Equal-armed cross on her chest
+    significance: >
+      The solar cross or cross of the four elements, centered on her heart.
+      Balances masculine/solar energy within a feminine/lunar figure. Suggests
+      wholeness — she contains both polarities.
+    tradition: Hermetic / Rosicrucian
+  - element: "Crown: lunar disc between two horns"
+    significance: >
+      The crown of Hathor/Isis — the full moon cradled by the waxing and waning
+      crescents. Triple goddess symbolism: maiden, mother, crone. Connects her
+      to ancient priestess traditions predating Christianity.
+    tradition: Egyptian / Triple Goddess
+correspondences:
+  element: Water
+  planet: Moon
+  zodiac: null
+  hebrew_letter: Gimel (ג)
+  tree_of_life: "Path 13: Kether (Crown) → Tiphareth (Beauty)"
+  numerology: >
+    2 — duality, polarity, the first division from unity. The number of
+    reflection (as a mirror creates a second image) and of choice (two paths,
+    two pillars).
+  colors:
+    - Blue (unconscious, water, depth)
+    - White (purity, moonlight, the unmanifest)
+    - Black (mystery, the unknown, severity)
+connections:
+  - card: major-01
+    relationship: polarity
+    description: >
+      The Magician acts; the High Priestess receives. He channels power downward
+      into manifestation; she draws wisdom upward from the unconscious. Together
+      they represent the active and passive modes of engaging with the unseen.
+  - card: major-03
+    relationship: sequence
+    description: >
+      The Empress is the Priestess made manifest — intuition expressed as
+      creation, the unconscious given form in the material world. The Priestess
+      knows; the Empress births.
+  - card: major-18
+    relationship: echo
+    description: >
+      The Moon card amplifies the Priestess's lunar themes into a full landscape
+      of the unconscious — illusion, fear, the long path through darkness. Where
+      the Priestess is composed, The Moon is the experience of being lost in
+      what she guards.
+  - card: major-05
+    relationship: polarity
+    description: >
+      The Hierophant teaches public doctrine; the Priestess holds esoteric
+      knowledge. He is the outer church; she is the inner mystery. Both are
+      spiritual authorities, but through opposite modes.
+themes:
+  - The power of receptivity — strength through stillness rather than action
+  - Liminal space — the threshold as a place of power, not just passage
+  - Hidden knowledge — what can be known but not spoken
+  - The anima — Jung's concept of the feminine aspect of the unconscious mind
+  - Duality without opposition — holding two truths without choosing
+questions:
+  - What do you know that you can't prove or explain?
+  - Where are you forcing action when the situation calls for patience?
+  - What would change if you treated not-knowing as a kind of wisdom?
+  - What's behind your personal veil — what are you not looking at?
+  - When has silence communicated more than words?
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: Waite's own description of the card he commissioned Pamela Colman
+      Smith to paint. Note what he emphasizes and what he deliberately obscures.
+    section: "Part II: The Major Trumps — II. The High Priestess"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: The most influential modern reading of the RWS deck. Pollack's
+      treatment of the Priestess emphasizes the feminist and psychological
+      dimensions.
+    section: "Chapter 2: The High Priestess"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: Crowley's parallel card (The Priestess) in the Thoth deck. Useful for
+      contrast — he leans harder into the Kabbalistic path of Gimel and the
+      camel symbolism.
+    section: "Atu II: The Priestess"
+  - title: A Garden of Pomegranates
+    author: Israel Regardie
+    relevance: For understanding the Tree of Life path attributions. The path of
+      Gimel connecting Kether to Tiphareth is the highest path that crosses the
+      Abyss.
+    section: Chapter on the Paths
+  - title: The Woman's Encyclopedia of Myths and Secrets
+    author: Barbara G. Walker
+    relevance: Background on the goddess traditions (Isis, Hathor, Persephone) that
+      inform the Priestess imagery.
+    section: null

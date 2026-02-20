@@ -1,0 +1,114 @@
+id: swords-05
+name: Five of Swords
+arcana: minor
+suit: swords
+rank: 5
+image: RWSa-S-05.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Conflict
+    - Defeat
+    - Hollow victory
+    - Dishonor
+    - Winning at a cost
+  meaning: >
+    A smirking figure collects swords from the ground while two others walk away
+    in defeat. But look at his face — is this victory? The Five of Swords is
+    the win that costs you everything worth winning: relationships, integrity,
+    respect. You got what you wanted and lost what mattered.
+reversed:
+  keywords:
+    - Reconciliation
+    - Moving past conflict
+    - Lingering resentment
+    - Desire to make amends
+    - Choosing not to fight
+  meaning: >
+    Reversed, the battle is over and the question is what comes next. Either
+    you're ready to lay down arms and attempt reconciliation, or the resentment
+    from past conflict continues to poison the present. Can you walk away, or
+    are you still collecting swords?
+imagery:
+  - element: Central figure holding three swords with a smirk
+    significance: >
+      The "winner" — but Smith paints his expression as cruel, not triumphant.
+      He holds three swords (more than he can use), suggesting greed or the
+      need to dominate beyond necessity. Winning wasn't enough; he needed
+      the others to lose.
+    tradition: RWS psychological portraiture
+  - element: Two retreating figures in the background
+    significance: >
+      The defeated walk away — toward the turbulent water and storm. Their
+      postures convey dejection, but they're also leaving the toxic dynamic.
+      Sometimes losing means getting free.
+    tradition: Narrative scene composition
+  - element: Jagged clouds and choppy water
+    significance: >
+      The sky is disturbed, the water turbulent. The environment reflects the
+      emotional aftermath of conflict — nothing is at peace, not even the
+      "victor." The Air element is agitated.
+    tradition: Elemental — disturbed Air
+  - element: Two swords left on the ground
+    significance: >
+      The defeated dropped their swords — they surrendered or were disarmed.
+      The winner picks them up as trophies. The empty ground between the
+      figures is the relationship that was destroyed.
+    tradition: RWS narrative symbolism
+correspondences:
+  element: Air
+  planet: Venus
+  zodiac: Aquarius
+  hebrew_letter: null
+  tree_of_life: Geburah (Severity) — conflict, destruction, necessary cutting
+  numerology: >
+    5 — instability, conflict, disruption. The midpoint crisis of any suit.
+    In Swords, five is the argument that cannot be resolved, the battle
+    where everyone loses something.
+  colors:
+    - Green (the victor's tunic — envy, ambition)
+    - Grey (storm clouds — moral ambiguity)
+    - Red (hints of anger, aggression)
+connections:
+  - card: swords-04
+    relationship: sequence
+    description: >
+      After the Four's rest, conflict erupts again. The mind that was
+      healing is now weaponized — rest was either insufficient or the
+      lesson wasn't learned.
+  - card: wands-05
+    relationship: echo
+    description: >
+      Both Fives depict conflict, but the Five of Wands is competitive
+      sport — messy but not malicious. The Five of Swords is genuinely
+      cruel. Wands fight for position; Swords fight to destroy.
+  - card: major-16
+    relationship: echo
+    description: >
+      Both cards tear things apart. The Tower is impersonal cosmic
+      destruction; the Five of Swords is personal, chosen, petty
+      destruction.
+themes:
+  - "Pyrrhic victory — winning in a way that makes you the loser"
+  - "The ethics of conflict — when fighting itself is the defeat"
+  - "Ego versus integrity"
+  - "The aftermath of cruelty"
+questions:
+  - What have you won that you're not proud of winning?
+  - Is this conflict worth what it's costing you?
+  - Who walked away from you because you had to be right?
+  - Can you tell the difference between strength and dominance?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading focuses on the moral dimension — she asks who the
+      querent identifies with (the winner or the losers) and what that
+      reveals.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite lists "degradation, destruction, dishonor" — remarkably harsh
+      language that confirms this is not a positive card in any orientation.
+    section: "Part III: The Minor Arcana — Suit of Swords"

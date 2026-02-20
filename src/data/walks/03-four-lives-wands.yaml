@@ -1,0 +1,441 @@
+id: four-lives-wands
+name: "The Life of Fire"
+description: >
+  The story of a creative impulse from spark to exhaustion. The Wands suit
+  traces the life cycle of will, passion, and ambition through the element
+  of Fire — from the Ace's raw ignition through growth, conflict, defense,
+  and the final burden of carrying what you've built. This is the life of
+  anyone who has ever started something on pure inspiration and learned what
+  it costs to sustain it.
+author: null
+tradition: "Elemental / Suit progression"
+
+acts:
+  - id: ignition
+    name: "Ignition"
+    description: >
+      The fire is lit. From pure creative spark to the first acts of will
+      and vision — the intoxicating early stage where everything feels
+      possible and the flame is hungry.
+    steps:
+      - wands-spark
+      - wands-dominion
+      - wands-horizon
+      - wands-celebration
+
+  - id: trial
+    name: "Trial by Fire"
+    description: >
+      The flame meets resistance. Competition, defense, deception, and
+      the discovery that creative will alone doesn't protect what you've
+      built. The fire must learn to sustain itself against wind.
+    steps:
+      - wands-conflict
+      - wands-triumph
+      - wands-stand
+      - wands-flight
+
+  - id: endurance
+    name: "Endurance"
+    description: >
+      The fire that survived the trials now faces a different challenge:
+      duration. The final stretch from resilience to completion — and
+      the discovery that carrying your own fire to the end is the
+      heaviest work of all.
+    steps:
+      - wands-resilience
+      - wands-burden
+
+steps:
+  - id: wands-spark
+    card: wands-01
+    title: "The Spark"
+    narrative: >
+      A hand emerges from a cloud, holding a single living wand — budding,
+      leafing, practically vibrating with potential. Sparks fall from it
+      like seeds. In the distance, a castle on a hill. The landscape is
+      open, fertile, waiting.
+
+
+      This is the moment before the project, before the venture, before the
+      relationship that begins with a surge of desire. Pure creative fire,
+      undirected, uncontained. It doesn't know yet what it will become. It
+      only knows that it must become *something*.
+
+
+      The Ace of Wands is not an idea. It's the energy that makes ideas
+      catch fire.
+    transition: >
+      The spark has landed. Now it needs direction — a hand to hold it,
+      a will to point it somewhere. The fire asks: what will you do with me?
+    reflection: >
+      When did you last feel that surge of pure creative energy — before
+      planning, before doubt, before the work began? What did it feel like
+      in your body?
+    aside: >
+      The Ace lives in Kether — the crown, the first point, the origin
+      before differentiation. All four Aces are pure elemental potential.
+      The Wand's leaves show it's alive — fire in tarot is not destructive
+      flame but living creative force, closer to the fire of a forge than
+      a wildfire. The castle in the distance is what this fire could build.
+      Whether it will is the story the rest of the suit tells.
+
+  - id: wands-dominion
+    card: wands-02
+    title: "The Claim"
+    narrative: >
+      A figure stands on a castle battlement, holding a wand in one hand
+      and a globe in the other. A second wand is fixed to the wall beside
+      him. He looks out over a vast landscape — sea, mountains, fields.
+      The world is spread before him, and he is deciding what part of it
+      to claim.
+
+
+      The spark has become a vision. The Two of Wands is the moment
+      between inspiration and action — you've caught the fire, and now
+      you're surveying the territory. The globe says: I can see the whole
+      world from here. The battlement says: but I'm choosing *this* piece
+      of it. The second wand, planted, says: I've already committed.
+
+
+      This is ambition taking shape. Not dreaming — planning. The fire
+      narrows from infinite possibility to specific intention.
+    transition: >
+      He's chosen his direction. Now he must watch for the first signs
+      that the vision is working — that the fire he planted is actually
+      catching in the world.
+    reflection: >
+      What are you surveying right now — what territory are you
+      considering claiming? What's the difference between the vision
+      (the globe) and the commitment (the planted wand)?
+    aside: >
+      The Two of Wands is Mars in Aries — pure aggressive force in its
+      home sign. This is will at its most confident. Twos live in Chokmah,
+      the Sephirah of initial creative force — the first motion out of
+      unity. The globe is sometimes read as the world itself, sometimes
+      as a scrying ball. Either way: the figure sees far, and what he
+      sees, he wants.
+
+  - id: wands-horizon
+    card: wands-03
+    title: "The Ships"
+    narrative: >
+      A figure stands on a cliff, watching three ships sail out to sea.
+      Three wands are planted in the ground beside him. He is not on the
+      ships — he sent them. The horizon is golden. The venture is underway.
+
+
+      The Two surveyed. The Three launched. The creative fire is no longer
+      just a vision in your head — it's out in the world, moving under its
+      own momentum. The ships carry your ambition into territory you can't
+      control. You can watch them from the cliff. You cannot steer them
+      from here.
+
+
+      This is the exhilarating and terrifying moment when the thing you
+      started becomes real enough to succeed or fail on its own terms.
+    transition: >
+      The ships are sailing. The first returns will come soon — and with
+      them, the first reason to celebrate. But also the first proof that
+      what you built is bigger than your plans for it.
+    reflection: >
+      What have you launched that you're now watching from a distance?
+      How does it feel to have something you created moving beyond your
+      direct control?
+    aside: >
+      The Three of Wands is Sun in Aries — identity and creative force
+      blazing outward. Threes live in Binah, which seems paradoxical for
+      a fire card (Binah is the dark, watery mother). But Binah gives
+      *form* — and the Three of Wands is the moment creative fire takes
+      a form that can travel. The ships are the form. The fire is the wind
+      in their sails.
+
+  - id: wands-celebration
+    card: wands-04
+    title: "The Harvest"
+    narrative: >
+      Four wands form a canopy, garlanded with flowers and fruit. Two
+      figures dance beneath them, arms raised. In the background, a castle
+      and a welcoming crowd. The harvest is in. The venture succeeded.
+      The fire built something worth celebrating.
+
+
+      The Four of Wands is the first rest — the moment between the launch
+      and the next challenge. Foundation has been laid. The structure holds.
+      The community gathers. For now — just for now — everything is working.
+
+
+      Enjoy this. The suit will not be this gentle again for a long time.
+    transition: >
+      The celebration ends. The garlands come down. And in the morning,
+      the Fool discovers that building something worth having means others
+      want it too — or want to prove they could have built it better.
+    reflection: >
+      What have you built that you paused to celebrate? Did you let
+      yourself enjoy it fully, or were you already bracing for what
+      came next?
+    aside: >
+      The Four of Wands is Venus in Aries — love and beauty in the sign
+      of aggressive will. It's the softest card in the suit, and it's
+      positioned exactly where you'd expect: after the effort of 1-2-3,
+      a breath. Fours live in Chesed, the Sephirah of mercy, abundance,
+      and benevolent expansion. This is the fire resting in kindness.
+      It will not last. Fives live in Geburah.
+
+  - id: wands-conflict
+    card: wands-05
+    title: "The Melee"
+    narrative: >
+      Five figures brandish wands against each other in what looks like
+      a chaotic brawl — but look again. Nobody is being hit. Nobody is
+      bleeding. The sticks clash in midair. This might be a fight. It
+      might be a competition. It might be a game.
+
+
+      After the Four's celebration, the Five introduces conflict — but
+      not the lethal kind. This is the conflict of creative friction:
+      other wills pushing against yours, other visions competing with
+      yours, the discovery that your fire is not the only fire. The
+      melee is exhausting and necessary. Your vision gets tested against
+      others. What survives the scrum is stronger for it.
+
+
+      The question isn't whether you'll fight. The question is whether
+      you can tell the difference between healthy competition and
+      destructive conflict.
+    transition: >
+      The fight clarifies. Some competitors fall away. Some become
+      allies. And you emerge — if you're lucky — with the recognition
+      that your fire was tested and held.
+    reflection: >
+      Where in your life is competition sharpening you? Where is it
+      just draining you? Can you tell the difference in the moment,
+      or only afterward?
+    aside: >
+      The Five of Wands is Saturn in Leo — restriction and limitation
+      in the sign of creative self-expression. The planet of "no" in
+      the sign of "look at me." Fives live in Geburah, and every Five
+      in the deck introduces disruption to the stability the Four
+      achieved. In Wands, the disruption is social: other people's
+      will colliding with yours.
+
+  - id: wands-triumph
+    card: wands-06
+    title: "The Parade"
+    narrative: >
+      A figure rides a horse through a crowd, wearing a laurel wreath
+      and holding a wand aloft. Five more wands are carried alongside
+      by followers. The crowd cheers. The battle of the Five has been
+      won — or at least survived — and the Six is the public recognition
+      of victory.
+
+
+      But look at the rider's face. Is he triumphant? Or is he
+      performing triumph? The Six of Wands is the moment when the
+      world reflects your fire back at you as success. It feels
+      wonderful. It is also the beginning of a trap — because once
+      you've tasted recognition, the fire starts burning for the crowd
+      instead of for itself.
+
+
+      Success is real. The danger is letting it redefine what the fire
+      was for.
+    transition: >
+      The crowd disperses. The laurel dries. Tomorrow you wake up
+      and the fire is still yours, but now you know what it feels like
+      to be watched. The next challenge comes not from competitors but
+      from those who want to take what you've won.
+    reflection: >
+      When has recognition changed your relationship to the work?
+      Did the praise feed the fire or start replacing it?
+    aside: >
+      The Six of Wands is Jupiter in Leo — expansion and fortune in
+      the sign of public expression. Sixes live in Tiphareth, the
+      Sephirah of beauty and harmony. This is fire at its most
+      beautiful — the moment of genuine, earned recognition. The
+      laurel wreath connects to The World (card 21): completion,
+      victory, the dance. But the Six is not the end. Four more
+      cards follow. The wreath is premature.
+
+  - id: wands-stand
+    card: wands-07
+    title: "The Defense"
+    narrative: >
+      A figure stands on high ground, holding a wand against six wands
+      rising from below. He is outnumbered. He is above. He is not
+      attacking — he is defending. His ground. His position. What he built.
+
+
+      After triumph comes the discovery that success makes you a target.
+      The Seven of Wands is the card of holding your ground when the world
+      pushes back — not the open conflict of the Five, but the lonely
+      defensive stand of someone who has something worth taking.
+
+
+      The fire here is not creative. It's protective. And the figure
+      discovers something important: defending what you've built takes
+      a different kind of energy than building it. It's less exciting
+      and more exhausting. But if you step down from the high ground,
+      you lose everything the first six cards built.
+    transition: >
+      He holds. The attackers don't overwhelm him — but they don't
+      stop either. And while he's busy defending his position, something
+      is happening that he can't see from his hilltop.
+    reflection: >
+      What are you defending right now? Is the high ground worth the
+      exhaustion of holding it, or have you forgotten why you climbed
+      there in the first place?
+    aside: >
+      The Seven of Wands is Mars in Leo — aggressive defense of
+      creative territory. Sevens live in Netzach, the Sephirah of
+      emotion and desire. The defense is not purely rational — it's
+      driven by the *feeling* that this position matters. Note that
+      the figure wears mismatched shoes in many versions of the card.
+      He was caught off guard. The defense wasn't planned. It was
+      reactive. That's the Seven's edge: it's necessary but not
+      strategic.
+
+  - id: wands-flight
+    card: wands-08
+    title: "The Acceleration"
+    narrative: >
+      Eight wands fly through the air over an open landscape — no hands
+      holding them, no figures anywhere. Just eight staves in flight,
+      parallel, aimed, moving fast.
+
+
+      After the defensive grind of the Seven, everything suddenly
+      accelerates. The Eight of Wands is the card of swift motion,
+      messages in transit, things happening faster than you can steer
+      them. The fire you lit, defended, and sustained has reached
+      a kind of escape velocity. Events are in motion. Communications
+      are flying. The project has its own momentum.
+
+
+      This is thrilling and slightly terrifying. You're no longer
+      pushing the fire — the fire is carrying you. You can aim it,
+      but you can't slow it down.
+    transition: >
+      The wands land. The messages arrive. The acceleration resolves
+      into the exhaustion that follows any sprint. What comes next
+      is not another burst of speed — it's the reckoning with how
+      much the journey has cost.
+    reflection: >
+      When has something in your life suddenly accelerated beyond your
+      control? Did you ride it or resist it? Was the speed exhilarating
+      or frightening?
+    aside: >
+      The Eight of Wands is Mercury in Sagittarius — communication and
+      speed in the sign of the quest. Eights live in Hod, the Sephirah
+      of intellect and Mercury. This is the most abstract card in the
+      suit — no figures, no story, just pure motion. Some readers
+      interpret it as air travel, emails, or news arriving. In the
+      context of the suit's life cycle, it's the moment when the
+      creative project takes on a life of its own and starts moving
+      faster than the creator can manage.
+
+  - id: wands-resilience
+    card: wands-09
+    title: "The Vigil"
+    narrative: >
+      A wounded figure stands behind a fence of eight wands, gripping
+      a ninth. His head is bandaged. His posture is guarded, exhausted
+      but upright. He has been through it — the conflict, the defense,
+      the acceleration — and he's still standing. Barely.
+
+
+      The Nine of Wands is resilience after sustained assault. Not the
+      fresh courage of the Ace, not the confident vision of the Two —
+      the worn, scarred, stubborn refusal to fall down. The fire is
+      still burning, but it's burning low. The figure is running on
+      reserves he didn't know he had.
+
+
+      This is the card that appears when you think you can't continue
+      and you continue anyway. Not because you're brave. Because you've
+      come too far to stop.
+    transition: >
+      He stands. He will keep standing. But the vigil has a cost, and
+      the cost is waiting at the end of the road — in the final card,
+      where the fire's full weight must be carried.
+    reflection: >
+      What has tested your endurance to the point where continuing felt
+      impossible but stopping felt worse? What did you discover about
+      yourself in that vigil?
+    aside: >
+      The Nine of Wands is Moon in Sagittarius — the unconscious and
+      emotional in the sign of the quest. Nines live in Yesod, the
+      Sephirah of the unconscious and foundation. The resilience of
+      the Nine comes not from will (that was spent cards ago) but from
+      something deeper — the unconscious commitment to the path, the
+      body's refusal to quit even when the mind has calculated that
+      quitting makes sense. The bandage on his head suggests he's been
+      hit in the place of thought. His thinking is compromised. His
+      standing is not.
+
+  - id: wands-burden
+    card: wands-10
+    title: "The Weight of Fire"
+    narrative: >
+      A figure staggers under the weight of ten wands, carrying them
+      all toward a distant town. His back is bent. His face is hidden.
+      He cannot see where he's going — only the ground beneath his feet
+      and the weight on his shoulders.
+
+
+      The final card. The fire that began as a single spark in the Ace
+      has become ten heavy staves. Every ambition pursued, every battle
+      fought, every victory claimed — it all became weight. The Ten of
+      Wands is what happens when creative fire succeeds: it produces
+      responsibilities, obligations, the sheer mass of everything
+      you've built and must now carry.
+
+
+      The town is close. The burden can be set down. But the card
+      doesn't show the setting-down — it shows the carrying. Because
+      the truth of the fire's life cycle is this: creation is light.
+      Maintenance is heavy. And nobody tells you that when you first
+      pick up the spark.
+
+
+      The cycle is complete. And somewhere ahead, when the burden is
+      finally released, a hand will emerge from a cloud, holding a
+      single living wand. Budding. Leafing. Ready to begin again.
+    transition: null
+    reflection: >
+      What are you carrying that started as inspiration and became
+      obligation? What would happen if you set some of it down? What
+      are you afraid would collapse?
+    aside: >
+      The Ten of Wands is Saturn in Sagittarius — limitation and
+      weight in the sign of the quest. Tens live in Malkuth, the
+      Sephirah of the material world — where everything becomes
+      real, physical, heavy. The suit began in Kether (pure potential)
+      and ends in Malkuth (material consequence). Every suit's Ten
+      is the full manifestation of its element, for better or worse.
+      In Wands, full manifestation means: you got what you wanted.
+      Now carry it.
+
+connections:
+  - walk: four-lives-cups
+    relationship: parallel
+    description: >
+      The same Ace-to-Ten arc through Water instead of Fire. Where Wands
+      traces the life of creative will, Cups traces the life of emotional
+      experience. Read them side by side to see how the same numbered
+      stages (the Five's disruption, the Eight's movement, the Ten's
+      completion) manifest in different elements.
+  - walk: fools-journey
+    relationship: parallel
+    description: >
+      The Fool's Journey walks the Major Arcana as a single life. The
+      Life of Fire walks a single suit as a single project or passion.
+      The Major journey is about becoming whole; the Wands journey is
+      about what it costs to create something real.
+  - walk: descent-and-return
+    relationship: counterpoint
+    description: >
+      The Descent goes down. The Life of Fire goes forward — and then
+      gets crushed under its own weight. The Descent's suffering is
+      transformative; the Ten of Wands' suffering is the price of
+      success. Different kinds of heavy.

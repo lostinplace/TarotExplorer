@@ -1,0 +1,140 @@
+id: major-04
+name: The Emperor
+arcana: major
+suit: null
+rank: 4
+image: RWSa-T-04.png
+symbol: 🏛️
+upright:
+  keywords:
+    - Authority
+    - Structure
+    - Stability
+    - Father figure
+    - Strategic mastery
+  meaning: >
+    The Emperor brings order from chaos. He is the architect of civilization —
+    rational, protective, and commanding. His throne is built on experience and
+    earned authority. Where The Empress creates through love, The Emperor
+    structures through law. This is the power to define boundaries, establish
+    systems, and hold ground.
+reversed:
+  keywords:
+    - Tyranny
+    - Rigidity
+    - Domination
+    - Inflexibility
+    - Absent authority
+  meaning: >
+    Reversed, authority becomes authoritarianism. Excessive control, inability
+    to adapt, or a father wound that needs healing. Can also indicate a lack of
+    structure — chaos from the absence of leadership, not just its excess.
+    The question is whether the rules serve the people or the ruler.
+imagery:
+  - element: Stone throne with four ram heads
+    significance: >
+      The throne is carved from stone — unyielding, permanent, the foundation
+      of civilization. The four rams' heads reference Aries, the cardinal fire
+      sign that initiates and conquers. They face all four directions,
+      suggesting dominion over the entire manifest world.
+    tradition: Astrological (Aries) / Imperial iconography
+  - element: Barren mountain landscape
+    significance: >
+      Unlike The Empress's lush garden, The Emperor's domain is stark and
+      rocky. This is deliberate contrast: his power operates in the realm of
+      structure, not organic growth. Mountains represent achievement, ambition,
+      and the heights reached through discipline. Nothing grows here except
+      through effort.
+    tradition: Landscape symbolism / Masculine archetype
+  - element: Ankh scepter in right hand
+    significance: >
+      The Egyptian ankh — the key of life — held as a scepter of authority.
+      Power over life itself, wielded through the dominant hand. The ankh
+      connects temporal authority to eternal principles — his rule claims
+      divine sanction.
+    tradition: Egyptian / Hermetic
+  - element: Orb in left hand
+    significance: >
+      The globus — dominion over the material world. Held in the left
+      (receptive) hand while the ankh is in the right (active) hand: he
+      receives the world and acts upon it with the power of life.
+    tradition: Imperial / Christian sovereign symbolism
+  - element: Red robe over armor
+    significance: >
+      Beneath the red robe of passion and authority lies armor — he is always
+      prepared for conflict. The red dominates: Mars energy, Aries fire,
+      the will to power. But the armor beneath reminds us that authority
+      requires vigilance and the willingness to defend what you've built.
+    tradition: Martial / Alchemical (rubedo)
+correspondences:
+  element: Fire
+  planet: Mars
+  zodiac: Aries
+  hebrew_letter: "Heh (ה)"
+  tree_of_life: "Path 15: Chokmah (Wisdom) → Tiphareth (Beauty)"
+  numerology: >
+    4 — stability, the square, the four elements in fixed arrangement.
+    Four walls, four directions, four legs of the throne. The first number
+    that creates an enclosed space. Structure itself.
+  colors:
+    - Red (Mars, authority, will, Aries fire)
+    - Orange (ambition, vitality)
+    - Grey (stone, permanence, unyielding structure)
+connections:
+  - card: major-03
+    relationship: polarity
+    description: >
+      The Emperor and Empress are the archetypal masculine and feminine
+      principles of creation. She nurtures through abundance; he structures
+      through authority. Garden and mountain, love and law.
+  - card: major-16
+    relationship: shadow
+    description: >
+      The Tower destroys what The Emperor builds. Every rigid structure
+      eventually meets the lightning bolt. The Emperor's shadow is the belief
+      that his constructions are permanent — The Tower proves they aren't.
+  - card: major-05
+    relationship: sequence
+    description: >
+      The Emperor establishes secular authority; The Hierophant extends it
+      into spiritual doctrine. Temporal power followed by sacred law — the
+      two pillars of institutional civilization.
+  - card: major-11
+    relationship: echo
+    description: >
+      Justice echoes The Emperor's concern with order, but impersonally.
+      The Emperor rules from personal authority; Justice operates through
+      abstract principle. Both sit on thrones; one is a patriarch, the
+      other is an arbiter.
+themes:
+  - "The social contract — why people consent to authority and what happens when they don't"
+  - "Structure as liberation — the paradox that boundaries create freedom"
+  - "The father archetype — protection, law, and the wounds of patriarchy"
+  - "Empire-building — the drive to create lasting systems beyond oneself"
+questions:
+  - "Where do you need more structure in your life, and where do you need less?"
+  - "Whose authority do you respect, and why — what earned it?"
+  - "Are your rules serving the life they're meant to protect, or have they become the point?"
+  - "What is your relationship with your own power to command and define?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite describes The Emperor as realization, effect, and development —
+      the masculine complement to The Empress. His emphasis on the Aries
+      symbolism is worth noting.
+    section: "Part II: The Major Trumps — IV. The Emperor"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack explores the tension between benevolent structure and oppressive
+      control. Her feminist reading questions whether the Emperor archetype
+      can exist without domination.
+    section: "Chapter 4: The Emperor"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's Emperor is more explicitly alchemical — sulfur, the active
+      male principle. His treatment foregrounds the relationship between
+      authority and creative fire.
+    section: "Atu IV: The Emperor"

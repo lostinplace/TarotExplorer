@@ -1,0 +1,141 @@
+id: major-08
+name: Strength
+arcana: major
+suit: null
+rank: 8
+image: RWSa-T-08.png
+symbol: 🦁
+upright:
+  keywords:
+    - Courage
+    - Inner strength
+    - Patience
+    - Compassion
+    - Gentle mastery
+  meaning: >
+    Strength tames the lion not through force but through patience and love.
+    True power is gentle — it comes from mastering your own fears and impulses
+    rather than conquering external enemies. After The Chariot's brute will,
+    Strength reveals a deeper kind of power: the kind that opens jaws with
+    bare hands and a soft touch.
+reversed:
+  keywords:
+    - Self-doubt
+    - Weakness
+    - Raw emotion
+    - Insecurity
+    - Burnout from overgiving
+  meaning: >
+    Reversed, Strength signals a loss of confidence, letting fear or anger take
+    the reins, or doubting your own resilience. Can also indicate compassion
+    fatigue — giving so much gentleness to others that you have none left for
+    yourself. The lion is winning.
+imagery:
+  - element: Woman gently opening a lion's mouth
+    significance: >
+      The central image: a woman with bare hands parts the jaws of a lion.
+      No weapon, no chain, no struggle visible. Her touch is gentle — she
+      doesn't fight the beast, she meets it. This is the core teaching: the
+      most dangerous forces are mastered through relationship, not violence.
+    tradition: Fortitude virtue tradition / Alchemical
+  - element: Lemniscate (infinity symbol) above her head
+    significance: >
+      The same infinity symbol that appears over The Magician. Where The
+      Magician channels infinite power through tools and will, she channels
+      it through patience and courage. Both access the same source; the
+      method differs entirely.
+    tradition: Hermetic / Mathematical mysticism
+  - element: White robe with flower garland
+    significance: >
+      Purity and nature — she is adorned with flowers, not armor. The white
+      robe echoes The Magician's white undergarment: spiritual foundation.
+      The flowers connect her to The Empress's garden — this is a feminine
+      power, generative and organic, not mechanical or martial.
+    tradition: Virtue allegory / Nature symbolism
+  - element: The lion — golden, maned, full-bodied
+    significance: >
+      Leo, the astrological sign: pride, ego, raw vital force, animal nature.
+      The lion is not evil — it's simply untamed. It represents passion,
+      instinct, rage, desire — everything in us that is powerful and
+      potentially destructive. It doesn't need to be killed; it needs to
+      be understood.
+    tradition: Astrological (Leo) / Jungian shadow work
+  - element: Gentle landscape — green and golden
+    significance: >
+      Unlike The Emperor's barren mountains or The Chariot's battlefield,
+      Strength's landscape is calm and open. A single mountain in the distance
+      — achievement is present but not dominant. The environment reflects the
+      card's energy: spacious, warm, unhurried.
+    tradition: Pastoral / Landscape symbolism
+correspondences:
+  element: Fire
+  planet: Sun
+  zodiac: Leo
+  hebrew_letter: "Teth (ט)"
+  tree_of_life: "Path 19: Chesed (Mercy) → Geburah (Severity)"
+  numerology: >
+    8 — the number of balance, karma, and infinite cycling (the lemniscate
+    is an 8 on its side). Eight follows seven's quest with the power that
+    comes from inner mastery. In the I Ching, 8 is the number of holding
+    together.
+  colors:
+    - Yellow (solar energy, Leo, courage)
+    - White (purity, spiritual strength)
+    - Green (nature, growth, the living force)
+connections:
+  - card: major-07
+    relationship: sequence
+    description: >
+      The Chariot conquers through external will; Strength masters through
+      internal patience. The progression from force to grace — after you
+      prove you can overpower something, you learn you don't need to.
+  - card: major-01
+    relationship: echo
+    description: >
+      Both figures wear the lemniscate — both channel infinite power. The
+      Magician uses tools and technique; Strength uses bare hands and
+      compassion. Two faces of the same mastery.
+  - card: major-11
+    relationship: polarity
+    description: >
+      Strength and Justice are the two forms of power in the Major Arcana —
+      inner and outer, mercy and severity, heart and mind. Strength bends
+      without breaking; Justice cuts without flinching.
+  - card: major-15
+    relationship: shadow
+    description: >
+      The Devil shows what happens when the lion wins — when instinct and
+      desire control you instead of the reverse. Strength's shadow is the
+      chains of compulsion, the beast you couldn't gentle.
+themes:
+  - "Soft power — influence through presence rather than force"
+  - "The relationship between courage and vulnerability — you can't have one without the other"
+  - "Befriending the shadow — Jung's insight that what we fight grows stronger"
+  - "Emotional regulation as a spiritual discipline"
+questions:
+  - "What in you is the lion — what passion or fear have you been trying to suppress instead of understand?"
+  - "Where are you using force when gentleness would be more effective?"
+  - "What does courage look like when no one is watching?"
+  - "How do you care for your own resilience — what replenishes your patience?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite swapped Strength (VIII) and Justice (XI) from their Marseille
+      positions to match Golden Dawn attributions. Understanding why reveals
+      his priorities about the journey's structure.
+    section: "Part II: The Major Trumps — VIII. Strength"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading emphasizes the feminine aspect of strength — she
+      explores why the card depicts a woman, not a warrior, and what that
+      says about the nature of real power.
+    section: "Chapter 8: Strength"
+  - title: The Book of Thoth
+    author: Aleister Crowley
+    relevance: >
+      Crowley's "Lust" card reframes Strength as ecstasy and divine
+      intoxication — the Scarlet Woman riding the Beast. A very different
+      reading that illuminates the card's wilder undercurrents.
+    section: "Atu XI: Lust"

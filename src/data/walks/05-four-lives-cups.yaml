@@ -1,0 +1,426 @@
+id: four-lives-cups
+name: "The Life of Water"
+description: >
+  The story of an emotional experience from first feeling to fulfillment or
+  crisis. The Cups suit traces the life cycle of love, connection, and the
+  heart through the element of Water — from the Ace's opened heart through
+  partnership, celebration, withdrawal, grief, nostalgia, illusion, departure,
+  satisfaction, and finally the vision of emotional wholeness. This is the
+  life of anyone who has ever loved.
+author: null
+tradition: "Elemental / Suit progression"
+
+acts:
+  - id: opening
+    name: "The Opening"
+    description: >
+      The heart opens. From the first overflow of feeling through partnership
+      and celebration — the generous early stage where love seems infinite
+      and the cup never empties.
+    steps:
+      - cups-overflow
+      - cups-union
+      - cups-dance
+      - cups-apathy
+
+  - id: heartbreak
+    name: "The Heartbreak"
+    description: >
+      The cup spills. Loss, nostalgia, illusion — the middle passage where
+      the heart discovers that love has a shadow, that feeling deeply means
+      grieving deeply, and that not every vision the heart offers is true.
+    steps:
+      - cups-spill
+      - cups-memory
+      - cups-mirage
+
+  - id: reckoning
+    name: "The Reckoning"
+    description: >
+      The heart makes its choice. Walking away, sitting with satisfaction,
+      or reaching for the whole vision — the final stretch where emotional
+      experience matures from feeling into wisdom.
+    steps:
+      - cups-departure
+      - cups-contentment
+      - cups-rainbow
+
+steps:
+  - id: cups-overflow
+    card: cups-01
+    title: "The Overflow"
+    narrative: >
+      A hand from a cloud holds a golden chalice. Five streams pour from it —
+      the five senses, the five rivers of feeling. A dove descends with a
+      communion wafer. Lotuses bloom on the water below. The cup doesn't
+      just hold — it overflows. There is more here than the vessel can contain.
+
+
+      This is the heart opening. Not to a specific person or situation — to
+      the capacity for feeling itself. The Ace of Cups is not love. It's the
+      ability to love. The readiness. The moment your chest unlocks and you
+      realize: I can be reached.
+
+
+      Everything that follows in this suit — the unions, the celebrations,
+      the grief, the departures — requires this opening. Without it, the
+      cups are just empty vessels.
+    transition: >
+      The heart is open. And an open heart, like water, seeks its level.
+      It flows toward the nearest vessel that can hold it.
+    reflection: >
+      When did your heart last open — not to someone, but in general?
+      What was the moment before you knew what the feeling was for?
+    aside: >
+      The Ace of Cups in Kether is Water at its most abstract — the
+      potential for all emotional experience before any has occurred.
+      The dove is the Holy Spirit, but also Aphrodite's bird and the
+      soul-bird of Egyptian tradition. The five streams are sometimes
+      read as the five senses, sometimes as the five wounds of Christ,
+      sometimes as the five rivers of the underworld. All are correct:
+      to feel fully is sacred, painful, and ancient.
+
+  - id: cups-union
+    card: cups-02
+    title: "The Meeting"
+    narrative: >
+      Two figures face each other, each holding a cup. Above them, a
+      caduceus rises — two snakes entwined around a winged staff, the
+      symbol of Hermes, of healing, of the union of opposites. A lion's
+      head presides. The cups reach toward each other.
+
+
+      The open heart has found a response. The Two of Cups is the moment
+      of mutual recognition — I see you, you see me, and something
+      between us is real. This is partnership in its purest form: two
+      separate vessels discovering they share the same water.
+
+
+      It doesn't have to be romantic. The Two of Cups is any genuine
+      meeting — friendship, creative partnership, the moment a therapist
+      and client click, the instant two strangers realize they understand
+      each other. The caduceus says: this connection heals.
+    transition: >
+      Two have met. And when two become a we, a third thing is born —
+      the shared joy that belongs to neither person alone.
+    reflection: >
+      Who in your life did you recognize — not gradually, but instantly?
+      What did that recognition feel like?
+    aside: >
+      The Two of Cups is Venus in Cancer — love and beauty in the sign
+      of home and nurturing. The caduceus connects to the Magician's
+      Mercury energy but here it serves connection rather than will.
+      Twos in Chokmah are the first division from unity — the moment
+      the One becomes Two. In Cups, that division is not separation
+      but meeting: you need two to have a relationship.
+
+  - id: cups-dance
+    card: cups-03
+    title: "The Celebration"
+    narrative: >
+      Three women dance in a circle, cups raised high. A garden of fruit
+      and flowers surrounds them. The harvest is abundant. The cups overflow
+      not into each other but into the air — shared joy, expressed freely,
+      the kind of happiness that wants witnesses.
+
+
+      The Two was private. The Three is communal. The heart's capacity
+      has expanded from one-to-one into the wider circle: friendship,
+      community, the discovery that joy multiplies when shared. This is
+      the card of the dinner party, the reunion, the moment when
+      separate happinesses combine into something collective.
+
+
+      The dance is a circle because emotional abundance, at its best,
+      flows in a loop — given, received, given again.
+    transition: >
+      The dance slows. The party ends. And in the quiet after celebration,
+      a strange mood arrives — not sadness, but a turning inward. The
+      cup that was raised is now being looked into.
+    reflection: >
+      When was the last time you felt genuine shared joy — not performed
+      happiness but the real thing, in company? What made it possible?
+    aside: >
+      The Three of Cups is Mercury in Cancer — communication in the sign
+      of emotional home. Threes in Binah give form to the element: Water
+      takes the shape of celebration, community, shared ritual. This card
+      is sometimes read as "the coven" — three women in a sacred circle,
+      the triple goddess, the feminine creative triad.
+
+  - id: cups-apathy
+    card: cups-04
+    title: "The Turning Away"
+    narrative: >
+      A figure sits under a tree, arms crossed, staring at three cups on
+      the ground before him. A fourth cup is offered by a hand from a
+      cloud — the same divine hand that offered the Ace. He doesn't take
+      it. He doesn't even look at it.
+
+
+      After the overflow, the union, and the dance: apathy. The Four of
+      Cups is the emotional hangover — the discovery that even genuine
+      feeling becomes routine. The three cups in front of him are real
+      blessings, real relationships, real joys. He can't feel them
+      anymore. And the new cup being offered? He's too numb to notice.
+
+
+      This is not depression. It's saturation. The heart, flooded with
+      feeling, shuts down to process. The turning away is necessary but
+      dangerous — necessary because the heart needs rest, dangerous
+      because rest can become refusal.
+    transition: >
+      He sits. The offered cup waits. And while he's looking away from
+      what he has, something that cannot be ignored arrives — loss.
+    reflection: >
+      What blessings are you currently unable to feel? Not because
+      they aren't real, but because you've become saturated? What cup
+      is being offered that you're not seeing?
+    aside: >
+      The Four of Cups is Moon in Cancer — the emotional unconscious
+      in its home sign. Fours in Chesed are stability — but in Cups,
+      emotional stability tips into stagnation. The cloud-hand offering
+      the fourth cup is the same divine source as the Ace. Grace is
+      still available. The figure's inability to receive it is the
+      crisis of the Four: when you've had enough feeling, even gifts
+      from the divine can't reach you.
+
+  - id: cups-spill
+    card: cups-05
+    title: "The Spill"
+    narrative: >
+      Three cups have fallen. The wine is on the ground. A cloaked figure
+      stands over them, head bowed, wrapped in grief. Behind him — unseen —
+      two cups still stand. A bridge leads to a house on the far bank. The
+      life he built is still there. He can't see it.
+
+
+      Loss arrives. Not the dramatic loss of the Tower — the intimate loss
+      of something that mattered to the heart. A relationship ended. A
+      trust broken. A feeling that was alive and is now dead on the ground.
+      The Five of Cups is grief in its most focused form: the inability to
+      see anything except what's missing.
+
+
+      The two standing cups are the truth the grief hides: not everything
+      is gone. But grief doesn't work on logic. It narrows vision to the
+      exact shape of the wound.
+    transition: >
+      The grief persists. But memory, even painful memory, has a strange
+      sweetness. The figure begins to turn — not toward the standing cups,
+      not yet — but toward the past. Toward a time before the spill.
+    reflection: >
+      What have you lost that narrowed your vision so completely you
+      couldn't see what remained? When did the two standing cups finally
+      come into focus?
+    aside: >
+      The Five of Cups is Mars in Scorpio — aggressive, transformative
+      energy turned inward as grief. Fives in Geburah are always
+      disruptions. In Cups, the disruption is emotional devastation.
+      The bridge in the background is the path forward — but the
+      figure's back is to it. In the suit's life cycle, the Five is
+      the pivot: everything before it was opening; everything after it
+      is reckoning.
+
+  - id: cups-memory
+    card: cups-06
+    title: "The Garden of Memory"
+    narrative: >
+      Two children in a garden. One offers the other a cup filled with
+      flowers. A village behind them. An old figure walks away in the
+      background, bent with age or care.
+
+
+      After the Five's grief, the heart retreats to the safest place it
+      knows: the past. The Six of Cups is nostalgia as medicine — the
+      memory of a time when cups were filled with flowers, not wine, and
+      the exchange between people was simple and generous.
+
+
+      This is a real card of healing. The children are real. The garden
+      is real. The sweetness is not false. But it is backward-looking.
+      The old figure walking away is the present self, leaving the scene —
+      because you can visit the garden of memory, but you cannot live
+      there.
+    transition: >
+      The memory warms. The heart thaws. But warming brings new
+      visions — and not all of them are real. The heart, recovering
+      from grief, is about to be tested by its own imagination.
+    reflection: >
+      What memory do you return to for comfort? Does it heal you or
+      keep you from moving forward? Can it do both?
+    aside: >
+      The Six of Cups is Sun in Scorpio — light and warmth shining into
+      the sign of depth and transformation. Sixes in Tiphareth are
+      harmony, beauty, the heart of the Tree. In the Descent walk, this
+      card appears as "the first memory of home." Here in the suit's
+      life cycle, it serves the same function: the heart's first
+      reassurance that it can still feel something good.
+
+  - id: cups-mirage
+    card: cups-07
+    title: "The Visions"
+    narrative: >
+      Seven cups float in clouds before a shadowed figure. In them:
+      a castle, jewels, a laurel wreath, a dragon, a snake, a glowing
+      figure, a veiled face. Everything the heart could want. Everything
+      the heart could fear. All floating, all equally vivid, all equally
+      ungraspable.
+
+
+      After memory, imagination. The Seven of Cups is the heart
+      overwhelmed by its own visions — dreams, fears, fantasies, desires
+      all rising at once. Which cup is real? Which is illusion? The
+      figure doesn't move to grab any of them, because choosing one means
+      releasing six, and the heart, still recovering from loss, is
+      terrified of making the wrong choice.
+
+
+      This is the card of beautiful paralysis. Every option glitters.
+      None has been tested. And the figure stands in the fog, dreaming
+      instead of choosing.
+    transition: >
+      The visions don't resolve. They can't — not from here, not while
+      the figure stands still. Something must break the spell. Not a
+      choice toward something, but a departure from everything.
+    reflection: >
+      What fantasies are you entertaining instead of acting? Which of
+      your seven cups is the real one, and how would you know?
+    aside: >
+      The Seven of Cups is Venus in Scorpio — desire in the sign of
+      the depths. In the Descent walk, this card appears at the bottom
+      of the underworld as "what lives below." Here in the suit's
+      progression, it's the same content surfacing into waking life:
+      the unconscious presenting its full inventory of desires and
+      fears. Sevens in Netzach are emotion and vision at their most
+      raw. The task is not to reject the visions but to learn to
+      read them.
+
+  - id: cups-departure
+    card: cups-08
+    title: "The Leaving"
+    narrative: >
+      A figure in a red cloak turns his back on eight stacked cups and
+      walks toward a mountain pass under a waning moon. The cups are
+      intact. The stack is stable. Nothing is wrong. And he leaves anyway.
+
+
+      The Eight of Cups is the most mature card in the suit — the
+      moment the heart understands that something can be good and still
+      not be enough. The eight cups represent everything he's accumulated:
+      real relationships, real experiences, a real emotional life. They're
+      not broken. He's not angry. He's complete with them.
+
+
+      The red cloak is passion. The moon is intuition. The mountain pass
+      is hard. He goes because the heart, when it's honest, knows the
+      difference between comfort and calling.
+    transition: >
+      He walks. The cups don't fall. The moon lights enough of the path.
+      And ahead — not immediately, but eventually — something that the
+      eight cups couldn't provide.
+    reflection: >
+      What have you left that wasn't broken? What made you go — and did
+      the going turn out to be the right thing, even though the staying
+      would have been easier?
+    aside: >
+      The Eight of Cups is Saturn in Pisces — structure and limitation
+      in the sign of dissolution. In the Descent walk, this card is
+      "the choice to leave" — the first step into the underworld. Here,
+      in the suit's arc, it's the same departure but read as emotional
+      maturity: the ability to recognize when a chapter is complete
+      even when nothing is wrong.
+
+  - id: cups-contentment
+    card: cups-09
+    title: "The Satisfaction"
+    narrative: >
+      A well-dressed figure sits with arms crossed and a broad smile.
+      Behind him, nine cups are arranged in an arc on a draped table.
+      He is pleased. He is full. The "wish card" — the card of getting
+      what you wanted.
+
+
+      After the departure, after walking away from what was merely good —
+      the Nine of Cups is the arrival at what is genuinely satisfying.
+      Not the frantic overflow of the Ace or the bittersweet memory of
+      the Six. Deep, settled, physical contentment. The smile is not
+      ecstatic. It's the smile of someone who has been through the whole
+      cycle — opening, union, celebration, apathy, grief, memory,
+      illusion, departure — and has arrived somewhere real.
+
+
+      The crossed arms say: I'm complete. For now, I need nothing more.
+    transition: >
+      He sits in satisfaction. And from that settled fullness, the final
+      vision arrives — not a wish for himself, but a vision of what
+      emotional wholeness looks like for everyone.
+    reflection: >
+      What does genuine satisfaction feel like — not excitement, not
+      relief, but the quiet sense that what you have is enough? When
+      did you last feel it?
+    aside: >
+      The Nine of Cups is Jupiter in Pisces — abundance and expansion
+      in the sign of universal feeling. Nines in Yesod are near-
+      completion, the fullness before the final step. This is
+      traditionally the "wish card" — what you wished for, granted. But
+      note the position: after the Eight's departure. The wish was not
+      for more. The wish was to feel at home in your own emotional life.
+
+  - id: cups-rainbow
+    card: cups-10
+    title: "The Rainbow"
+    narrative: >
+      A couple stands with arms outstretched beneath a rainbow of ten
+      cups. Two children dance beside them. A house sits in a green
+      landscape. The scene is domestic, joyful, complete. The rainbow
+      is a covenant — the promise after the flood.
+
+
+      The Ten of Cups is the suit's vision of wholeness. Not personal
+      satisfaction (that was the Nine) but shared fulfillment — the
+      emotional life fully realized in relationship, family, home,
+      community. The rainbow says: the storm happened. The flood came.
+      And this is what grew after.
+
+
+      The children are dancing because they don't know about the storm.
+      The parents' arms are raised because they do. The Ten of Cups is
+      joy that has survived grief, departure, illusion, and apathy —
+      and is real precisely because it was tested by all of them.
+    transition: null
+    reflection: >
+      What is your Ten of Cups — your vision of emotional wholeness?
+      Is it behind you, ahead of you, or the thing you're standing in
+      right now without recognizing it?
+    aside: >
+      The Ten of Cups is Mars in Pisces — active emotional force in the
+      sign of universal feeling. Tens in Malkuth are full manifestation.
+      In Cups, full manifestation is shared love — not the dramatic
+      passion of the Two, but the settled, tested, domestic love that
+      comes after everything else. The rainbow echoes Genesis — the
+      covenant after the flood. The suit began with a dove descending
+      in the Ace; it ends with a rainbow. Both are post-deluge symbols.
+      The emotional life cycle is a flood. The Ten is what grows in
+      the new earth.
+
+connections:
+  - walk: four-lives-wands
+    relationship: parallel
+    description: >
+      Fire and Water: the life of will versus the life of feeling.
+      Both follow the same Ace-to-Ten arc, but Wands burn out under
+      the weight of success while Cups navigate the interior landscape
+      of loss, memory, and ultimately satisfied love.
+  - walk: descent-and-return
+    relationship: deepens
+    description: >
+      The Descent borrows five Cups cards (Eight, Five, Seven, Six, Ace)
+      and weaves them into a mythic framework. Reading the full Cups
+      life cycle shows how those cards function as stages in an emotional
+      progression, not just symbolic stations in an underworld journey.
+  - walk: four-lives-swords
+    relationship: parallel
+    description: >
+      The same arc through Air — the life of thought and conflict.
+      Where Cups navigates feeling, Swords navigates the mind's
+      relationship with truth, pain, and clarity.

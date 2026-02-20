@@ -1,0 +1,130 @@
+﻿id: cups-01
+name: Ace of Cups
+arcana: minor
+suit: cups
+rank: 1
+image: RWSa-C-0A.png
+symbol: 🍷
+upright:
+  keywords:
+    - New love
+    - Compassion
+    - Emotional awakening
+    - Creativity
+    - Spiritual nourishment
+  meaning: >
+    A chalice overflows with five streams of living water — the senses awakened.
+    This is the wellspring of emotion, the beginning of love, the opening of the
+    heart. The Ace of Cups is the seed of all emotional experience: love given
+    and received, creative inspiration, spiritual communion.
+reversed:
+  keywords:
+    - Emotional loss
+    - Blocked feelings
+    - Emptiness
+    - Repression
+    - Unrequited love
+  meaning: >
+    The cup is upturned or withheld. Emotional numbness, blocked creativity, or
+    a heart closed to love and connection. You may be refusing an offering of
+    grace, or the wellspring has dried up through neglect. Sometimes indicates
+    love that cannot land — the feeling is there but has nowhere to go.
+imagery:
+  - element: Giant hand emerging from a cloud, holding a chalice
+    significance: >
+      The Hand of God — divine offering that appears unbidden. As with all four
+      Aces, the gift comes from beyond the veil of clouds. You did not earn
+      this; it is grace. The hand extends from the right (traditionally the
+      side of mercy in Kabbalistic symbolism).
+    tradition: Christian mysticism / Kabbalistic
+  - element: Five streams of water pouring from the cup
+    significance: >
+      The five senses, or the five streams of Mercy from the Kabbalistic
+      tradition. Emotion is not abstract here — it flows through the body,
+      through perception, through lived experience. The water falls into the
+      lotus pond below, seeding new growth.
+    tradition: Kabbalistic / Christian sacramental
+  - element: A dove descending into the cup bearing a communion wafer marked with a cross
+    significance: >
+      The Holy Spirit descending — the dove of peace bringing the Eucharist.
+      This is emotional experience sanctified, love as a sacrament. The wafer
+      marked with a cross connects human feeling to divine purpose.
+    tradition: Christian — Acts 2, baptism of the Holy Spirit
+  - element: Lotus blossoms floating on the water below
+    significance: >
+      The lotus grows from mud into beauty — spiritual emergence from the
+      material. Twenty-six drops fall (the gematria of YHVH), and the lotuses
+      receive them. Emotional opening that is rooted in but transcends the
+      mundane.
+    tradition: Eastern spiritual / Kabbalistic numerology
+  - element: The W-shaped or yod-like droplets falling around the cup
+    significance: >
+      Yods — the Hebrew letter associated with the divine spark. They appear
+      on all four Aces, representing the descent of spiritual energy into a
+      specific elemental form. Here, divine fire becomes sacred water.
+    tradition: Kabbalistic — Yod as seed of the Tetragrammaton
+correspondences:
+  element: Water
+  planet: null
+  zodiac: null
+  hebrew_letter: null
+  tree_of_life: "Kether (1 — Crown) in Briah (the Creative/Emotional World)"
+  numerology: >
+    1 — the point of origin, pure potential. The Ace is the root of its
+    element, the seed before the tree. Not yet differentiated into specific
+    emotional experience — just the raw capacity to feel.
+  colors:
+    - Blue (water, emotion, depth)
+    - White (purity, spiritual grace)
+    - Gold (divine offering, sacred value)
+connections:
+  - card: cups-02
+    relationship: sequence
+    description: >
+      The Ace is love as potential; the Two is love directed toward another.
+      The undifferentiated emotional energy of the Ace finds its first
+      relationship, its first mirror.
+  - card: wands-01
+    relationship: polarity
+    description: >
+      The Ace of Wands is creative fire — inspiration as drive and will. The
+      Ace of Cups is creative water — inspiration as feeling and receptivity.
+      Together they represent the active and passive sources of creative energy.
+  - card: major-17
+    relationship: echo
+    description: >
+      The Star pours water from two vessels in a similar gesture of abundance
+      and renewal. Both cards speak to grace, hope, and spiritual nourishment
+      after difficulty. The Ace is the seed; the Star is the promise.
+themes:
+  - Grace — the gift that arrives without being earned
+  - Emotional beginnings — the first stirring of love, compassion, or creative feeling
+  - The sacred in feeling — emotion as spiritual experience, not just psychology
+  - Receptivity — the open vessel as a precondition for receiving
+questions:
+  - What emotional offering are you being asked to receive right now?
+  - Where in your life has your heart closed, and what would it take to reopen it?
+  - When has love or inspiration arrived unbidden — as pure grace?
+  - What is the relationship between your spiritual life and your emotional life?
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description emphasizes the Eucharistic imagery and the "house of
+      the true heart." Note his insistence that this card is about spiritual
+      love, not merely romantic feeling.
+    section: "Part III: The Minor Arcana — Ace of Cups"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack reads the Ace as the beginning of emotional awareness and
+      connects the five streams to the senses. Good entry point for
+      psychological interpretation.
+    section: "Cups: Ace"
+  - title: The Tarot — History, Symbolism, and Divination
+    author: Robert M. Place
+    relevance: >
+      Place traces the cup/chalice symbol through Grail legend, Christian
+      sacrament, and classical sources. Useful for understanding why Waite
+      chose this specific imagery.
+    section: "The Minor Arcana — Cups"

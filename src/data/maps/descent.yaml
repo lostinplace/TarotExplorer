@@ -1,0 +1,73 @@
+id: descent
+name: "The Descent and Return"
+description: >
+  A vertical map shaped like a well — down one side, through the depths,
+  back up the other. Cards are placed in narrative order along a U-shaped
+  path. The left column descends; the bottom row holds the depths; the
+  right column ascends. Depth on the map IS depth in the story.
+
+canvas:
+  width: 3000
+  height: 4500
+
+regions:
+  - id: threshold
+    name: "The Threshold"
+    description: "The surface world. The veil. The choice to descend."
+    center: [600, 400]
+    radius: 300
+
+  - id: descent
+    name: "The Descent"
+    description: "The stripping away. Each step removes something — control, certainty, identity, hope."
+    center: [600, 2000]
+    radius: 800
+
+  - id: depths
+    name: "The Depths"
+    description: "The bottom. No borrowed light. Only what was always there, invisible until everything else went dark."
+    center: [1500, 3800]
+    radius: 400
+
+  - id: return
+    name: "The Return"
+    description: "The slow surfacing. Not as you were — quieter, less defended, more whole."
+    center: [2400, 2000]
+    radius: 800
+
+paths:
+  # The descent — left column, going down
+  - { from: major-02, to: cups-08, label: "The choice to leave", style: solid }
+  - { from: cups-08, to: cups-05, label: "The cost", style: solid }
+  - { from: cups-05, to: major-12, label: "The surrender", style: solid }
+  - { from: major-12, to: major-13, label: "The death", style: solid }
+  - { from: major-13, to: swords-03, label: "The grief", style: solid }
+
+  # Into the depths — bottom curve
+  - { from: swords-03, to: major-18, label: "Into the underworld", style: solid }
+  - { from: major-18, to: cups-07, label: "What lives below", style: solid }
+
+  # The return — right column, going up
+  - { from: cups-07, to: cups-06, label: "The first memory", style: solid }
+  - { from: cups-06, to: major-17, label: "The gift", style: solid }
+  - { from: major-17, to: cups-01, label: "The cup refilled", style: solid }
+
+cards:
+  # === LEFT COLUMN — THE DESCENT ===
+  # Top to bottom, evenly spaced
+  major-02: [600, 400]        # The High Priestess — the guardian at the gate
+  cups-08: [600, 1000]        # Eight of Cups — the choice to walk away
+  cups-05: [600, 1600]        # Five of Cups — what spills
+  major-12: [600, 2200]       # The Hanged Man — the inversion
+  major-13: [600, 2800]       # Death — the stripping
+  swords-03: [600, 3400]      # Three of Swords — the heart pierced
+
+  # === BOTTOM — THE DEPTHS ===
+  major-18: [1200, 4000]      # The Moon — the underworld
+  cups-07: [1800, 4000]       # Seven of Cups — what lives below
+
+  # === RIGHT COLUMN — THE RETURN ===
+  # Bottom to top, mirroring the descent
+  cups-06: [2400, 3000]       # Six of Cups — the memory of home
+  major-17: [2400, 2000]      # The Star — the return as gift
+  cups-01: [2400, 1000]       # Ace of Cups — the cup refilled

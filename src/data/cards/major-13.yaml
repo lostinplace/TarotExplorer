@@ -1,0 +1,142 @@
+id: major-13
+name: Death
+arcana: major
+suit: null
+rank: 13
+image: RWSa-T-13.png
+symbol: 💀
+upright:
+  keywords:
+    - Transformation
+    - Endings
+    - Change
+    - Transition
+    - Release
+  meaning: >
+    Death rides through, and nothing remains unchanged. This is not physical
+    death but profound transformation — the old must die for the new to be
+    born. The card is impartial: kings and children, clergy and maidens all
+    stand in Death's path. What no longer serves you is being cleared away,
+    whether you're ready or not.
+reversed:
+  keywords:
+    - Resistance to change
+    - Stagnation
+    - Fear of endings
+    - Decay
+    - Incomplete transformation
+  meaning: >
+    Reversed, Death warns of clinging to what must end. Stagnation, fear of
+    necessary change, or a slow decay that comes from refusing to let go. The
+    transformation is trying to happen but you're blocking it — and what
+    doesn't transform cleanly rots.
+imagery:
+  - element: Skeleton in black armor riding a white horse
+    significance: >
+      The skeleton is what remains after everything else is stripped away —
+      the essential structure. The black armor suggests invincibility: you
+      cannot fight Death. The white horse represents purity of purpose — Death
+      is not malicious, only inevitable. He rides, not walks: there is
+      momentum to this process.
+    tradition: Four Horsemen (Revelation 6:8) / Danse Macabre
+  - element: Black banner with white Mystic Rose
+    significance: >
+      The five-petaled white rose on a black field — beauty and renewal
+      emerging from death. The Mystic Rose is a Rosicrucian symbol of
+      spiritual rebirth. The banner proclaims Death's true message: this
+      ending contains a new beginning. Black background, white flower —
+      life persists through and beyond destruction.
+    tradition: Rosicrucian / Alchemical (nigredo to albedo)
+  - element: Fallen king on the ground
+    significance: >
+      A king lies dead, his crown tumbled. No earthly authority is exempt.
+      Death is the great equalizer — the one force that neither power, nor
+      wealth, nor piety can negotiate with. The crown on the ground echoes
+      the memento mori tradition.
+    tradition: Danse Macabre / Memento mori
+  - element: Bishop, maiden, and child facing Death
+    significance: >
+      The bishop pleads, the maiden turns away, and the child offers flowers.
+      Three responses to transformation: petition, avoidance, and innocent
+      acceptance. Only the child meets Death without fear — the other figures
+      represent what we lose when we resist natural endings.
+    tradition: Medieval estates satire / Ars Moriendi
+  - element: Sun rising between two towers on the horizon
+    significance: >
+      Beyond the scene of death, the sun rises — the promise of renewal. The
+      two towers echo The Moon card (XVIII), suggesting the passage through
+      darkness leads to dawn. Death is not the end of the story; it's the
+      midpoint.
+    tradition: Solar rebirth / Egyptian (Ra's nightly journey)
+correspondences:
+  element: Water
+  planet: Pluto
+  zodiac: Scorpio
+  hebrew_letter: "Nun (נ)"
+  tree_of_life: "Path 24: Tiphareth (Beauty) → Netzach (Victory)"
+  numerology: >
+    13 — the number of transformation beyond the complete cycle of 12.
+    Thirteen breaks the cosmic order (12 months, 12 signs) and introduces
+    radical change. Feared as unlucky precisely because it represents what
+    lies beyond the comfortable pattern.
+  colors:
+    - Black (death, the void, the nigredo)
+    - White (purity, rebirth, the bones beneath)
+    - Pale yellow (the distant sunrise, renewal)
+connections:
+  - card: major-12
+    relationship: sequence
+    description: >
+      The Hanged Man surrenders; Death completes the transformation. Voluntary
+      release (12) becomes inevitable change (13). You can't choose what falls
+      away once you let go.
+  - card: major-16
+    relationship: echo
+    description: >
+      Both Death and The Tower dismantle what exists, but Death transforms
+      organically while The Tower shatters suddenly. Death is autumn; The
+      Tower is lightning.
+  - card: major-07
+    relationship: shadow
+    description: >
+      Death is The Chariot's shadow — the unstoppable force that willpower
+      cannot master. The Chariot's triumphant forward charge meets its limit
+      in Death's impassive advance.
+  - card: major-20
+    relationship: echo
+    description: >
+      Judgement echoes Death's theme of arising from endings — but at the
+      cosmic scale. Death transforms within one life; Judgement calls
+      forth new life from death itself.
+themes:
+  - "Impermanence as liberation — what freedom comes from accepting that everything ends"
+  - "The composting principle — what must decay to nourish what comes next"
+  - "Ego death — the psychological experience of identity dissolving and reforming"
+  - "The democracy of mortality — the one experience that truly equalizes all people"
+questions:
+  - "What in your life has already ended but you haven't acknowledged it yet?"
+  - "What would become possible if you stopped trying to keep something alive that wants to die?"
+  - "What are you afraid to lose, and is that fear protecting you or trapping you?"
+  - "When has an ending in your life turned out to be a necessary clearing?"
+references:
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite's description emphasizes the Mystic Rose on the banner and the
+      sunrise — he consistently points away from literal death toward
+      transformation. His restraint here is deliberate.
+    section: "Part II: The Major Trumps — XIII. Death"
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack's reading of the four figures — king, bishop, maiden, child —
+      as four responses to change is one of the most useful frameworks for
+      understanding this card in practice.
+    section: "Chapter 13: Death"
+  - title: The Tibetan Book of the Dead
+    author: Padmasambhava (trans. Robert Thurman)
+    relevance: >
+      The Bardo Thodol's treatment of death as a transitional state — not an
+      end but a passage requiring awareness — provides the deepest parallel
+      to the card's esoteric meaning.
+    section: "The Great Liberation Through Hearing"

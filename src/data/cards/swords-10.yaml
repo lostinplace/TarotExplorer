@@ -1,0 +1,120 @@
+id: swords-10
+name: Ten of Swords
+arcana: minor
+suit: swords
+rank: 10
+image: RWSa-S-10.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Rock bottom
+    - Painful ending
+    - Defeat
+    - Betrayal
+    - Finality
+  meaning: >
+    A figure lies face down with ten swords in their back. This is the most
+    dramatic image of defeat in the deck — total, complete, no ambiguity. And
+    yet: the sky is darkest near the figure but brightening on the horizon.
+    This is the end, but every end is also a beginning. You can't fall further
+    than the ground.
+reversed:
+  keywords:
+    - Recovery
+    - Worst is over
+    - Survival
+    - Refusing to let go
+    - Dramatic martyrdom
+  meaning: >
+    Reversed, the swords begin to fall out — you survived. The worst has
+    passed, and now the slow work of recovery begins. Can also indicate someone
+    who is clinging to victimhood, making the pain their identity, or
+    dramatizing suffering beyond what the situation warrants.
+imagery:
+  - element: Figure lying face down with ten swords in the back
+    significance: >
+      Complete overkill — ten swords for one person is absurd. Smith may
+      be suggesting that the catastrophe feels more total than it is, or
+      that the mind's tendency toward dramatic narrative has reached its
+      climax. This is the end of the suit's storyline of mental suffering.
+    tradition: RWS dramatic climax
+  - element: Golden dawn on the horizon
+    significance: >
+      Even in the darkest card of the suit, light appears. The dawn is
+      unmistakable — not bright yet, but coming. This is the hope embedded
+      in rock bottom: the only direction from here is up.
+    tradition: Solar symbolism — death and rebirth cycle
+  - element: Calm water in the background
+    significance: >
+      The water (emotion) has gone still. After the turbulence of the suit's
+      journey through conflict, anxiety, and grief, the emotional landscape
+      is finally at peace — because everything that could go wrong has.
+    tradition: Elemental — Water at rest
+  - element: Red cloak draped over the figure
+    significance: >
+      Red suggests life force, passion — still present even in apparent
+      death. The cloak also recalls royalty or dignity, suggesting that
+      even in defeat, something of value remains.
+    tradition: Color symbolism — vitality persisting
+correspondences:
+  element: Air
+  planet: Sun
+  zodiac: Gemini
+  hebrew_letter: null
+  tree_of_life: Malkuth (Kingdom) — manifestation, the physical plane, completion
+  numerology: >
+    10 — completion, the end of the cycle. In Swords, ten is the mind's
+    suffering made fully manifest. Malkuth grounds what was abstract — the
+    fears and anxieties of earlier cards become concrete experience.
+  colors:
+    - Black (the sky — total darkness before dawn)
+    - Gold (the horizon — the promise of renewal)
+    - Red (the cloak — life force enduring through defeat)
+connections:
+  - card: swords-09
+    relationship: sequence
+    description: >
+      The Nine feared the worst; the Ten is the worst actually happening.
+      But here's the paradox: the reality, while painful, also contains
+      the dawn the anxiety could never see.
+  - card: swords-01
+    relationship: cycle
+    description: >
+      The Ace's pure blade of truth completes its journey in the Ten's
+      total devastation. The next step is a new Ace — a new thought, a new
+      clarity rising from the wreckage.
+  - card: major-13
+    relationship: echo
+    description: >
+      Death and the Ten of Swords both depict endings that are also
+      transformations. Death is more dignified; the Ten is more dramatic.
+      Both insist: this chapter is over.
+  - card: major-20
+    relationship: echo
+    description: >
+      Judgement rises from the grave; the Ten of Swords is the grave. The
+      connection suggests that total defeat precedes total renewal.
+themes:
+  - "Rock bottom as a foundation — you can only build from here"
+  - "The dramatic end — when the mind's catastrophizing finally plays out"
+  - "Dawn after darkness — hope embedded in finality"
+  - "The difference between an ending and a death"
+questions:
+  - What part of your life has hit its absolute bottom?
+  - Can you see the dawn on the horizon, or only the swords?
+  - Are you clinging to this ending or ready to begin again?
+  - What ten-sword collapse eventually led to something better?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack notes the deliberate excess — ten swords for one person is
+      theatrical. She reads this as the mind's tendency to dramatize, even
+      at the point of genuine crisis.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite includes "advantage, profit, power" in the reversed meaning —
+      suggesting that the card's very extremity contains its reversal.
+    section: "Part III: The Minor Arcana — Suit of Swords"

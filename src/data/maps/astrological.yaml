@@ -1,0 +1,272 @@
+id: astrological
+name: Astrological Wheel
+description: >
+  Cards arranged by their Golden Dawn astrological correspondences on a zodiac
+  wheel. Zodiac signs around the outer ring, planets in the center. Minor pip
+  cards map to the 36 decans (10° segments of the zodiac). Court cards bridge
+  adjacent signs. Major Arcana sit on their corresponding sign or planet.
+
+canvas:
+  width: 5000
+  height: 5000
+
+regions:
+  # Zodiac signs at 30° intervals around the wheel
+  # Starting at Aries (traditional start), going counter-clockwise for celestial convention
+  # Radius ~1800 from center (2500, 2500)
+
+  - id: aries
+    name: "Aries ♈"
+    description: "Cardinal Fire. Initiative, courage, the self. Mars-ruled. Spring equinox."
+    center: [4200, 1600]
+    radius: 300
+
+  - id: taurus
+    name: "Taurus ♉"
+    description: "Fixed Earth. Stability, sensuality, value. Venus-ruled."
+    center: [4300, 2500]
+    radius: 300
+
+  - id: gemini
+    name: "Gemini ♊"
+    description: "Mutable Air. Communication, duality, curiosity. Mercury-ruled."
+    center: [4200, 3400]
+    radius: 300
+
+  - id: cancer
+    name: "Cancer ♋"
+    description: "Cardinal Water. Home, nurturing, emotion. Moon-ruled. Summer solstice."
+    center: [3400, 4200]
+    radius: 300
+
+  - id: leo
+    name: "Leo ♌"
+    description: "Fixed Fire. Creativity, pride, self-expression. Sun-ruled."
+    center: [2500, 4300]
+    radius: 300
+
+  - id: virgo
+    name: "Virgo ♍"
+    description: "Mutable Earth. Analysis, service, discernment. Mercury-ruled."
+    center: [1600, 4200]
+    radius: 300
+
+  - id: libra
+    name: "Libra ♎"
+    description: "Cardinal Air. Balance, justice, relationship. Venus-ruled. Autumn equinox."
+    center: [800, 3400]
+    radius: 300
+
+  - id: scorpio
+    name: "Scorpio ♏"
+    description: "Fixed Water. Transformation, depth, power. Mars/Pluto-ruled."
+    center: [700, 2500]
+    radius: 300
+
+  - id: sagittarius
+    name: "Sagittarius ♐"
+    description: "Mutable Fire. Expansion, philosophy, the quest. Jupiter-ruled."
+    center: [800, 1600]
+    radius: 300
+
+  - id: capricorn
+    name: "Capricorn ♑"
+    description: "Cardinal Earth. Ambition, structure, mastery. Saturn-ruled. Winter solstice."
+    center: [1600, 800]
+    radius: 300
+
+  - id: aquarius
+    name: "Aquarius ♒"
+    description: "Fixed Air. Innovation, community, the unconventional. Saturn/Uranus-ruled."
+    center: [2500, 700]
+    radius: 300
+
+  - id: pisces
+    name: "Pisces ♓"
+    description: "Mutable Water. Dreams, dissolution, transcendence. Jupiter/Neptune-ruled."
+    center: [3400, 800]
+    radius: 300
+
+  - id: planets
+    name: "Planetary Center"
+    description: "Major Arcana with planetary (rather than zodiacal) attributions orbit the center — the wandering stars that influence all signs."
+    center: [2500, 2500]
+    radius: 600
+
+paths:
+  # Zodiac circle
+  - { from: aries, to: taurus, label: null, style: solid }
+  - { from: taurus, to: gemini, label: null, style: solid }
+  - { from: gemini, to: cancer, label: null, style: solid }
+  - { from: cancer, to: leo, label: null, style: solid }
+  - { from: leo, to: virgo, label: null, style: solid }
+  - { from: virgo, to: libra, label: null, style: solid }
+  - { from: libra, to: scorpio, label: null, style: solid }
+  - { from: scorpio, to: sagittarius, label: null, style: solid }
+  - { from: sagittarius, to: capricorn, label: null, style: solid }
+  - { from: capricorn, to: aquarius, label: null, style: solid }
+  - { from: aquarius, to: pisces, label: null, style: solid }
+  - { from: pisces, to: aries, label: null, style: solid }
+  # Elemental triplicities
+  - { from: aries, to: leo, label: "Fire △", style: dashed }
+  - { from: leo, to: sagittarius, label: "Fire △", style: dashed }
+  - { from: sagittarius, to: aries, label: "Fire △", style: dashed }
+  - { from: taurus, to: virgo, label: "Earth △", style: dashed }
+  - { from: virgo, to: capricorn, label: "Earth △", style: dashed }
+  - { from: capricorn, to: taurus, label: "Earth △", style: dashed }
+  - { from: gemini, to: libra, label: "Air △", style: dashed }
+  - { from: libra, to: aquarius, label: "Air △", style: dashed }
+  - { from: aquarius, to: gemini, label: "Air △", style: dashed }
+  - { from: cancer, to: scorpio, label: "Water △", style: dashed }
+  - { from: scorpio, to: pisces, label: "Water △", style: dashed }
+  - { from: pisces, to: cancer, label: "Water △", style: dashed }
+
+cards:
+  # === MAJOR ARCANA — Zodiacal attributions (on the wheel) ===
+  major-04: [4150, 1450]      # Emperor — Aries
+  major-05: [4350, 2350]      # Hierophant — Taurus
+  major-06: [4250, 3250]      # Lovers — Gemini
+  major-07: [3500, 4050]      # Chariot — Cancer
+  major-08: [2500, 4150]      # Strength — Leo
+  major-09: [1500, 4050]      # Hermit — Virgo
+  major-11: [750, 3250]       # Justice — Libra
+  major-13: [650, 2350]       # Death — Scorpio
+  major-14: [750, 1450]       # Temperance — Sagittarius
+  major-15: [1500, 700]       # Devil — Capricorn
+  major-17: [2500, 550]       # Star — Aquarius
+  major-18: [3500, 700]       # Moon — Pisces
+
+  # === MAJOR ARCANA — Planetary attributions (center cluster) ===
+  major-00: [2500, 2200]      # Fool — Uranus/Air (elemental)
+  major-01: [2200, 2350]      # Magician — Mercury
+  major-02: [2800, 2350]      # High Priestess — Moon
+  major-03: [2350, 2550]      # Empress — Venus
+  major-10: [2650, 2550]      # Wheel of Fortune — Jupiter
+  major-12: [2200, 2700]      # Hanged Man — Neptune/Water (elemental)
+  major-16: [2800, 2700]      # Tower — Mars
+  major-19: [2500, 2800]      # Sun — Sun
+  major-20: [2350, 2200]      # Judgement — Pluto/Fire (elemental)
+  major-21: [2650, 2200]      # World — Saturn/Earth (elemental)
+
+  # === MINOR PIP CARDS — by Decan ===
+  # Golden Dawn decan assignments: each sign has 3 decans (10° each)
+  # Each decan gets one pip card. Order within sign: 1st, 2nd, 3rd decan.
+
+  # ARIES (Cardinal Fire): 2W, 3W, 4W
+  wands-02: [4050, 1550]      # 1st decan Aries (Mars in Aries)
+  wands-03: [4250, 1550]      # 2nd decan Aries (Sun in Aries)
+  wands-04: [4350, 1650]      # 3rd decan Aries (Venus in Aries)
+
+  # TAURUS (Fixed Earth): 5P, 6P, 7P
+  pentacles-05: [4200, 2400]  # 1st decan Taurus (Mercury in Taurus)
+  pentacles-06: [4350, 2500]  # 2nd decan Taurus (Moon in Taurus)
+  pentacles-07: [4200, 2600]  # 3rd decan Taurus (Saturn in Taurus)
+
+  # GEMINI (Mutable Air): 8S, 9S, 10S
+  swords-08: [4100, 3300]     # 1st decan Gemini (Jupiter in Gemini)
+  swords-09: [4250, 3400]     # 2nd decan Gemini (Mars in Gemini)
+  swords-10: [4100, 3500]     # 3rd decan Gemini (Sun in Gemini)
+
+  # CANCER (Cardinal Water): 2C, 3C, 4C
+  cups-02: [3300, 4100]       # 1st decan Cancer (Venus in Cancer)
+  cups-03: [3450, 4200]       # 2nd decan Cancer (Mercury in Cancer)
+  cups-04: [3300, 4300]       # 3rd decan Cancer (Moon in Cancer)
+
+  # LEO (Fixed Fire): 5W, 6W, 7W
+  wands-05: [2400, 4200]      # 1st decan Leo (Saturn in Leo)
+  wands-06: [2550, 4300]      # 2nd decan Leo (Jupiter in Leo)
+  wands-07: [2650, 4200]      # 3rd decan Leo (Mars in Leo)
+
+  # VIRGO (Mutable Earth): 8P, 9P, 10P
+  pentacles-08: [1500, 4100]  # 1st decan Virgo (Sun in Virgo)
+  pentacles-09: [1650, 4200]  # 2nd decan Virgo (Venus in Virgo)
+  pentacles-10: [1500, 4300]  # 3rd decan Virgo (Mercury in Virgo)
+
+  # LIBRA (Cardinal Air): 2S, 3S, 4S
+  swords-02: [700, 3300]      # 1st decan Libra (Moon in Libra)
+  swords-03: [850, 3400]      # 2nd decan Libra (Saturn in Libra)
+  swords-04: [700, 3500]      # 3rd decan Libra (Jupiter in Libra)
+
+  # SCORPIO (Fixed Water): 5C, 6C, 7C
+  cups-05: [600, 2400]        # 1st decan Scorpio (Mars in Scorpio)
+  cups-06: [750, 2500]        # 2nd decan Scorpio (Sun in Scorpio)
+  cups-07: [600, 2600]        # 3rd decan Scorpio (Venus in Scorpio)
+
+  # SAGITTARIUS (Mutable Fire): 8W, 9W, 10W
+  wands-08: [700, 1500]       # 1st decan Sagittarius (Mercury in Sag)
+  wands-09: [850, 1600]       # 2nd decan Sagittarius (Moon in Sag)
+  wands-10: [700, 1700]       # 3rd decan Sagittarius (Saturn in Sag)
+
+  # CAPRICORN (Cardinal Earth): 2P, 3P, 4P
+  pentacles-02: [1500, 700]   # 1st decan Capricorn (Jupiter in Cap)
+  pentacles-03: [1650, 800]   # 2nd decan Capricorn (Mars in Cap)
+  pentacles-04: [1500, 900]   # 3rd decan Capricorn (Sun in Cap)
+
+  # AQUARIUS (Fixed Air): 5S, 6S, 7S
+  swords-05: [2400, 600]      # 1st decan Aquarius (Venus in Aquarius)
+  swords-06: [2550, 700]      # 2nd decan Aquarius (Mercury in Aquarius)
+  swords-07: [2650, 600]      # 3rd decan Aquarius (Moon in Aquarius)
+
+  # PISCES (Mutable Water): 8C, 9C, 10C
+  cups-08: [3300, 700]        # 1st decan Pisces (Saturn in Pisces)
+  cups-09: [3450, 800]        # 2nd decan Pisces (Jupiter in Pisces)
+  cups-10: [3300, 900]        # 3rd decan Pisces (Mars in Pisces)
+
+  # === ACES — Pure elemental, placed at element's center of gravity ===
+  wands-01: [2500, 4450]      # Ace of Fire — near Leo (fixed fire)
+  cups-01: [550, 2650]        # Ace of Water — near Scorpio (fixed water)
+  swords-01: [2500, 500]      # Ace of Air — near Aquarius (fixed air)
+  pentacles-01: [4400, 2500]  # Ace of Earth — near Taurus (fixed earth)
+
+  # === COURT CARDS — bridging adjacent signs ===
+  # Golden Dawn: courts span the last decan of one sign + first two of the next
+  # Placed between their two signs
+
+  # Queen of Wands: Pisces/Aries cusp (Water of Fire)
+  wands-13: [3900, 1100]
+
+  # Knight of Wands: Scorpio/Sagittarius cusp
+  wands-12: [750, 1950]
+
+  # King of Wands: Cancer/Leo cusp
+  wands-14: [2900, 4250]
+
+  # Page of Wands: fixed fire anchor (Leo center)
+  wands-11: [2350, 4400]
+
+  # Queen of Cups: Gemini/Cancer cusp (Water of Water)
+  cups-13: [3850, 3700]
+
+  # Knight of Cups: Aquarius/Pisces cusp
+  cups-12: [3050, 650]
+
+  # King of Cups: Libra/Scorpio cusp
+  cups-14: [650, 2950]
+
+  # Page of Cups: fixed water anchor (Scorpio center)
+  cups-11: [600, 2250]
+
+  # Queen of Swords: Virgo/Libra cusp (Water of Air)
+  swords-13: [1150, 3850]
+
+  # Knight of Swords: Taurus/Gemini cusp
+  swords-12: [4350, 2950]
+
+  # King of Swords: Cancer/Leo boundary — wait, that's fire
+  # Actually: King of Swords: Capricorn/Aquarius cusp
+  swords-14: [1950, 650]
+
+  # Page of Swords: fixed air anchor (Aquarius center)
+  swords-11: [2650, 550]
+
+  # Queen of Pentacles: Sagittarius/Capricorn cusp (Water of Earth)
+  pentacles-13: [1150, 1150]
+
+  # Knight of Pentacles: Leo/Virgo cusp
+  pentacles-12: [1950, 4250]
+
+  # King of Pentacles: Aries/Taurus cusp
+  pentacles-14: [4350, 1950]
+
+  # Page of Pentacles: fixed earth anchor (Taurus center)
+  pentacles-11: [4400, 2650]

@@ -1,0 +1,108 @@
+id: swords-03
+name: Three of Swords
+arcana: minor
+suit: swords
+rank: 3
+image: RWSa-S-03.png
+symbol: ⚔️
+upright:
+  keywords:
+    - Heartbreak
+    - Grief
+    - Sorrow
+    - Painful truth
+    - Separation
+  meaning: >
+    Three swords pierce a heart against a backdrop of rain and grey cloud. One
+    of the most visceral images in the deck — there is no ambiguity here. This
+    is the pain of a truth that cannot be unfelt: betrayal, loss, the grief
+    that comes when the mind finally comprehends what the heart already knew.
+reversed:
+  keywords:
+    - Recovery from grief
+    - Releasing pain
+    - Forgiveness
+    - Repressed sorrow
+    - Moving through loss
+  meaning: >
+    Reversed, the swords begin to withdraw. The pain isn't gone, but the acute
+    phase is passing — grief is being processed rather than inflicted. Can also
+    indicate buried sorrow that needs to surface before healing can begin, or
+    the refusal to grieve that prolongs suffering.
+imagery:
+  - element: Three swords piercing a red heart
+    significance: >
+      The heart is the emotional center, pierced by three blades of intellect
+      or truth. This is not random violence — it is the precise pain of
+      understanding. Three suggests a triangle of involvement: betrayer,
+      betrayed, and the truth between them.
+    tradition: Sacred Heart imagery / Christian iconography inverted
+  - element: Heavy grey clouds and rain
+    significance: >
+      The entire sky weeps. There is no landscape, no ground, no shelter — just
+      the heart and its pain suspended in sorrow. The rain is both the external
+      situation and the internal state; they are indistinguishable.
+    tradition: Elemental — Water (emotion) falling through Air (mind)
+  - element: Absence of a human figure
+    significance: >
+      Unlike most RWS cards, no person is shown. The heart is universal,
+      disembodied — this pain belongs to everyone. Smith strips away identity
+      to present grief in its most elemental form.
+    tradition: Symbolic abstraction in RWS design
+correspondences:
+  element: Air
+  planet: Saturn
+  zodiac: Libra
+  hebrew_letter: null
+  tree_of_life: Binah (Understanding) — the Great Mother, form through limitation
+  numerology: >
+    3 — the triangle, synthesis, but also the first number that creates
+    complexity. In Swords, three truths intersect to create unavoidable pain.
+    Binah is "understanding through sorrow."
+  colors:
+    - Red (the heart — raw emotion, blood, love)
+    - Grey (clouds — depression, heaviness, the weight of truth)
+connections:
+  - card: swords-02
+    relationship: sequence
+    description: >
+      The Two's avoidance collapses into the Three's confrontation. What you
+      refused to see with the blindfold on now pierces you directly. The
+      stalemate breaks, and it breaks painfully.
+  - card: cups-03
+    relationship: polarity
+    description: >
+      The Three of Cups celebrates communion and joy; the Three of Swords
+      mourns separation and loss. Same number, opposite emotional registers —
+      the triangle of connection versus the triangle of betrayal.
+  - card: major-16
+    relationship: echo
+    description: >
+      The Tower shatters structures; the Three of Swords shatters the heart.
+      Both deliver necessary destruction — the pain of truth that cannot be
+      avoided, only endured.
+themes:
+  - "Necessary pain — some truths can only be learned through suffering"
+  - "Grief as a form of understanding (Binah)"
+  - "The clarity that comes after heartbreak"
+  - "Betrayal as a wound of knowledge, not just feeling"
+questions:
+  - What painful truth have you been circling without letting it land?
+  - Can you distinguish between pain that's teaching you and pain you're inflicting on yourself?
+  - What loss are you still carrying that you haven't fully grieved?
+  - When has heartbreak ultimately made you wiser?
+references:
+  - title: Seventy-Eight Degrees of Wisdom
+    author: Rachel Pollack
+    relevance: >
+      Pollack connects this card to the Kabbalistic concept of Binah as
+      "understanding through sorrow" — grief as a path to wisdom, not just
+      suffering.
+    section: "Minor Arcana: Swords"
+  - title: The Pictorial Key to the Tarot
+    author: Arthur Edward Waite
+    relevance: >
+      Waite lists "removal, absence, delay, division" — notably clinical
+      language for such an emotional image. The gap between his words and
+      Smith's image is telling.
+    section: "Part III: The Minor Arcana — Suit of Swords"

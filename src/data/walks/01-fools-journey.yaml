@@ -1,0 +1,889 @@
+id: fools-journey
+name: "The Fool's Journey"
+description: >
+  The oldest story the tarot tells. The Fool — numberless, nameless, carrying
+  nothing but potential — walks through the 22 Major Arcana as stages of a
+  single life. Each card is a teacher, a trial, or a transformation. The journey
+  moves from innocent encounter with the world, through inward crisis and
+  surrender, to cosmic integration and return. It is the Hero's Journey
+  rendered in 22 images.
+author: null
+tradition: "Western esoteric / Jungian / Joseph Campbell"
+
+acts:
+  - id: act-1
+    name: "Act I: The Worldly"
+    description: >
+      The Fool encounters the fundamental forces of external life — will,
+      intuition, abundance, structure, tradition, love, and conquest. These
+      are the powers that shape a person before they turn inward. By the
+      end of this act, the Fool has assembled every tool the outer world
+      can offer. It is not enough.
+    steps:
+      - the-fool
+      - the-magician
+      - the-high-priestess
+      - the-empress
+      - the-emperor
+      - the-hierophant
+      - the-lovers
+      - the-chariot
+
+  - id: act-2
+    name: "Act II: The Inward Turn"
+    description: >
+      The tools of the outer world fail. Strength cannot be forced. Wisdom
+      requires solitude. Fate cannot be controlled. Justice demands honesty.
+      Surrender reveals what resistance hid. Something must die. Something
+      must be integrated. This act is the dark night — the necessary
+      dissolution of the self the Fool built in Act I.
+    steps:
+      - strength
+      - the-hermit
+      - wheel-of-fortune
+      - justice
+      - the-hanged-man
+      - death
+      - temperance
+
+  - id: act-3
+    name: "Act III: The Cosmic"
+    description: >
+      The Fool confronts forces larger than the personal self — bondage,
+      catastrophe, hope, fear, joy, reckoning, and finally wholeness. These
+      are not lessons to be learned but thresholds to be crossed. Each one
+      strips away another layer of separation between the self and the whole.
+      At the end, the Fool dances — and is ready to begin again.
+    steps:
+      - the-devil
+      - the-tower
+      - the-star
+      - the-moon
+      - the-sun
+      - judgement
+      - the-world
+
+steps:
+  # ============================================================
+  # ACT I: THE WORLDLY
+  # ============================================================
+
+  - id: the-fool
+    card: major-00
+    title: null
+    narrative: >
+      A youth stands at the edge of a cliff. A small white dog leaps at his
+      heels — warning or playing, it's impossible to tell. He carries a white
+      rose in one hand and a knapsack on a stick in the other. Everything he
+      owns. Everything he needs. He does not look down.
+
+
+      He has no number, no name, no history. He is pure potential — the moment
+      before the first step, when every path is still possible. The mountains
+      behind him are where he came from. He has already turned away from them.
+      The cliff ahead is not a danger to him because he does not yet know what
+      danger is.
+
+
+      He steps forward.
+    transition: >
+      The step is taken. The fall or the flight begins. And the first person
+      the Fool meets is someone who seems to have all the answers.
+    reflection: >
+      When was the last time you stepped forward without knowing where you
+      were going? What made it possible — ignorance, courage, or something
+      else?
+    aside: >
+      The Fool is numbered 0 — not 1. He exists before the sequence begins
+      and after it ends. In the Golden Dawn system, he is assigned to Aleph,
+      the first Hebrew letter, and to the element of Air. He is breath before
+      speech, potential before act. Some traditions place him between Judgement
+      (20) and The World (21), making him the final surrender rather than the
+      first step. Both placements are correct — the Fool is the card that
+      exists outside the story while also being the one who walks through it.
+
+  - id: the-magician
+    card: major-01
+    title: null
+    narrative: >
+      Before a table laid with four tools — a wand, a cup, a sword, a pentacle
+      — stands a figure with one hand raised to heaven and one pointing to
+      earth. Above his head, the lemniscate: infinity. Around him, a garden in
+      full bloom.
+
+
+      "As above, so below," the Magician tells the Fool. And the Fool
+      understands, for the first time, that the world responds to intention.
+      That the four elements can be wielded. That will, properly directed,
+      shapes reality.
+
+
+      The Fool discovers agency. He picks up the tools. He believes — rightly,
+      for now — that he can do anything.
+    transition: >
+      But the Magician only showed him how to act. There is another kind of
+      power — one that doesn't move, doesn't speak, doesn't reach. The Fool
+      has not yet met it.
+    reflection: >
+      What tools do you already have that you're not using? And — more
+      dangerously — do you believe that will alone is sufficient?
+    aside: >
+      The Magician is assigned to Beth (ב), the second Hebrew letter, meaning
+      "house." He is Mercury — communication, skill, the ability to translate
+      between realms. Note that his four tools are the four suits of the Minor
+      Arcana. The Magician doesn't just use the elements — he IS the deck's
+      announcement that the game is afoot.
+
+  - id: the-high-priestess
+    card: major-02
+    title: null
+    narrative: >
+      Between two pillars — one black, one white — a woman sits in silence.
+      A veil hangs behind her, embroidered with pomegranates. A scroll rests
+      half-hidden in her lap. She does not rise. She does not speak. She does
+      not invite.
+
+
+      The Fool, fresh from the Magician's lesson in will and action, is
+      confused. She seems to do nothing. But in her stillness, he senses
+      something vast — a knowing that doesn't come from thinking, a power
+      that doesn't come from doing.
+
+
+      He learns: not all wisdom is spoken. Not all power is active. Some
+      knowledge waits in silence for those patient enough to receive it.
+    transition: >
+      The Priestess showed him depth. But the Fool is young and drawn to
+      the world of form. What has been intuited must now be made flesh.
+    reflection: >
+      What do you know that you learned not by studying or trying, but by
+      being still? Do you trust that knowledge as much as what you can prove?
+    aside: >
+      The Priestess sits between Boaz and Jachin — the pillars of Solomon's
+      Temple, representing severity and mercy, the manifest and unmanifest.
+      She is assigned to Gimel (ג), the path that crosses the Abyss on the
+      Tree of Life, connecting Kether (pure being) to Tiphareth (the heart).
+      This is the highest path a human consciousness can walk. The Fool
+      crosses it here, at step two, without knowing what he's done.
+
+  - id: the-empress
+    card: major-03
+    title: null
+    narrative: >
+      A garden — lush, overflowing, almost excessive. Wheat grows at her feet.
+      A river flows behind her. She sits on cushions, crowned with twelve
+      stars, and she is pregnant with everything. The shield at her side bears
+      the symbol of Venus.
+
+
+      The Empress does not teach the way the Magician taught. She doesn't show
+      or explain. She nourishes. The Fool learns that the world is generous —
+      that growth is natural, that abundance doesn't have to be earned, that
+      the body is not separate from the spirit.
+
+
+      He discovers pleasure, fertility, the creative force that doesn't need
+      a wand or a tool — only soil, water, and time.
+    transition: >
+      But a garden without a fence is a wilderness. Growth without structure
+      is chaos. The Fool has felt abundance — now he must learn what gives
+      it shape.
+    reflection: >
+      Where in your life do you allow yourself to simply receive? Where do
+      you insist on earning what could be freely given?
+    aside: >
+      The Empress is Venus — love, beauty, desire — assigned to Daleth (ד),
+      meaning "door." She is the door between the supernal triad (the divine
+      realm of Kether, Chokmah, Binah) and the world of form below. If the
+      Priestess holds the secret, the Empress births it into matter. In
+      Jungian terms, she is the Great Mother — the archetype of unconditional
+      nurturing that every psyche requires before it can tolerate the
+      structure of the Father.
+
+  - id: the-emperor
+    card: major-04
+    title: null
+    narrative: >
+      A stone throne on a barren mountain. No garden here — only rock, red
+      robes, and a figure who has made the wilderness into a kingdom by
+      force of will. Rams' heads adorn the throne. He holds an ankh in one
+      hand, an orb in the other. His gaze is direct and unyielding.
+
+
+      "Without structure, nothing endures," the Emperor tells the Fool.
+      And the Fool — still drunk on the Empress's abundance — resists, then
+      understands. The river needs banks. The garden needs walls. Freedom
+      without form is just noise.
+
+
+      He learns order, authority, consequence. He learns that boundaries
+      are not the enemy of life but the condition for it.
+    transition: >
+      The Emperor built the walls. But who decides what the walls mean?
+      What stories are told inside them? The Fool has structure — now he
+      needs tradition.
+    reflection: >
+      What boundaries in your life feel like protection? Which ones feel
+      like prisons? Is there a difference, or just a difference in how
+      you relate to them?
+    aside: >
+      The Emperor is Aries — cardinal fire, initiative, the ram that
+      charges forward. Assigned to Heh (ה), meaning "window" — structure
+      that lets you see through it. Note the barren landscape: the Emperor
+      rules where the Empress does not grow. They need each other. The
+      ankh (life) in his hand is a reminder that even the most rigid
+      authority serves the living.
+
+  - id: the-hierophant
+    card: major-05
+    title: null
+    narrative: >
+      Inside a temple. Two acolytes kneel before a figure in papal robes,
+      one hand raised in blessing, two crossed keys at his feet. The pillars
+      are grey — not black and white like the Priestess's. The doctrine here
+      is not hidden. It is taught openly, to those who kneel.
+
+
+      The Fool enters the temple and learns that he belongs to something
+      older than himself. Belief, culture, doctrine — the inherited meanings
+      that connect one generation to the next. Not every truth must be
+      discovered firsthand. Some are received.
+
+
+      He accepts tradition. He joins. He belongs.
+    transition: >
+      But belonging has a price. The temple tells you what to believe. It
+      does not ask what you feel. The Fool has accepted the group's truth —
+      now he faces a truth that is entirely his own.
+    reflection: >
+      What did you inherit — beliefs, values, ways of being — that you
+      accepted before you chose? Which of those still serve you? Which
+      ones did you keep out of loyalty rather than conviction?
+    aside: >
+      The Hierophant is the outer church; the High Priestess is the inner
+      mystery. Both are spiritual authorities, but through opposite modes.
+      He is Taurus — fixed earth, the institution that endures. Assigned to
+      Vav (ו), meaning "nail" or "hook" — the thing that connects. The two
+      keys are traditionally the keys of heaven and earth, doctrine and
+      mystery. Note that they lie at his feet, not in his hands. He teaches
+      the doctrine; whether he holds the mystery is an open question.
+
+  - id: the-lovers
+    card: major-06
+    title: null
+    narrative: >
+      Beneath a great angel, two figures stand naked in a garden. Behind one,
+      the Tree of Life. Behind the other, the Tree of Knowledge, with the
+      serpent coiled in its branches. The angel's hands are open. No one is
+      being told what to choose.
+
+
+      The Fool stands at a crossroads. Not just between lovers — between
+      paths, between selves, between the life prescribed and the life desired.
+      The angel does not choose for him. The garden offers both trees.
+
+
+      He learns that choice defines identity. That to love is to choose.
+      That every yes is also a no. He chooses — and in choosing, becomes
+      someone specific rather than someone potential.
+    transition: >
+      He has chosen. But a choice without the power to pursue it is just a
+      wish. The Fool needs momentum. He needs to harness everything he's
+      learned and drive it forward.
+    reflection: >
+      What choice have you made that most defined who you became? What did
+      you give up to make it? Would you choose the same again?
+    aside: >
+      The Lovers is Gemini — duality, communication, the twins. Assigned to
+      Zayin (ז), meaning "sword." The choice IS the sword — it separates
+      one future from another. Note that the man looks at the woman and the
+      woman looks at the angel. The chain of aspiration: desire reaches
+      toward love; love reaches toward the divine. Each level sees only
+      the one above it.
+
+  - id: the-chariot
+    card: major-07
+    title: null
+    narrative: >
+      A prince in armor rides a chariot pulled by two sphinxes — one black,
+      one white. He holds no reins. The city is behind him; the road ahead
+      is open. A canopy of stars shelters him. He does not doubt his
+      direction.
+
+
+      The Fool takes the reins of his own life. Everything Act I has given
+      him — will, intuition, abundance, structure, tradition, love — he now
+      drives forward as a unified force. The opposing sphinxes do not pull
+      apart because his will is strong enough to direct them.
+
+
+      He discovers personal agency at its peak. He is the hero of his own
+      story, armored and moving. This is triumph.
+    transition: >
+      But the Chariot only moves forward. It cannot stop, cannot turn inward,
+      cannot be still. The Fool has mastered the outer world — and now the
+      outer world is no longer enough. What conquers a kingdom cannot
+      conquer the self. The armor must come off.
+    reflection: >
+      What have you conquered through sheer will? Did the victory satisfy
+      you, or did it reveal a deeper hunger that willpower alone can't feed?
+    aside: >
+      The Chariot is Cancer — cardinal water, the hard shell that protects
+      the soft interior. Assigned to Cheth (ח), meaning "fence" or
+      "enclosure." The Chariot is the last card of Act I because it
+      represents the completion of the ego's toolkit. After this, every
+      lesson will require the Fool to let go of something rather than
+      acquire it. The sphinxes echo the Priestess's pillars — black and
+      white, severity and mercy — but here they are harnessed. The question
+      Act II will ask: at what cost?
+
+  # ============================================================
+  # ACT II: THE INWARD TURN
+  # ============================================================
+
+  - id: strength
+    card: major-08
+    title: null
+    narrative: >
+      No armor. No chariot. A woman in a white dress gently closes the jaws
+      of a lion. Above her head, the lemniscate — the same infinity that
+      crowned the Magician. But where the Magician channeled power through
+      tools and will, she channels it through patience and presence.
+
+
+      The Fool's first lesson of Act II: power is not domination. The lion
+      does not submit because he is weaker — he submits because her calm is
+      deeper than his rage. She does not fight the beast. She meets it.
+
+
+      Courage becomes softness. Strength becomes gentleness. The Fool begins
+      to suspect that everything he learned in Act I was only half the truth.
+    transition: >
+      She tamed the lion — but she didn't explain how. The Fool needs to
+      understand. And understanding, he's learning, requires being alone.
+    reflection: >
+      Where have you tried to force what could only be gentled? What in
+      your life — what instinct, what fear, what desire — needs to be met
+      with calm rather than conquered with will?
+    aside: >
+      Strength is Leo — fixed fire — and the shift from card 7 (Cancer,
+      the shell) to card 8 (Leo, the heart) is the Fool's pivot from
+      protection to vulnerability. The lemniscate connects Strength to the
+      Magician: same infinite power, radically different expression. In some
+      decks (Marseille, Thoth), Strength and Justice are swapped — card 8
+      and card 11 trade places. Waite's choice to put Strength here was
+      deliberate: after the Chariot's conquest, the first lesson must be
+      that real power looks nothing like what the Chariot demonstrated.
+
+  - id: the-hermit
+    card: major-09
+    title: null
+    narrative: >
+      A grey-robed figure stands on a mountain peak, alone. He carries a
+      lantern in one hand — inside it, a six-pointed star. A staff in the
+      other. Snow below. Darkness around. He is not lost. He chose this.
+
+
+      The Fool follows the Hermit into solitude and discovers that some
+      wisdom can only be found in withdrawal. The lantern illuminates just
+      enough — one step ahead, no more. The Hermit doesn't promise answers.
+      He demonstrates the willingness to look for them alone.
+
+
+      The Fool learns: wisdom requires withdrawal. Not as escape, but as
+      discipline. You cannot hear the quiet voice if you never stop talking.
+    transition: >
+      The Hermit found wisdom in solitude. But the mountain doesn't care
+      about wisdom. The next lesson is that not everything bends to
+      understanding — some forces simply turn.
+    reflection: >
+      What have you learned only by being alone? Is there a question you're
+      carrying that can't be answered in company?
+    aside: >
+      The Hermit is Virgo — mutable earth, the analyst, the servant. Assigned
+      to Yod (י), the smallest Hebrew letter, the divine spark. The lantern's
+      six-pointed star is the hexagram — union of fire and water, above and
+      below. The Hermit stands where the Fool will eventually return in The
+      World: at the point where solitude and wholeness meet. His grey robe
+      is the color of wisdom — between black and white, having absorbed both.
+
+  - id: wheel-of-fortune
+    card: major-10
+    title: null
+    narrative: >
+      A great wheel turns in the sky. On it ride three figures — one
+      ascending, one at the top, one falling. In the corners, the four
+      living creatures read from books. The sphinx sits at the top of
+      the wheel, unmoving. The snake descends on the left. Anubis
+      rises on the right.
+
+
+      The Fool, who has been building agency since card 1, confronts
+      a truth that undoes all his effort: the wheel turns regardless.
+      Kings fall. Beggars rise. Not all events bend to will. Fate is
+      real, and it moves on its own schedule.
+
+
+      He does not learn to control the wheel. He learns to ride it.
+    transition: >
+      The wheel turns without regard for merit. But the Fool suspects
+      there is a pattern — that cause and effect, even when delayed,
+      still apply. He seeks balance. He seeks justice.
+    reflection: >
+      When has your life changed in ways you didn't choose? Did you
+      resist, adapt, or both? What's the difference between accepting
+      fate and giving up?
+    aside: >
+      The Wheel is Jupiter — expansion, luck, the turning of fortune.
+      Assigned to Kaph (כ), meaning "palm of the hand" — what grasps
+      and what releases. The four creatures (lion, bull, eagle, man)
+      are the same four that appear in The World (card 21). Here they
+      read — they're still learning. There they witness — they've
+      understood. The sphinx at the top holds a sword: even at the
+      peak, discernment is required. The wheel is also numbered 10 —
+      the first return to 1 (1+0). The cycle announces itself.
+
+  - id: justice
+    card: major-11
+    title: null
+    narrative: >
+      A figure sits between pillars, holding a sword in one hand and
+      scales in the other. The sword is raised; the scales are level.
+      The veil behind is the same veil as the Priestess's — but here,
+      what it conceals is your own accounting.
+
+
+      The Fool stands before Justice and is stripped of excuses. Every
+      action has weight. Every choice from Act I — the tools he picked up,
+      the traditions he accepted, the love he chose, the conquests he made
+      — is placed on the scales. Not to punish. To balance.
+
+
+      He learns that truth is not optional. That consequences are not
+      punishment but structure. That the universe keeps accounts.
+    transition: >
+      The scales are balanced. But balance is not transformation. The Fool
+      has been weighed — now he must be unmade. The next card will ask him
+      to stop fighting entirely.
+    reflection: >
+      If your life were weighed right now — honestly, without defense —
+      what would tip the scales? Not guilt, but clarity: what's actually
+      there?
+    aside: >
+      Justice is Libra — cardinal air, the scales, the relationship between
+      actions and consequences. Assigned to Lamed (ל), meaning "ox-goad" —
+      the prod that keeps you moving in the right direction. Waite swapped
+      Justice and Strength from their Marseille positions (8 and 11) to
+      align them with astrological order on the Tree of Life. The sword is
+      truth; the scales are balance. Note that she doesn't lean — she's
+      centered. Justice is not mercy; it's accuracy.
+
+  - id: the-hanged-man
+    card: major-12
+    title: null
+    narrative: >
+      A man hangs upside down from a living tree, one leg crossed behind
+      the other, forming a figure four. His face is calm. A halo of light
+      surrounds his head. He is not struggling. He is not suffering.
+      He chose this.
+
+
+      The Fool, who has been moving forward since card 0, stops. Not
+      because he's blocked — because he surrenders. The Hanged Man
+      teaches the most counterintuitive lesson of the journey: sometimes
+      the way forward is to stop moving. To invert your perspective. To
+      let go of the need to act.
+
+
+      In suspension, everything he thought he knew rearranges. Hanging
+      upside down, the world looks different. It was always this way.
+      He just couldn't see it while he was standing.
+    transition: >
+      He has surrendered. He has seen differently. And what he sees, clearly
+      now, is that something in him must die. Not metaphorically. The old
+      self cannot continue.
+    reflection: >
+      What would change if you stopped trying to fix your current situation
+      and simply hung in it? What might you see from the inverted position
+      that you can't see from where you stand?
+    aside: >
+      The Hanged Man is assigned to Mem (מ), meaning "water" — the element
+      of the unconscious, the dissolving of fixed structures. He hangs from
+      the Tau cross (the letter Tav, assigned to The World — card 21). He
+      is suspended from the ending, looking back at the journey. The figure
+      four formed by his legs is the Emperor's number — structure voluntarily
+      inverted. Odin hung from Yggdrasil for nine days to gain the runes.
+      The Hanged Man is that same bargain: wisdom purchased with surrender.
+
+  - id: death
+    card: major-13
+    title: null
+    narrative: >
+      A skeleton in black armor rides a white horse through a fallen
+      kingdom. A king lies dead. A bishop pleads. A maiden kneels. A child
+      offers flowers. The skeleton carries a black flag with a white rose —
+      the same rose the Fool carried in card 0, now on the banner of
+      Death itself.
+
+
+      The Fool cannot carry the old self further. Everything he built,
+      everything he identified with, everything he thought he was — the
+      Magician's will, the Emperor's structure, the Chariot's momentum —
+      must fall. Not because it was wrong. Because it was a stage, and
+      the stage is over.
+
+
+      Something dies. The Fool does not know yet what will grow in its
+      place. That is the terror, and the promise.
+    transition: >
+      The death has happened. The old self is gone. But the Fool is still
+      here — raw, stripped, undefined. What comes after death is not
+      immediately life. First comes the slow, careful work of integration.
+    reflection: >
+      What version of yourself has already died — a role, a belief, an
+      identity you held? What grew in the space it left? And what in you
+      is dying now that you haven't yet acknowledged?
+    aside: >
+      Death is Scorpio — fixed water, transformation, the power that
+      destroys in order to regenerate. Assigned to Nun (נ), meaning "fish"
+      — the creature that lives in water, in the unconscious, invisible
+      from above. The white rose on the black flag is the Fool's rose
+      transformed: innocence doesn't die, it changes form. The white horse
+      is purity — the same horse the Sun's child will ride in card 19.
+      Death is not the enemy of life; it is the mechanism by which life
+      renews itself. Card 13 — traditionally unlucky, deliberately so.
+      Fear of this card is fear of the process it depicts, which is
+      exactly why it's necessary.
+
+  - id: temperance
+    card: major-14
+    title: null
+    narrative: >
+      An angel stands with one foot on land and one in water, pouring a
+      stream between two cups. The liquid flows upward — defying gravity,
+      defying logic. On the angel's chest, a triangle within a square.
+      Behind, a winding path leads to a distant crown of light.
+
+
+      After Death stripped the Fool to nothing, Temperance begins the
+      work of putting him back together. Not as he was — as he is becoming.
+      Fire and water mix without destroying each other. Spirit and flesh
+      integrate. The opposites that defined Act I — action and stillness,
+      structure and flow, will and surrender — find a middle way.
+
+
+      The Fool learns that balance is not a compromise between extremes.
+      It is a third thing, born from their union.
+    transition: >
+      The integration is underway. The Fool is healing, becoming whole in
+      a new way. But wholeness has a shadow. Before he can complete the
+      journey, he must face what he's been avoiding — the chains he chose,
+      the lies he preferred, the parts of himself he would rather not own.
+    reflection: >
+      What opposites in yourself have you been treating as a war —
+      where one must win and the other lose? What would it look like to
+      let them pour into each other?
+    aside: >
+      Temperance is Sagittarius — mutable fire, the quest, the arrow aimed
+      at a distant target. Assigned to Samekh (ס), meaning "prop" or
+      "support" — the structure that holds while transformation occurs.
+      The triangle in the square is spirit (3) within matter (4) — the
+      formula of incarnation. The path behind the angel leads to Tiphareth
+      on the Tree of Life — the Sephirah of beauty, balance, and the
+      heart. Temperance is the last card of Act II because it represents
+      the Fool reassembled. What follows in Act III is not personal
+      development but transpersonal confrontation.
+
+  # ============================================================
+  # ACT III: THE COSMIC
+  # ============================================================
+
+  - id: the-devil
+    card: major-15
+    title: null
+    narrative: >
+      A horned figure crouches on a half-cube, wings spread. Below, two
+      naked humans — the same lovers from card 6 — stand chained to the
+      pedestal. But look: the chains are loose. They could remove them.
+      They don't.
+
+
+      The Fool recognizes himself. Not in the Devil — in the chained
+      figures. The bondage is chosen. The attachments he clings to —
+      comfort, habit, fear, pleasure, the story he tells about why he
+      can't change — are real chains with imaginary locks.
+
+
+      The Devil doesn't imprison. He reveals that you were never forced.
+      You stayed because staying was easier than leaving.
+    transition: >
+      Recognition is not enough. Seeing the chains doesn't remove them.
+      Something more violent is needed — something that doesn't wait for
+      readiness or permission. The next card doesn't ask. It strikes.
+    reflection: >
+      What are you chained to that you could walk away from? Not what
+      you're unable to leave — what you're unwilling to. What comfort
+      does the chain provide?
+    aside: >
+      The Devil is Capricorn — cardinal earth, ambition, material power.
+      Assigned to Ayin (ע), meaning "eye" — specifically, the eye that
+      sees only surfaces. The half-cube he sits on is incomplete matter —
+      the material world mistaken for the whole of reality. The inverted
+      pentagram on his forehead is spirit (the fifth point) submerged
+      beneath the four elements. Compare him to the Hierophant (card 5):
+      same seated posture, same two figures kneeling before him, same
+      raised hand. The Devil is the Hierophant's shadow — institution
+      become bondage, tradition become trap.
+
+  - id: the-tower
+    card: major-16
+    title: null
+    narrative: >
+      Lightning strikes a stone tower from a dark sky. The crown at
+      its top is blown off. Two figures fall, head-first, through air
+      filled with flames shaped like the Hebrew letter Yod. The tower
+      was built on a rocky peak — as high as human ambition could raise
+      it. It is not high enough to withstand the bolt.
+
+
+      What the Devil revealed, the Tower destroys. No negotiation, no
+      gradual process, no readiness. The false structures — every
+      certainty the Fool mistook for truth, every identity he built on
+      unstable ground — shatter in a single flash.
+
+
+      The Fool falls. But in the flash of lightning, for one terrible
+      instant, he sees everything clearly.
+    transition: >
+      The rubble settles. The smoke clears. And in the darkness after
+      the explosion, the Fool looks up — and sees a single, quiet light.
+    reflection: >
+      When has your life been struck by lightning — a sudden, unwanted
+      revelation that destroyed something you'd built? What did you see
+      in the flash? What grew in the rubble?
+    aside: >
+      The Tower is Mars — destructive force, the energy that breaks.
+      Assigned to Peh (פ), meaning "mouth" — the word that shatters
+      illusion, the truth spoken aloud that brings down the house. The
+      22 Yod-flames are the 22 Major Arcana themselves — even in
+      destruction, the sacred alphabet rains down. The Tower is the
+      only card in the deck where the destruction is entirely external
+      and involuntary. Death asked for transformation; the Tower doesn't
+      ask. It arrives.
+
+  - id: the-star
+    card: major-17
+    title: null
+    narrative: >
+      A woman kneels, naked, by a still pool under a sky of stars. One
+      great star radiates above, surrounded by seven smaller ones. She
+      pours water from two pitchers — one onto the land, one into the
+      pool. She is entirely exposed. She is entirely at peace.
+
+
+      After the Tower's violence, the Star is almost unbearably gentle.
+      The Fool learns that hope is not optimism — not a belief that
+      things will work out, but a willingness to pour yourself out
+      anyway. She holds nothing back. She doesn't measure what she gives
+      against what she'll receive.
+
+
+      He learns: vulnerability, after catastrophe, is not weakness.
+      It is the first sign of genuine strength.
+    transition: >
+      The Star gave him hope. But the night is not over. The light she
+      offers is enough to see by — just enough to enter the next
+      darkness, which is deeper and stranger than any that came before.
+    reflection: >
+      After your own Tower moments, what gave you hope? Not what
+      *should* have given you hope — what actually did? Was it large
+      or small?
+    aside: >
+      The Star is Aquarius — fixed air, the water-bearer, the one who
+      pours for the collective. Assigned to Tzaddi (צ), meaning
+      "fishhook" — what draws things up from the depths. Note that she
+      is the third naked figure in the deck (after the Lovers and the
+      Devil's captives). Each nakedness means something different:
+      innocence, bondage, authenticity. The Star's nakedness is
+      post-Tower — she has nothing left to hide behind and has
+      discovered that hiding was never necessary.
+
+  - id: the-moon
+    card: major-18
+    title: null
+    narrative: >
+      A path winds between two towers, past a dog and a wolf, away from
+      a pool where a crayfish emerges. The moon hangs in the sky with a
+      face turned sideways — half-seeing, half-dreaming. Drops of light
+      fall like dew. Nothing is clear. Nothing is certain.
+
+
+      The Fool walks into the unconscious. Not the gentle stillness of
+      the Priestess — the full, disorienting immersion. Shadows move.
+      Shapes shift. The dog (his civilized self) and the wolf (his
+      instinct) both howl, because under the Moon's light neither one
+      is in control.
+
+
+      He walks without clarity. He cannot think his way through this.
+      He can only walk, and trust that the path, however winding,
+      leads somewhere.
+    transition: >
+      The path does lead somewhere. The Moon's darkness is not permanent
+      — it is the last darkness. Beyond the towers, beyond the howling,
+      beyond the fear, something is rising.
+    reflection: >
+      What fear have you walked through without understanding — where
+      the only option was to keep going? What did you find on the
+      other side?
+    aside: >
+      The Moon is Pisces — mutable water, the last sign of the zodiac,
+      dissolution before renewal. Assigned to Qoph (ק), meaning "back
+      of the head" — the part of the brain you can't see, the
+      unconscious processing that happens behind awareness. The crayfish
+      is the most ancient creature in the deck — pre-mammalian,
+      pre-verbal, armored. It represents psychic content so old it
+      predates language. The path from the pool to the towers is the
+      journey from the deepest unconscious to the threshold of
+      consciousness. The Moon is the deck's most frightening card not
+      because something terrible happens, but because nothing is certain.
+
+  - id: the-sun
+    card: major-19
+    title: null
+    narrative: >
+      A child rides a white horse beneath an enormous, radiant sun.
+      Behind them, a wall. Before them, open space. Sunflowers turn
+      toward the light. The child's arms are open. The child is naked,
+      laughing, free.
+
+
+      After the Moon's darkness, everything is clear. The Sun does not
+      complicate. It does not teach a lesson. It simply shines, and in
+      its light the Fool rediscovers joy — not the innocent joy of
+      card 0, who didn't know what darkness was, but the conscious joy
+      of someone who has walked through darkness and come out the other
+      side.
+
+
+      The child is not naive. The child is free. There is a difference,
+      and it cost the entire journey to learn it.
+    transition: >
+      Joy is real. Clarity is real. But one thing remains before the
+      Fool can dance — he must face himself. Not the shadow self, not
+      the unconscious self. The whole self. Everything he has been.
+    reflection: >
+      What does joy feel like when it's earned — when it comes after
+      difficulty rather than before it? Is it the same joy, or
+      something different?
+    aside: >
+      The Sun is assigned to Resh (ר), meaning "head" — consciousness
+      itself, the faculty of awareness. Note the white horse: it's the
+      same horse Death rode in card 13. Death's horse carried the end
+      of the old self; the Sun's horse carries the new self's
+      celebration. Same animal, different rider. The four sunflowers
+      are the four suits, the four elements — all oriented toward the
+      light, all in harmony. The wall is the garden wall — structure
+      that protects rather than imprisons. After the Tower destroyed
+      the false wall, the Sun reveals the true one.
+
+  - id: judgement
+    card: major-20
+    title: null
+    narrative: >
+      A trumpet sounds from the sky. An angel — Gabriel — descends in
+      a cloud of fire. Below, grey figures rise from open coffins that
+      float on water. A man, a woman, a child. Their arms are raised.
+      Not in fear. In answer.
+
+
+      The Fool hears the call. Not a command — a summons. Everything
+      he has been, everything he has done, every version of himself
+      that lived and died along the way — rises to be seen. This is
+      not punishment. This is reckoning: the moment you look at your
+      whole life with clear eyes and decide what it meant.
+
+
+      He answers. He rises. He is ready.
+    transition: >
+      The reckoning is complete. The account is clear. There is nothing
+      left to carry, hide from, atone for, or become. There is only
+      the dance.
+    reflection: >
+      If you heard the trumpet now — if you were called to account for
+      everything you've been — would you rise willingly? What would
+      you want to be seen?
+    aside: >
+      Judgement is assigned to Shin (ש), meaning "tooth" — that which
+      devours, breaks down, and transforms. It is the element of Fire
+      and the letter with three flames (three prongs of the Shin
+      correspond to the three figures rising). The coffins float on
+      water (the unconscious); the figures rise into air (consciousness);
+      they're called by fire (spirit). Only earth is missing — because
+      earth is what they're leaving. The red cross on the banner is
+      the same cross from Death's flag: what Death initiated, Judgement
+      completes.
+
+  - id: the-world
+    card: major-21
+    title: null
+    narrative: >
+      A dancer floats within a great laurel wreath, holding a wand in
+      each hand. In the four corners, the living creatures — lion, bull,
+      eagle, angel — the same four that watched from the corners of the
+      Wheel of Fortune. But they are no longer reading. They are
+      witnessing.
+
+
+      The Fool dances. Not because the journey is over — because the
+      journey is him. Every card, every lesson, every death and rebirth
+      and terror and joy is woven into the wreath that surrounds him.
+      The two wands balance what the Magician could only point in one
+      direction. The nakedness is the Star's authenticity. The dance is
+      what Temperance was working toward.
+
+
+      He is whole. Not perfect — whole. The wreath is an oval. The oval
+      is a zero. And at the edge of completion, he looks up, and he is
+      once again —
+    transition: null
+    reflection: >
+      The Fool's Journey is a circle. Where are you on it? Not where
+      you'd like to be — where are you actually standing? And can you
+      love that position, even if it's the Tower, even if it's the Moon,
+      knowing it's part of the dance?
+    aside: >
+      The World is Saturn — the planet of endings, limits, and mastery.
+      Assigned to Tav (ת), the last Hebrew letter — the completion of
+      the alphabet. The dancer is often read as androgynous, containing
+      both masculine and feminine. The wreath is a vesica piscis — the
+      sacred geometric shape formed by two overlapping circles, symbol
+      of creation itself. The red ribbons tying the wreath form a
+      lemniscate: the same infinity from the Magician's head, now
+      binding the whole journey into a single, endless loop. The four
+      creatures watched from the Wheel; now they witness from the World.
+      They were learning; now they know. And the Fool — numberless,
+      nameless, still carrying nothing — steps forward again.
+
+connections:
+  - walk: descent-and-return
+    relationship: deepens
+    description: >
+      The Descent and Return walk explores the specific cards where the Fool
+      goes underground — Priestess, Hanged Man, Death, Moon — in greater
+      depth, treating them as a single mythic pattern rather than stages
+      in a linear journey.
+  - walk: shadow-walk
+    relationship: counterpoint
+    description: >
+      The Shadow Walk pairs cards that the Fool's Journey presents
+      sequentially, revealing them as mirrors — Lovers/Devil,
+      Magician/High Priestess, Tower/Star. What the Fool experiences
+      as a story, the Shadow Walk reveals as a set of polarities.
+  - walk: tree-ascent
+    relationship: counterpoint
+    description: >
+      The Tree of Life Ascent walks the Major Arcana in reverse — from
+      The World (Malkuth) up to The Fool (Kether). Where the Fool's
+      Journey is descent into manifestation, the Tree Ascent is the
+      return to source. Same cards, opposite direction, different meaning.
