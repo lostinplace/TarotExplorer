@@ -2,8 +2,8 @@ import { defineConfig } from 'vite';
 
 import vitePluginYaml from '@modyfi/vite-plugin-yaml';
 
-export default defineConfig({
-  base: '/TarotExplorer/',
+export default defineConfig(async ({ command }) => ({
+  base: command === 'build' ? '/TarotExplorer/' : '/',
   plugins: [
     vitePluginYaml(),
   ],
@@ -14,4 +14,4 @@ export default defineConfig({
       ],
     },
   },
-});
+}));

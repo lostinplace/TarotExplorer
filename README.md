@@ -4,8 +4,6 @@ An interactive study tool for the Rider-Waite-Smith tarot deck. Not a fortune-te
 
 **[Live Demo →](https://lostinplace.github.io/TarotExplorer/)**
 
-![Tarot Explorer — Tree of Life Map](docs/screenshot-tree.png)
-
 ---
 
 ## What This Is
